@@ -1,0 +1,146 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_eigen_1_1internal_1_1noncopyable.html" title=" " alt="" coords="5,2404,192,2431"/>
+<area shape="rect" id="node2" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="277,252,463,308"/>
+<area shape="rect" id="node5" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="285,332,455,388"/>
+<area shape="rect" id="node8" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="285,412,455,468"/>
+<area shape="rect" id="node11" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="285,492,455,548"/>
+<area shape="rect" id="node14" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="285,572,455,628"/>
+<area shape="rect" id="node17" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="240,652,500,708"/>
+<area shape="rect" id="node20" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="275,733,465,803"/>
+<area shape="rect" id="node22" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="280,828,460,884"/>
+<area shape="rect" id="node24" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="257,908,483,964"/>
+<area shape="rect" id="node27" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="276,988,464,1044"/>
+<area shape="rect" id="node30" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="281,1068,459,1124"/>
+<area shape="rect" id="node33" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="273,1149,467,1190"/>
+<area shape="rect" id="node36" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="276,1215,464,1271"/>
+<area shape="rect" id="node39" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="281,1295,459,1351"/>
+<area shape="rect" id="node42" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="273,1375,467,1417"/>
+<area shape="rect" id="node45" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="281,1441,459,1482"/>
+<area shape="rect" id="node47" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="255,1507,485,1563"/>
+<area shape="rect" id="node50" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="267,1587,473,1643"/>
+<area shape="rect" id="node53" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="271,1667,469,1723"/>
+<area shape="rect" id="node56" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="281,3917,459,3973"/>
+<area shape="rect" id="node58" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="279,1747,461,1803"/>
+<area shape="rect" id="node60" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="275,1827,465,1869"/>
+<area shape="rect" id="node63" href="$class_eigen_1_1_sparse_solver_base.html" title=" " alt="" coords="265,1893,475,1934"/>
+<area shape="rect" id="node65" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="256,1959,484,2015"/>
+<area shape="rect" id="node70" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="251,2247,489,2303"/>
+<area shape="rect" id="node75" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="288,2487,452,2529"/>
+<area shape="rect" id="node80" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="253,2563,487,2619"/>
+<area shape="rect" id="node82" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="279,2661,461,2717"/>
+<area shape="rect" id="node84" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="267,2777,473,2833"/>
+<area shape="rect" id="node87" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="251,2931,489,2987"/>
+<area shape="rect" id="node89" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="271,3016,469,3072"/>
+<area shape="rect" id="node92" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="250,3096,490,3152"/>
+<area shape="rect" id="node94" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="266,3179,474,3235"/>
+<area shape="rect" id="node96" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="288,3341,452,3382"/>
+<area shape="rect" id="node101" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="279,3668,461,3724"/>
+<area shape="rect" id="node107" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="250,3997,490,4053"/>
+<area shape="rect" id="node109" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="250,4086,490,4127"/>
+<area shape="rect" id="node112" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="259,4165,481,4221"/>
+<area shape="rect" id="node115" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="253,4285,487,4341"/>
+<area shape="rect" id="node117" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="257,4385,483,4441"/>
+<area shape="rect" id="node119" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="247,4467,493,4509"/>
+<area shape="rect" id="node122" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="277,4536,463,4592"/>
+<area shape="rect" id="node124" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="281,4639,459,4695"/>
+<area shape="rect" id="node126" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="259,4722,481,4763"/>
+<area shape="rect" id="node129" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="263,4787,477,4829"/>
+<area shape="rect" id="node132" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="261,4853,479,4909"/>
+<area shape="rect" id="node134" href="$class_eigen_1_1_sparse_solver_base.html" title="A base class for sparse solvers." alt="" coords="285,5265,455,5306"/>
+<area shape="rect" id="node141" href="$class_eigen_1_1internal_1_1aligned__stack__memory__handler.html" title=" " alt="" coords="273,4934,467,4975"/>
+<area shape="rect" id="node142" href="$struct_eigen_1_1internal_1_1evaluator__base.html" title=" " alt="" coords="283,4999,457,5041"/>
+<area shape="rect" id="node143" href="$class_eigen_1_1internal_1_1scoped__array.html" title=" " alt="" coords="293,186,447,227"/>
+<area shape="rect" id="node3" href="$class_eigen_1_1_iterative_solver_base.html" title=" " alt="" coords="601,5,788,61"/>
+<area shape="rect" id="node4" href="$class_eigen_1_1_bi_c_g_s_t_a_b.html" title="A bi conjugate gradient stabilized solver for sparse square problems." alt="" coords="907,13,1090,54"/>
+<area shape="rect" id="node6" href="$class_eigen_1_1_cholmod_base.html" title=" " alt="" coords="609,86,780,157"/>
+<area shape="rect" id="node7" href="$class_eigen_1_1_cholmod_decomposition.html" title="A general Cholesky factorization and solver based on Cholmod." alt="" coords="899,101,1099,142"/>
+<area shape="rect" id="node9" href="$class_eigen_1_1_cholmod_base.html" title=" " alt="" coords="609,181,780,251"/>
+<area shape="rect" id="node10" href="$class_eigen_1_1_cholmod_simplicial_l_d_l_t.html" title="A simplicial direct Cholesky (LDLT) factorization and solver based on Cholmod." alt="" coords="903,195,1095,237"/>
+<area shape="rect" id="node12" href="$class_eigen_1_1_cholmod_base.html" title=" " alt="" coords="609,275,780,346"/>
+<area shape="rect" id="node13" href="$class_eigen_1_1_cholmod_simplicial_l_l_t.html" title="A simplicial direct Cholesky (LLT) factorization and solver based on Cholmod." alt="" coords="907,290,1090,331"/>
+<area shape="rect" id="node15" href="$class_eigen_1_1_cholmod_base.html" title=" " alt="" coords="609,370,780,441"/>
+<area shape="rect" id="node16" href="$class_eigen_1_1_cholmod_supernodal_l_l_t.html" title="A supernodal Cholesky (LLT) factorization and solver based on Cholmod." alt="" coords="907,385,1090,426"/>
+<area shape="rect" id="node18" href="$class_eigen_1_1_iterative_solver_base.html" title=" " alt="" coords="581,465,809,521"/>
+<area shape="rect" id="node19" href="$class_eigen_1_1_conjugate_gradient.html" title="A conjugate gradient solver for sparse (or dense) self&#45;adjoint problems." alt="" coords="913,465,1084,521"/>
+<area shape="rect" id="node21" href="$class_eigen_1_1_incomplete_cholesky.html" title="Modified Incomplete Cholesky with dual threshold." alt="" coords="585,546,805,587"/>
+<area shape="rect" id="node23" href="$class_eigen_1_1_incomplete_l_u_t.html" title="Incomplete LU factorization with dual&#45;threshold strategy." alt="" coords="604,611,785,653"/>
+<area shape="rect" id="node25" href="$class_eigen_1_1_iterative_solver_base.html" title=" " alt="" coords="581,677,808,733"/>
+<area shape="rect" id="node26" href="$class_eigen_1_1_least_squares_conjugate_gradient.html" title="A conjugate gradient solver for sparse (or dense) least&#45;square problems." alt="" coords="898,677,1099,733"/>
+<area shape="rect" id="node28" href="$class_eigen_1_1_pardiso_impl.html" title=" " alt="" coords="601,757,789,813"/>
+<area shape="rect" id="node29" href="$class_eigen_1_1_pardiso_l_d_l_t.html" title="A sparse direct Cholesky (LDLT) factorization and solver based on the PARDISO library." alt="" coords="917,765,1080,806"/>
+<area shape="rect" id="node31" href="$class_eigen_1_1_pardiso_impl.html" title=" " alt="" coords="605,837,784,893"/>
+<area shape="rect" id="node32" href="$class_eigen_1_1_pardiso_l_l_t.html" title="A sparse direct Cholesky (LLT) factorization and solver based on the PARDISO library." alt="" coords="925,845,1072,886"/>
+<area shape="rect" id="node34" href="$class_eigen_1_1_pardiso_impl.html" title=" " alt="" coords="597,918,792,959"/>
+<area shape="rect" id="node35" href="$class_eigen_1_1_pardiso_l_u.html" title="A sparse direct LU factorization and solver based on the PARDISO library." alt="" coords="913,918,1084,959"/>
+<area shape="rect" id="node37" href="$class_eigen_1_1_pastix_base.html" title=" " alt="" coords="605,984,785,1040"/>
+<area shape="rect" id="node38" href="$class_eigen_1_1_pastix_l_d_l_t.html" title="A sparse direct supernodal Cholesky (LLT) factorization and solver based on the PaStiX library." alt="" coords="921,991,1076,1033"/>
+<area shape="rect" id="node40" href="$class_eigen_1_1_pastix_base.html" title=" " alt="" coords="609,1064,780,1120"/>
+<area shape="rect" id="node41" href="$class_eigen_1_1_pastix_l_l_t.html" title="A sparse direct supernodal Cholesky (LLT) factorization and solver based on the PaStiX library." alt="" coords="923,1071,1074,1113"/>
+<area shape="rect" id="node43" href="$class_eigen_1_1_pastix_base.html" title=" " alt="" coords="601,1145,788,1186"/>
+<area shape="rect" id="node44" href="$class_eigen_1_1_pastix_l_u.html" title="Interface to the PaStix solver." alt="" coords="913,1145,1084,1186"/>
+<area shape="rect" id="node46" href="$class_eigen_1_1_s_p_q_r.html" title="Sparse QR factorization based on SuiteSparseQR library." alt="" coords="597,1211,792,1237"/>
+<area shape="rect" id="node48" href="$class_eigen_1_1_simplicial_cholesky_base.html" title=" " alt="" coords="575,1261,814,1317"/>
+<area shape="rect" id="node49" href="$class_eigen_1_1_simplicial_cholesky.html" title=" " alt="" coords="912,1261,1085,1317"/>
+<area shape="rect" id="node51" href="$class_eigen_1_1_simplicial_cholesky_base.html" title=" " alt="" coords="581,1341,808,1397"/>
+<area shape="rect" id="node52" href="$class_eigen_1_1_simplicial_l_d_l_t.html" title="A direct sparse LDLT Cholesky factorizations without square root." alt="" coords="921,1341,1076,1397"/>
+<area shape="rect" id="node54" href="$class_eigen_1_1_simplicial_cholesky_base.html" title=" " alt="" coords="581,1421,809,1477"/>
+<area shape="rect" id="node55" href="$class_eigen_1_1_simplicial_l_l_t.html" title="A direct sparse LLT Cholesky factorizations." alt="" coords="921,1421,1076,1477"/>
+<area shape="rect" id="node57" href="$class_eigen_1_1_sparse_l_u.html" title="Sparse supernodal LU factorization for general matrices." alt="" coords="607,3925,782,3966"/>
+<area shape="rect" id="node59" href="$class_eigen_1_1_sparse_q_r.html" title="Sparse left&#45;looking rank&#45;revealing QR factorization." alt="" coords="605,1502,784,1543"/>
+<area shape="rect" id="node61" href="$class_eigen_1_1_super_l_u_base.html" title=" " alt="" coords="613,1568,776,1624"/>
+<area shape="rect" id="node62" href="$class_eigen_1_1_super_l_u.html" title="A sparse direct LU factorization and solver based on the SuperLU library." alt="" coords="895,1583,1103,1609"/>
+<area shape="rect" id="node64" href="$class_eigen_1_1_umf_pack_l_u.html" title="A sparse LU factorization and solver based on UmfPack." alt="" coords="623,1649,767,1690"/>
+<area shape="rect" id="node66" href="$struct_eigen_1_1internal_1_1binary__evaluator_3_01_cwise_binary_op_3_01_binary_op_00_01_lhs_00_009c1543c08828196fc8ade7d79a56c66.html" title=" " alt="" coords="575,1714,815,1785"/>
+<area shape="rect" id="node67" href="$struct_eigen_1_1internal_1_1binary__evaluator_3_01_cwise_binary_op_3_01_binary_op_00_01_lhs_00_0e1df6e69b5cafbc50d80e8ad3bfd660e.html" title=" " alt="" coords="575,1809,815,1879"/>
+<area shape="rect" id="node68" href="$struct_eigen_1_1internal_1_1binary__evaluator_3_01_cwise_binary_op_3_01_binary_op_00_01_lhs_00_0cb5b32f8780f5e04222972f8f6ae2d90.html" title=" " alt="" coords="591,1903,799,1974"/>
+<area shape="rect" id="node69" href="$struct_eigen_1_1internal_1_1binary__evaluator_3_01_cwise_binary_op_3_01_binary_op_00_01_lhs_00_05c4f9212bd4fb2e2b8664dee5123f03b.html" title=" " alt="" coords="591,1998,799,2069"/>
+<area shape="rect" id="node71" href="$struct_eigen_1_1internal_1_1mapbase__evaluator.html" title=" " alt="" coords="568,2283,821,2368"/>
+<area shape="rect" id="node73" href="$struct_eigen_1_1internal_1_1unary__evaluator_3_01_block_3_01_arg_type_00_01_block_rows_00_01_blo4d5c305426f8b1ea1436bf5cefc2693d.html" title=" " alt="" coords="581,2093,808,2163"/>
+<area shape="rect" id="node74" href="$struct_eigen_1_1internal_1_1unary__evaluator_3_01_block_3_01_arg_type_00_01_block_rows_00_01_blodb73497179e7c432f93b3052e2754983.html" title=" " alt="" coords="581,2187,808,2258"/>
+<area shape="rect" id="node72" href="$struct_eigen_1_1internal_1_1block__evaluator_3_01_arg_type_00_01_block_rows_00_01_block_cols_00_01_inner_panel_00_01true_01_4.html" title=" " alt="" coords="890,2297,1107,2353"/>
+<area shape="rect" id="node76" href="$struct_eigen_1_1internal_1_1diagonal__product__evaluator__base.html" title=" " alt="" coords="601,2393,789,2463"/>
+<area shape="rect" id="node77" href="$struct_eigen_1_1internal_1_1evaluator_3_01_plain_object_base_3_01_derived_01_4_01_4.html" title=" " alt="" coords="590,2487,799,2529"/>
+<area shape="rect" id="node78" href="$struct_eigen_1_1internal_1_1evaluator_3_01_sparse_compressed_base_3_01_derived_01_4_01_4.html" title=" " alt="" coords="601,2553,788,2609"/>
+<area shape="rect" id="node79" href="$struct_eigen_1_1internal_1_1mapbase__evaluator.html" title=" " alt="" coords="590,2633,799,2689"/>
+<area shape="rect" id="node81" href="$struct_eigen_1_1internal_1_1evaluator_3_01_cwise_nullary_op_3_01_nullary_op_00_01_plain_object_type_01_4_01_4.html" title=" " alt="" coords="595,2713,794,2769"/>
+<area shape="rect" id="node83" href="$struct_eigen_1_1internal_1_1evaluator_3_01_diagonal_3_01_arg_type_00_01_diag_index_01_4_01_4.html" title=" " alt="" coords="578,2794,811,2835"/>
+<area shape="rect" id="node85" href="$struct_eigen_1_1internal_1_1mapbase__evaluator.html" title=" " alt="" coords="548,2860,841,2916"/>
+<area shape="rect" id="node86" href="$struct_eigen_1_1internal_1_1evaluator_3_01_map_3_01_plain_object_type_00_01_map_options_00_01_stride_type_01_4_01_4.html" title=" " alt="" coords="903,2860,1094,2916"/>
+<area shape="rect" id="node88" href="$struct_eigen_1_1internal_1_1evaluator_3_01_partial_redux_expr_3_01_arg_type_00_01_member_op_00_01_direction_01_4_01_4.html" title=" " alt="" coords="595,2940,794,2996"/>
+<area shape="rect" id="node90" href="$struct_eigen_1_1internal_1_1mapbase__evaluator.html" title=" " alt="" coords="551,3020,838,3076"/>
+<area shape="rect" id="node91" href="$struct_eigen_1_1internal_1_1evaluator_3_01_ref_3_01_plain_object_type_00_01_ref_options_00_01_stride_type_01_4_01_4.html" title=" " alt="" coords="907,3020,1091,3076"/>
+<area shape="rect" id="node93" href="$struct_eigen_1_1internal_1_1evaluator_3_01_select_3_01_condition_matrix_type_00_01_then_matrix_t0c555ecce04e199df0b1ebada3749ccc.html" title=" " alt="" coords="575,3100,815,3156"/>
+<area shape="rect" id="node95" href="$struct_eigen_1_1internal_1_1evaluator_3_01_sparse_vector_3_01___scalar_00_01___options_00_01___index_01_4_01_4.html" title=" " alt="" coords="608,3180,781,3236"/>
+<area shape="rect" id="node97" href="$struct_eigen_1_1internal_1_1evaluator__wrapper__base.html" title=" " alt="" coords="605,3261,784,3302"/>
+<area shape="rect" id="node98" href="$struct_eigen_1_1internal_1_1sparse__conjunction__evaluator_3_01_xpr_type_00_01_index_based_00_01_iterator_based_01_4.html" title=" " alt="" coords="615,3326,775,3397"/>
+<area shape="rect" id="node99" href="$struct_eigen_1_1internal_1_1sparse__conjunction__evaluator_3_01_xpr_type_00_01_iterator_based_00_01_index_based_01_4.html" title=" " alt="" coords="610,3421,779,3491"/>
+<area shape="rect" id="node100" href="$struct_eigen_1_1internal_1_1sparse__conjunction__evaluator_3_01_xpr_type_00_01_iterator_based_00_01_iterator_based_01_4.html" title=" " alt="" coords="610,3515,779,3586"/>
+<area shape="rect" id="node102" href="$struct_eigen_1_1internal_1_1diagonal__product__evaluator__base.html" title=" " alt="" coords="587,3705,803,3791"/>
+<area shape="rect" id="node104" href="$struct_eigen_1_1internal_1_1diagonal__product__evaluator__base.html" title=" " alt="" coords="587,3815,803,3900"/>
+<area shape="rect" id="node106" href="$struct_eigen_1_1internal_1_1product__evaluator_3_01_product_3_01_lhs_00_01_rhs_00_01_lazy_produc1ed1c0c8715953d10d735722e273406b.html" title=" " alt="" coords="585,3610,805,3681"/>
+<area shape="rect" id="node103" href="$struct_eigen_1_1internal_1_1product__evaluator_3_01_product_3_01_lhs_00_01_rhs_00_01_product_kin7ddac0b59f4a730d2a73e162a876e10d.html" title=" " alt="" coords="889,3713,1108,3783"/>
+<area shape="rect" id="node105" href="$struct_eigen_1_1internal_1_1product__evaluator_3_01_product_3_01_lhs_00_01_rhs_00_01_product_kinb2964e3ecd5359c634047e003305b765.html" title=" " alt="" coords="889,3822,1108,3893"/>
+<area shape="rect" id="node108" href="$struct_eigen_1_1internal_1_1ternary__evaluator_3_01_cwise_ternary_op_3_01_ternary_op_00_01_arg1_daf42d21bcfee99cfa54e03ffa9506fc.html" title=" " alt="" coords="595,3990,794,4061"/>
+<area shape="rect" id="node110" href="$struct_eigen_1_1internal_1_1evaluator__wrapper__base.html" title=" " alt="" coords="594,4085,795,4141"/>
+<area shape="rect" id="node111" href="$struct_eigen_1_1internal_1_1unary__evaluator_3_01_array_wrapper_3_01_t_arg_type_01_4_01_4.html" title=" " alt="" coords="913,4085,1085,4141"/>
+<area shape="rect" id="node113" href="$struct_eigen_1_1internal_1_1unary__evaluator_3_01_cwise_unary_op_3_01_unary_op_00_01_arg_type_01_4_00_01_index_based_01_4.html" title=" " alt="" coords="574,4165,815,4221"/>
+<area shape="rect" id="node114" href="$struct_eigen_1_1internal_1_1unary__evaluator_3_01_cwise_unary_op_3_01_unary_op_00_01_arg_type_01_4_00_01_iterator_based_01_4.html" title=" " alt="" coords="569,4245,820,4301"/>
+<area shape="rect" id="node116" href="$struct_eigen_1_1internal_1_1unary__evaluator_3_01_cwise_unary_view_3_01_unary_op_00_01_arg_type_01_4_00_01_index_based_01_4.html" title=" " alt="" coords="574,4325,815,4381"/>
+<area shape="rect" id="node118" href="$struct_eigen_1_1internal_1_1unary__evaluator_3_01_cwise_unary_view_3_01_view_op_00_01_arg_type_01_4_00_01_iterator_based_01_4.html" title=" " alt="" coords="573,4405,817,4461"/>
+<area shape="rect" id="node120" href="$struct_eigen_1_1internal_1_1evaluator__wrapper__base.html" title=" " alt="" coords="591,4485,798,4541"/>
+<area shape="rect" id="node121" href="$struct_eigen_1_1internal_1_1unary__evaluator_3_01_matrix_wrapper_3_01_t_arg_type_01_4_01_4.html" title=" " alt="" coords="910,4485,1087,4541"/>
+<area shape="rect" id="node123" href="$struct_eigen_1_1internal_1_1unary__evaluator_3_01_replicate_3_01_arg_type_00_01_row_factor_00_01_col_factor_01_4_01_4.html" title=" " alt="" coords="575,4565,815,4621"/>
+<area shape="rect" id="node125" href="$struct_eigen_1_1internal_1_1unary__evaluator_3_01_reverse_3_01_arg_type_00_01_direction_01_4_01_4.html" title=" " alt="" coords="593,4645,796,4701"/>
+<area shape="rect" id="node127" href="$struct_eigen_1_1internal_1_1unary__evaluator_3_01_sparse_view_3_01_arg_type_01_4_00_01_index_based_01_4.html" title=" " alt="" coords="603,4725,786,4781"/>
+<area shape="rect" id="node128" href="$struct_eigen_1_1internal_1_1unary__evaluator_3_01_sparse_view_3_01_arg_type_01_4_00_01_iterator_based_01_4.html" title=" " alt="" coords="599,4805,790,4861"/>
+<area shape="rect" id="node130" href="$struct_eigen_1_1internal_1_1unary__evaluator_3_01_transpose_3_01_arg_type_01_4_00_01_index_based_01_4.html" title=" " alt="" coords="603,4885,786,4941"/>
+<area shape="rect" id="node131" href="$struct_eigen_1_1internal_1_1unary__evaluator_3_01_transpose_3_01_arg_type_01_4_00_01_iterator_based_01_4.html" title=" " alt="" coords="599,4965,790,5021"/>
+<area shape="rect" id="node133" href="$struct_eigen_1_1internal_1_1unary__evaluator_3_01_triangular_view_3_01_arg_type_00_01_mode_01_4_00_01_iterator_based_01_4.html" title=" " alt="" coords="579,5045,810,5101"/>
+<area shape="rect" id="node135" href="$class_eigen_1_1_cholmod_base.html" title="The base class for the direct Cholesky factorization of Cholmod." alt="" coords="617,5257,772,5313"/>
+<area shape="rect" id="node136" href="$class_eigen_1_1_iterative_solver_base.html" title="Base class for linear iterative solvers." alt="" coords="609,5338,781,5379"/>
+<area shape="rect" id="node137" href="$class_eigen_1_1_pardiso_impl.html" title=" " alt="" coords="629,5403,760,5445"/>
+<area shape="rect" id="node138" href="$class_eigen_1_1_pastix_base.html" title=" " alt="" coords="625,5469,764,5510"/>
+<area shape="rect" id="node139" href="$class_eigen_1_1_simplicial_cholesky_base.html" title="A base class for direct sparse Cholesky factorizations." alt="" coords="608,5126,781,5167"/>
+<area shape="rect" id="node140" href="$class_eigen_1_1_super_l_u_base.html" title="The base class for the direct and incomplete LU factorization of SuperLU." alt="" coords="611,5191,778,5233"/>
+<area shape="rect" id="node144" href="$class_eigen_1_1internal_1_1_sparse_l_u_impl.html" title=" " alt="" coords="255,3837,485,3893"/>
+</map>

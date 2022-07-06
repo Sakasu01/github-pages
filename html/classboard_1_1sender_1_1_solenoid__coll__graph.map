@@ -1,0 +1,7 @@
+<map id="board::sender::Solenoid" name="board::sender::Solenoid">
+<area shape="rect" id="node1" title="電磁弁基板クラス" alt="" coords="107,185,265,212"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_l_e_d.html" title="送信側のLED操作クラス。これを各基盤クラスのメンバに持てば使える。" alt="" coords="31,96,165,123"/>
+<area shape="rect" id="node3" href="$classboard_1_1base_1_1_l_e_d_interface.html" title=" " alt="" coords="5,13,177,39"/>
+<area shape="rect" id="node4" href="$classboard_1_1sender_1_1_l_e_ds.html" title=" " alt="" coords="200,96,372,123"/>
+<area shape="rect" id="node5" href="$classboard_1_1base_1_1_l_e_ds_interface.html" title="base::LEDInterfaceを継承したクラスを複数扱うためのクラス。" alt="" coords="202,5,381,47"/>
+</map>

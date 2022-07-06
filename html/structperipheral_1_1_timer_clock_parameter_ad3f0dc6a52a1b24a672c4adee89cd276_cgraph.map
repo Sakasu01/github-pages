@@ -1,0 +1,4 @@
+<map id="peripheral::TimerClockParameter::generate" name="peripheral::TimerClockParameter::generate">
+<area shape="rect" id="node1" title="目標周波数からプリスケーラなどの情報を生成する" alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node2" href="$namespaceperipheral.html#af32bb29b7d64b2d8c12edefcf56c8b26" title="ベース周波数と目標周波数からプリスケーラとピリオドを計算する" alt="" coords="264,5,429,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="controller::gpio::read" name="controller::gpio::read">
+<area shape="rect" id="node1" title="GPIO入力" alt="" coords="204,5,344,32"/>
+<area shape="rect" id="node2" href="$classperipheral_1_1_g_p_i_o.html#a0311f0c7c888d6d6c0914afab5fd417a" title="ピンの入力状態を取得" alt="" coords="5,5,156,32"/>
+</map>

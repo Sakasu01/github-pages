@@ -1,0 +1,4 @@
+<map id="Eigen::internal::triangular_dense_assignment_kernel::assignDiagonalCoeff" name="Eigen::internal::triangular_dense_assignment_kernel::assignDiagonalCoeff">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,185,69"/>
+<area shape="rect" id="node2" href="$class_eigen_1_1internal_1_1generic__dense__assignment__kernel.html#a7ca974cc4049f1ef3d6f2feac94ea35b" title="Assign src(row,col) to dst(row,col) through the assignment functor." alt="" coords="233,5,481,76"/>
+</map>

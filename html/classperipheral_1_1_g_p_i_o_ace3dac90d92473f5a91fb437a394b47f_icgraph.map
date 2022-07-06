@@ -1,0 +1,4 @@
+<map id="peripheral::GPIO::write" name="peripheral::GPIO::write">
+<area shape="rect" id="node1" title="ピンの出力状態を設定" alt="" coords="232,5,385,32"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_s_p_i_method.html#afeffb9979fbabe0d8aacbfe75ab95912" title="CSピンの切り替え（通常ののGPIO操作）" alt="" coords="5,5,184,32"/>
+</map>

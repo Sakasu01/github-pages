@@ -1,0 +1,5 @@
+<map id="Eigen::HouseholderSequence::conjugate" name="Eigen::HouseholderSequence::conjugate">
+<area shape="rect" id="node1" title="Complex conjugate of the Householder sequence." alt="" coords="488,5,681,47"/>
+<area shape="rect" id="node2" href="$class_eigen_1_1_householder_sequence.html#a40ca81cf392d8de4c747dbbdd6bd6545" title="Adjoint (conjugate transpose) of the Householder sequence." alt="" coords="247,5,440,47"/>
+<area shape="rect" id="node3" href="$class_eigen_1_1_householder_sequence.html#af030b5ac2151241aeb920f74e8f73b4a" title="Inverse of the Householder sequence (equals the adjoint)." alt="" coords="5,5,199,47"/>
+</map>

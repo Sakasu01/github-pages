@@ -1,0 +1,5 @@
+<map id="TIM_ClearITPendingBit" name="TIM_ClearITPendingBit">
+<area shape="rect" id="node1" title="Clears the TIMx&#39;s interrupt pending bits." alt="" coords="215,31,368,57"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_t_i_m_method.html#af54b60775a3629ec582e8dea1ec9d98b" title="割り込み初期化" alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node3" href="$spi__sd__fat_8c.html#a98cff83252098363b2dbca9608df964e" title=" " alt="" coords="25,56,147,83"/>
+</map>

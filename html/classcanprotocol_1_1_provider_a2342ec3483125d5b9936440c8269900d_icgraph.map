@@ -1,0 +1,23 @@
+<map id="canprotocol::Provider::sendPacketAndWaitResponse" name="canprotocol::Provider::sendPacketAndWaitResponse">
+<area shape="rect" id="node1" title="パケットを送信し返答を待つ" alt="" coords="837,685,1044,727"/>
+<area shape="rect" id="node2" href="$classboard_1_1_c_a_n_client.html#a624cf13a6e6602d343bd59411c07d983" title="返信待ちをする" alt="" coords="587,456,785,497"/>
+<area shape="rect" id="node19" href="$classcanprotocol_1_1_client_interface.html#a936948392a9ea1bd65b9803d3ccc2495" title=" " alt="" coords="583,717,789,759"/>
+<area shape="rect" id="node3" href="$classboard_1_1sender_1_1_controller_board.html#ade01ad35988fee5f32a5a80b087ef384" title="バージョン確認．configの時に呼ばれます" alt="" coords="355,5,519,47"/>
+<area shape="rect" id="node4" href="$classboard_1_1sender_1_1_controller_board.html#a632e698b828b6f0d76836bd42ea138f1" title="初期化" alt="" coords="115,64,279,105"/>
+<area shape="rect" id="node6" href="$classboard_1_1sender_1_1_servo_board.html#aae17b7f4e8d28c298b0c99f1bb80cdfc" title="バージョン確認．configの時に呼ばれます" alt="" coords="349,123,524,164"/>
+<area shape="rect" id="node7" href="$classboard_1_1sender_1_1_servo_board.html#ad035336ee1a0d13a8e3078a75789ffb0" title="初期化" alt="" coords="110,152,285,193"/>
+<area shape="rect" id="node8" href="$classboard_1_1sender_1_1_solenoid.html#a2fe04b9634298c3edeef330eaa844589" title="バージョン確認．configの時に呼ばれます" alt="" coords="357,240,516,281"/>
+<area shape="rect" id="node9" href="$classboard_1_1sender_1_1_solenoid.html#a3bf1c50e842617a210e407374d167b85" title="初期化" alt="" coords="118,240,277,281"/>
+<area shape="rect" id="node10" href="$classboard_1_1sender_1_1_g_p_i_o.html#a6c4046e19fe3825b008ca7acd5267a31" title="初期化" alt="" coords="366,357,507,399"/>
+<area shape="rect" id="node11" href="$classboard_1_1sender_1_1_g_p_i_os.html#a38919aeead74647e03eb1b57724e646c" title=" " alt="" coords="363,423,511,464"/>
+<area shape="rect" id="node12" href="$classboard_1_1sender_1_1_controller_d_c.html#add70c631e552a666fcfb80d103ceb0d2" title="初期化" alt="" coords="355,488,519,529"/>
+<area shape="rect" id="node13" href="$classboard_1_1sender_1_1_encoder.html#ad757836c3cb5ca3378db704669ae497f" title="積算値の取得．" alt="" coords="358,553,515,595"/>
+<area shape="rect" id="node14" href="$classboard_1_1sender_1_1_encoder.html#aaf6cdb7b92503d9a851daa9dcc7e05a0" title="現在位置を得る．setPPRを指定しないとうまくいかない" alt="" coords="358,619,515,660"/>
+<area shape="rect" id="node15" href="$classboard_1_1sender_1_1_encoder.html#a26d3ac333ee43d602eb4309d8cbc37c4" title="現在速度を得る" alt="" coords="358,684,515,725"/>
+<area shape="rect" id="node16" href="$classboard_1_1sender_1_1_g_p_i_o.html#afcb204c23f123c06eb49f0ddb95e171e" title="bit状態の読み取り．出力で初期化している場合falseが返ってきます" alt="" coords="366,749,507,791"/>
+<area shape="rect" id="node17" href="$classboard_1_1sender_1_1_analog_sensor.html#a90a951ba3e65f3dfc1dd2563e270e675" title="値の読み取り" alt="" coords="341,815,532,856"/>
+<area shape="rect" id="node18" href="$classboard_1_1sender_1_1_g_p_i_os.html#a9f4858d23e0bfe6b429204406d369839" title="全ポートの状態を読む．出力で初期化しているとfalseが返ってくる あっち側で設定されているポート数よりこっち側のポート数が多い場合，そのポートはfalseになります" alt="" coords="363,880,511,921"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main関数。" alt="" coords="5,159,56,186"/>
+<area shape="rect" id="node20" href="$classcanprotocol_1_1_master_command_client.html#a5dee349f9affc233e5be0ebbe3f47d26" title=" " alt="" coords="339,945,535,987"/>
+<area shape="rect" id="node21" href="$classboard_1_1_c_a_n_client.html#a4a3c008984ee9441054eca5a31edfe28" title="生存確認" alt="" coords="104,953,291,979"/>
+</map>

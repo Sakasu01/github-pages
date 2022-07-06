@@ -1,0 +1,6 @@
+<map id="rur::container::StaticVector::size" name="rur::container::StaticVector::size">
+<area shape="rect" id="node1" title="要素数を取得する" alt="" coords="469,35,648,76"/>
+<area shape="rect" id="node2" href="$namespacecanprotocol.html#ac643890b0afaf499ca4bd07a5d738c5a" title=" " alt="" coords="231,5,408,47"/>
+<area shape="rect" id="node4" href="$class_f4_1_1_c_a_n_method.html#aa35e582c4f456ef58fbe9dc6fcd82775" title=" " alt="" coords="217,71,421,98"/>
+<area shape="rect" id="node3" href="$classboard_1_1_c_a_n_client.html#aa6e329a0c90e7a9f7b066d044fe2a39b" title="CANの初期化．st用の初期化なのでリセットとかもやってる" alt="" coords="5,13,169,39"/>
+</map>

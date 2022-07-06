@@ -1,0 +1,3 @@
+<map id="board::sender::GPIOs::setEach" name="board::sender::GPIOs::setEach">
+<area shape="rect" id="node1" title="各LEDの状態をそれぞれ決める(bool)" alt="" coords="5,29,153,71"/>
+</map>

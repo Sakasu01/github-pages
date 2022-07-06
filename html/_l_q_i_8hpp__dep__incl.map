@@ -1,0 +1,6 @@
+<map id="C:/stm32/workspace/NatsuRobo2022/DriveSystemLib/control/LQI/LQI.hpp" name="C:/stm32/workspace/NatsuRobo2022/DriveSystemLib/control/LQI/LQI.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="115,5,309,61"/>
+<area shape="rect" id="node2" href="$_control_8hpp.html" title=" " alt="" coords="5,109,200,165"/>
+<area shape="rect" id="node4" href="$_l_q_i_8cpp.html" title=" " alt="" coords="224,109,419,165"/>
+<area shape="rect" id="node3" href="$_drive_system_8hpp.html" title="make sure that USE_FATFS is enabled in CompileOption.mk" alt="" coords="5,213,200,269"/>
+</map>

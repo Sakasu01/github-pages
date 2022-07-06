@@ -1,0 +1,5 @@
+<map id="C:/stm32/workspace/NatsuRobo2022/Sugoroku/lib/STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_syscfg.h" name="C:/stm32/workspace/NatsuRobo2022/Sugoroku/lib/STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_syscfg.h">
+<area shape="rect" id="node1" title="This file contains all the functions prototypes for the SYSCFG firmware library." alt="" coords="112,5,315,76"/>
+<area shape="rect" id="node2" href="$stm32f4xx__syscfg_8c.html" title="This file provides firmware functions to manage the SYSCFG peripheral." alt="" coords="5,124,208,195"/>
+<area shape="rect" id="node3" href="$stm32f4xx__conf_8h.html" title="STM32F4xx Peripherals and Macros Settings. &#160;&#160;Device Dependent Section." alt="" coords="233,131,410,187"/>
+</map>

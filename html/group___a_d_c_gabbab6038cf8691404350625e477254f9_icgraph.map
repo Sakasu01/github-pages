@@ -1,0 +1,4 @@
+<map id="ADC_Init" name="ADC_Init">
+<area shape="rect" id="node1" title="Initializes the ADCx peripheral according to the specified parameters in the ADC_InitStruct." alt="" coords="211,5,284,32"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_a_d_c_method.html#a99bea80596bf83d71bbde078ed8c9054" title="初期化" alt="" coords="5,5,163,32"/>
+</map>

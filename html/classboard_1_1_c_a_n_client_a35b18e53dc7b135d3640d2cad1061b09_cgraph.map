@@ -1,0 +1,4 @@
+<map id="board::CANClient::getEventBuffer" name="board::CANClient::getEventBuffer">
+<area shape="rect" id="node1" title="どのイベントのフラグが立っているか確認" alt="" coords="5,5,185,47"/>
+<area shape="rect" id="node2" href="$classcanprotocol_1_1_master_command_client.html#aee4e6fe3cf1a43c743b3bfba0cfc443f" title=" " alt="" coords="233,5,429,47"/>
+</map>

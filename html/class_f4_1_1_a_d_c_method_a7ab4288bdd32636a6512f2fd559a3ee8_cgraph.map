@@ -1,0 +1,27 @@
+<map id="F4::ADCMethod::getAnalogPin" name="F4::ADCMethod::getAnalogPin">
+<area shape="rect" id="node1" title="channelのPinを取得" alt="" coords="5,588,205,615"/>
+<area shape="rect" id="node2" href="$namespace_f4.html#ad991af1c22ee57d69ef5ae26e22b13dc" title=" " alt="" coords="256,5,327,32"/>
+<area shape="rect" id="node3" href="$namespace_f4.html#a5982478efee6132d9daf8af742bbf0fb" title=" " alt="" coords="256,56,327,83"/>
+<area shape="rect" id="node4" href="$namespace_f4.html#a9a66e9e6f034bb3434c3c3a1bab94680" title=" " alt="" coords="256,107,327,133"/>
+<area shape="rect" id="node5" href="$namespace_f4.html#aa2456952c1575aa821d0cffb8b2b0165" title=" " alt="" coords="256,157,327,184"/>
+<area shape="rect" id="node6" href="$namespace_f4.html#a591982cea9e1ff4ed4359e4776bd1b23" title=" " alt="" coords="256,208,327,235"/>
+<area shape="rect" id="node7" href="$namespace_f4.html#a0dcc7d58d3cf6ff12b7d3649d619d265" title=" " alt="" coords="256,259,327,285"/>
+<area shape="rect" id="node8" href="$namespace_f4.html#aed08f296878771e49a7553ccea2c7740" title=" " alt="" coords="256,309,327,336"/>
+<area shape="rect" id="node9" href="$namespace_f4.html#a8b266f703944e8608ebe826e7ee34581" title=" " alt="" coords="256,360,327,387"/>
+<area shape="rect" id="node10" href="$namespace_f4.html#a3397600755b970d4c0d44ddc7dc3083e" title=" " alt="" coords="256,411,327,437"/>
+<area shape="rect" id="node11" href="$namespace_f4.html#ad2252193ea5cd689202d6ff9d80dbc4a" title=" " alt="" coords="256,461,327,488"/>
+<area shape="rect" id="node12" href="$namespace_f4.html#a0c265bd42269b1b2a01c3d778b47ce6b" title=" " alt="" coords="256,512,327,539"/>
+<area shape="rect" id="node13" href="$namespace_f4.html#a56ad5f2cacec2d3e76dfeab20f5ce8ad" title=" " alt="" coords="256,563,327,589"/>
+<area shape="rect" id="node14" href="$namespace_f4.html#a2ec4738b1a4b9789d39ba3617a52d39a" title=" " alt="" coords="256,613,327,640"/>
+<area shape="rect" id="node15" href="$namespace_f4.html#af05ae9a0235658fb5eb569800a90d2fd" title=" " alt="" coords="256,664,327,691"/>
+<area shape="rect" id="node16" href="$namespace_f4.html#a28fb838605ba1fb721d0eb6954ac988c" title=" " alt="" coords="256,715,327,741"/>
+<area shape="rect" id="node17" href="$namespace_f4.html#acae4eededbfa8cbed79dd9d2516e313c" title=" " alt="" coords="256,765,327,792"/>
+<area shape="rect" id="node18" href="$namespace_f4.html#ab8361929869502f3b7eebe386e2a3e49" title=" " alt="" coords="253,816,329,843"/>
+<area shape="rect" id="node19" href="$namespace_f4.html#ada9d52339c6cc7d9cdf4edbb3629cde4" title=" " alt="" coords="257,867,326,893"/>
+<area shape="rect" id="node20" href="$namespace_f4.html#ae9fe91cae0661be7931fcd6086e8b45b" title=" " alt="" coords="257,917,326,944"/>
+<area shape="rect" id="node21" href="$namespace_f4.html#a21ff3689900ccd640342a8cacde0394d" title=" " alt="" coords="257,968,326,995"/>
+<area shape="rect" id="node22" href="$namespace_f4.html#abb3573dd1d47fb4aa309e55ab96455ec" title=" " alt="" coords="257,1019,326,1045"/>
+<area shape="rect" id="node23" href="$namespace_f4.html#a01572b322fe33849331522060fc4cbc1" title=" " alt="" coords="257,1069,326,1096"/>
+<area shape="rect" id="node24" href="$namespace_f4.html#a10bb030d255ddf5822aaba1a8b8bea6e" title=" " alt="" coords="257,1120,326,1147"/>
+<area shape="rect" id="node25" href="$namespace_f4.html#a1c91463601c345a0949953f1bd3468ae" title=" " alt="" coords="257,1171,326,1197"/>
+</map>

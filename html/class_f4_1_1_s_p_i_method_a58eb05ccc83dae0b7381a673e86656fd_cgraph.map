@@ -1,0 +1,6 @@
+<map id="F4::SPIMethod::exchange8bit" name="F4::SPIMethod::exchange8bit">
+<area shape="rect" id="node1" title="交換" alt="" coords="5,56,200,83"/>
+<area shape="rect" id="node2" href="$group___s_p_i___group5.html#ga1bd785d129e09c5734a876c8f2767204" title="Checks whether the specified SPIx/I2Sx flag is set or not." alt="" coords="248,5,408,32"/>
+<area shape="rect" id="node3" href="$group___s_p_i___group2.html#gab77de76547f3bff403236b263b070a30" title="Returns the most recent received data by the SPIx/I2Sx peripheral." alt="" coords="254,56,402,83"/>
+<area shape="rect" id="node4" href="$group___s_p_i___group2.html#gad5af40bebe8dbe3fa8bd476489d7e3da" title="Transmits a Data through the SPIx/I2Sx peripheral." alt="" coords="261,107,395,133"/>
+</map>

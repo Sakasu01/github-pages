@@ -1,0 +1,18 @@
+<map id="CAN_config" name="CAN_config">
+<area shape="rect" id="node1" title=" " alt="" coords="5,259,96,285"/>
+<area shape="rect" id="node2" href="$group___c_a_n___group1.html#ga002b74cd69574a14b17ad445090245cd" title="Deinitializes the CAN peripheral registers to their default reset values." alt="" coords="193,5,282,32"/>
+<area shape="rect" id="node4" href="$group___c_a_n___group1.html#ga39476830280340363c51041be6b12647" title="Configures the CAN reception filter according to the specified parameters in the CAN_FilterInitStruct..." alt="" coords="186,56,289,83"/>
+<area shape="rect" id="node5" href="$group___c_a_n___group1.html#ga9023c35a9ab931ad4513fc5d19b4bd6c" title="Initializes the CAN peripheral according to the specified parameters in the CAN_InitStruct." alt="" coords="201,107,274,133"/>
+<area shape="rect" id="node6" href="$group___c_a_n___group6.html#gad1a8b2499a780b5bfa4accb3597b02f4" title="Enables or disables the specified CANx interrupts." alt="" coords="186,157,289,184"/>
+<area shape="rect" id="node7" href="$group___c_a_n___group1.html#gad77ad810868ed111755fc9e8ae0c7646" title="Fills each CAN_InitStruct member with its default value." alt="" coords="183,208,291,235"/>
+<area shape="rect" id="node8" href="$group___c_a_n___group4.html#ga78cdfbf1884b9e33c552bcbca15bed10" title="Wakes up the CAN peripheral from sleep mode ." alt="" coords="184,259,291,285"/>
+<area shape="rect" id="node9" href="$_f4___common_macro_8c.html#a13a154eb1030fb7136bf7f58debfeb76" title=" " alt="" coords="179,309,296,336"/>
+<area shape="rect" id="node13" href="$group___g_p_i_o___group3.html#ga0a77617a322562ae84f8d72486032c5d" title="Changes the mapping of the specified pin." alt="" coords="171,360,304,387"/>
+<area shape="rect" id="node14" href="$group___m_i_s_c___private___functions.html#ga4ab373ed0870c06fca5eb51d639adf41" title="Initializes the NVIC peripheral according to the specified parameters in the NVIC_InitStruct." alt="" coords="199,411,275,437"/>
+<area shape="rect" id="node15" href="$group___r_c_c___group3.html#gaee7cc5d73af7fe1986fceff8afd3973e" title="Enables or disables the Low Speed APB (APB1) peripheral clock." alt="" coords="144,461,331,488"/>
+<area shape="rect" id="node16" href="$group___r_c_c___group3.html#ga56ff55caf8d835351916b40dd030bc87" title="Enables or disables the High Speed APB (APB2) peripheral clock." alt="" coords="144,512,331,539"/>
+<area shape="rect" id="node3" href="$group___r_c_c___group3.html#gab197ae4369c10b92640a733b40ed2801" title="Forces or releases Low Speed APB (APB1) peripheral reset." alt="" coords="379,5,567,32"/>
+<area shape="rect" id="node10" href="$group___g_p_i_o___group1.html#ga71abf9404261370d03cca449b88d3a65" title="Initializes the GPIOx peripheral according to the specified parameters in the GPIO_InitStruct." alt="" coords="433,259,512,285"/>
+<area shape="rect" id="node11" href="$group___g_p_i_o___group1.html#gab28de41278e7f8c63d0851e2733b10df" title="Fills each GPIO_InitStruct member with its default value." alt="" coords="416,309,529,336"/>
+<area shape="rect" id="node12" href="$group___r_c_c___group3.html#ga80c89116820d48bb38db2e7d5e5a49b9" title="Enables or disables the AHB1 peripheral clock." alt="" coords="379,360,566,387"/>
+</map>

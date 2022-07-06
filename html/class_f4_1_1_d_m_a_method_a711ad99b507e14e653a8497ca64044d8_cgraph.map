@@ -1,0 +1,4 @@
+<map id="F4::DMAMethod::nextTransmitDataPos" name="F4::DMAMethod::nextTransmitDataPos">
+<area shape="rect" id="node1" title="現在の転送位置を取得" alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node2" href="$group___d_m_a___group2.html#ga4a76444a92423f5f15a4328738d6dc46" title="Returns the number of remaining data units in the current DMAy Streamx transfer." alt="" coords="253,13,428,39"/>
+</map>

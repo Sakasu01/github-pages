@@ -1,0 +1,10 @@
+<map id="board::sender::MultipleInterface::MultipleInterface" name="board::sender::MultipleInterface::MultipleInterface">
+<area shape="rect" id="node1" title="コンストラクタ．" alt="" coords="5,97,208,139"/>
+<area shape="rect" id="node2" href="$classrur_1_1container_1_1_static_vector.html#abd34cd28f50330c84228878a8a59e6d2" title="全ての要素を削除する" alt="" coords="256,64,435,105"/>
+<area shape="rect" id="node6" href="$classrur_1_1container_1_1_static_vector.html#a8470014343649234263d5ba4ca8efe87" title="末尾に要素を追加する(コピー)" alt="" coords="256,129,435,171"/>
+<area shape="rect" id="node3" href="$classrur_1_1container_1_1_static_vector.html#afdfb6986096208fe1524231060a55003" title="空かどうかを判定する" alt="" coords="746,5,925,47"/>
+<area shape="rect" id="node4" href="$classrur_1_1container_1_1_static_vector.html#aee1a0a54b12b60142aa525144355b154" title="末尾要素を削除する" alt="" coords="498,64,677,105"/>
+<area shape="rect" id="node5" href="$classrur_1_1container_1_1_static_allocator.html#a4904ae936ec5e8ed4955cc9bb4ec2e37" title="オブジェクトを破棄する" alt="" coords="740,71,931,112"/>
+<area shape="rect" id="node7" href="$classrur_1_1container_1_1_static_allocator.html#a657c87ff178e8dadd1e9148f270db61d" title="オブジェクトをコピー構築する" alt="" coords="483,129,692,171"/>
+<area shape="rect" id="node8" href="$classrur_1_1container_1_1_static_vector.html#aa9377b0e688d52f4b5a6ce861d1caaca" title="満杯かどうかを判定する" alt="" coords="498,195,677,236"/>
+</map>

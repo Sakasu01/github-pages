@@ -1,0 +1,5 @@
+<map id="controller::dc::setStatus" name="controller::dc::setStatus">
+<area shape="rect" id="node1" title="モーターの状態を設定する" alt="" coords="220,31,381,57"/>
+<area shape="rect" id="node2" href="$classcontroller_1_1_d_c.html#a2bd282cb21aa3be123d1a2ea7b9734dc" title=" " alt="" coords="6,5,171,32"/>
+<area shape="rect" id="node3" href="$classcontroller_1_1_p_i_d.html#a018c3cf564b013c373b8a5569eab421b" title="ターゲットの値の指定" alt="" coords="5,56,172,83"/>
+</map>

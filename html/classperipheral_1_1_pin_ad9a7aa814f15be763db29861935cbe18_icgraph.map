@@ -1,0 +1,5 @@
+<map id="peripheral::Pin::portBase" name="peripheral::Pin::portBase">
+<area shape="rect" id="node1" title="GPIOx_BASEを取得" alt="" coords="216,31,381,57"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_g_p_i_o_method.html#ae70c7d436ccc11b647d348c9f48c0b4b" title="初期化" alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node3" href="$namespaceperipheral.html#aacb4e2352242778e706cb34cb30f4a67" title="Pinの等価比較" alt="" coords="12,56,161,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="PWR_Exported_Constants" name="PWR_Exported_Constants">
+<area shape="rect" id="node1" href="$group___p_w_r.html" title="PWR driver modules." alt="" coords="5,144,59,169"/>
+<area shape="rect" id="node2" title=" " alt="" coords="107,144,285,169"/>
+<area shape="rect" id="node3" href="$group___p_w_r___flag.html" title=" " alt="" coords="380,5,465,31"/>
+<area shape="rect" id="node4" href="$group___p_w_r___p_v_d__detection__level.html" title=" " alt="" coords="333,55,512,80"/>
+<area shape="rect" id="node5" href="$group___p_w_r___regulator___voltage___scale.html" title=" " alt="" coords="339,105,506,145"/>
+<area shape="rect" id="node6" href="$group___p_w_r___regulator__state__in___s_t_o_p__mode.html" title=" " alt="" coords="347,169,498,209"/>
+<area shape="rect" id="node7" href="$group___p_w_r___regulator__state__in___under_drive__mode.html" title=" " alt="" coords="347,233,498,273"/>
+<area shape="rect" id="node8" href="$group___p_w_r___s_t_o_p__mode__entry.html" title=" " alt="" coords="337,297,508,323"/>
+</map>

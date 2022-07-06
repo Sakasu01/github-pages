@@ -1,0 +1,7 @@
+<map id="TIM7_Configuration" name="TIM7_Configuration">
+<area shape="rect" id="node1" title="Configure TIM7." alt="" coords="5,81,137,108"/>
+<area shape="rect" id="node2" href="$group___r_c_c___group3.html#gaee7cc5d73af7fe1986fceff8afd3973e" title="Enables or disables the Low Speed APB (APB1) peripheral clock." alt="" coords="185,5,372,32"/>
+<area shape="rect" id="node3" href="$group___t_i_m___group1.html#ga2bdc275bcbd2ce9d1ba632e6c89896b7" title="Enables or disables the specified TIM peripheral." alt="" coords="240,56,317,83"/>
+<area shape="rect" id="node4" href="$group___t_i_m___group5.html#ga70e3d6c09d55ee69002e154c85cd40e4" title="Enables or disables the specified TIM interrupts." alt="" coords="231,107,327,133"/>
+<area shape="rect" id="node5" href="$group___t_i_m___group1.html#ga83fd58c9416802d9638bbe1715c98932" title="Initializes the TIMx Time Base Unit peripheral according to the specified parameters in the TIM_TimeB..." alt="" coords="216,157,341,184"/>
+</map>

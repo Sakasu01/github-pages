@@ -1,0 +1,5 @@
+<map id="board::sender::ControllerBoard::checkVersion" name="board::sender::ControllerBoard::checkVersion">
+<area shape="rect" id="node1" title="バージョン確認．configの時に呼ばれます" alt="" coords="316,5,480,47"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_controller_board.html#a632e698b828b6f0d76836bd42ea138f1" title="初期化" alt="" coords="104,5,268,47"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main関数。" alt="" coords="5,13,56,39"/>
+</map>

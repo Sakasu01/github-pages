@@ -1,0 +1,4 @@
+<map id="I2C_GenerateSTOP" name="I2C_GenerateSTOP">
+<area shape="rect" id="node1" title="Generates I2Cx communication STOP condition." alt="" coords="277,5,413,32"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_i2_c_method.html#a8de2ff09231cc3968eb261dbc8dab8cf" title="Stop Condition発行" alt="" coords="5,5,229,32"/>
+</map>

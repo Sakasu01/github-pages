@@ -1,0 +1,8 @@
+<map id="controller::adc::read" name="controller::adc::read">
+<area shape="rect" id="node1" title="ADC読み取り" alt="" coords="5,31,143,57"/>
+<area shape="rect" id="node2" href="$_c_a_n_protocol__alternate_8cpp.html#ad4102cce7008ce03b52df40e43dd867b" title=" " alt="" coords="191,31,431,57"/>
+<area shape="rect" id="node3" href="$namespaceold2new.html#af99697de142073ec3d096338ad1dd760" title=" " alt="" coords="479,5,653,32"/>
+<area shape="rect" id="node4" href="$namespaceold2new.html#a81ca7fc75258733e417ed732204e4273" title=" " alt="" coords="491,56,641,83"/>
+<area shape="rect" id="node5" href="$classnwp_1_1_binary_data.html#abc8a0d71548abd3b642f5291c409efb0" title=" " alt="" coords="701,56,871,83"/>
+<area shape="rect" id="node6" href="$classnwp_1_1_binary_data.html#a12ddc0876aadf69975f0c02eabadb58c" title="データのサイズ[byte] toBinaryでのみ変更される" alt="" coords="919,56,1068,83"/>
+</map>

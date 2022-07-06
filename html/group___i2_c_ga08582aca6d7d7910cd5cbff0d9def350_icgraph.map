@@ -1,0 +1,4 @@
+<map id="I2C_StructInit" name="I2C_StructInit">
+<area shape="rect" id="node1" title="Fills each I2C_InitStruct member with its default value." alt="" coords="203,5,303,32"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_i2_c_method.html#a36e082517bed69d7752140932846b9aa" title="初期化" alt="" coords="5,5,155,32"/>
+</map>

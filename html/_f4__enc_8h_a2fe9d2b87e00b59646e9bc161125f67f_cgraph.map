@@ -1,0 +1,4 @@
+<map id="ENC_resetCounterValue" name="ENC_resetCounterValue">
+<area shape="rect" id="node1" title="ENCのカウント値を0リセットする" alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$group___t_i_m___group1.html#ga18173e7955a85d5c2598c643eada2692" title="Sets the TIMx Counter Register value." alt="" coords="216,5,331,32"/>
+</map>

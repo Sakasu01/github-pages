@@ -1,0 +1,4 @@
+<map id="DMA_GetCurrDataCounter" name="DMA_GetCurrDataCounter">
+<area shape="rect" id="node1" title="Returns the number of remaining data units in the current DMAy Streamx transfer." alt="" coords="253,13,428,39"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_d_m_a_method.html#a711ad99b507e14e653a8497ca64044d8" title="現在の転送位置を取得" alt="" coords="5,5,205,47"/>
+</map>

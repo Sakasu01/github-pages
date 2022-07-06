@@ -1,0 +1,4 @@
+<map id="Eigen::internal::computeProductBlockingSizes" name="Eigen::internal::computeProductBlockingSizes">
+<area shape="rect" id="node1" title="Computes the blocking parameters for a m x k times k x n matrix product." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$namespace_eigen_1_1internal.html#ab9050235b243bc5110901e702ec6b8d9" title=" " alt="" coords="216,5,396,47"/>
+</map>

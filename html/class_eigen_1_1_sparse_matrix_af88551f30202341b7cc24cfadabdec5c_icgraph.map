@@ -1,0 +1,18 @@
+<map id="Eigen::SparseMatrix::resize" name="Eigen::SparseMatrix::resize">
+<area shape="rect" id="node1" title=" " alt="" coords="724,235,864,276"/>
+<area shape="rect" id="node2" href="$class_eigen_1_1_incomplete_cholesky.html#a702560ecdddef77dc51d20ab22bd974e" title="Computes the fill reducing permutation vector using the sparsity pattern of mat." alt="" coords="479,5,659,47"/>
+<area shape="rect" id="node5" href="$class_eigen_1_1_sparse_matrix.html#a9dc538b2c1fe9027ba58f31ee83b2ff1" title=" " alt="" coords="499,71,639,112"/>
+<area shape="rect" id="node6" href="$class_eigen_1_1_pardiso_l_l_t.html#abf6ad5867c951f4ce0f407a7c6e9d560" title=" " alt="" coords="501,136,637,177"/>
+<area shape="rect" id="node7" href="$class_eigen_1_1_pardiso_l_d_l_t.html#ac9934f8e3bf712157ca2639a5fa63f50" title=" " alt="" coords="500,201,637,243"/>
+<area shape="rect" id="node8" href="$class_eigen_1_1_simplicial_cholesky_base.html#a4e59a8081d09fd8ff1ce9db4becbc150" title=" " alt="" coords="482,267,655,308"/>
+<area shape="rect" id="node14" href="$namespace_eigen_1_1internal.html#a2649bfc34f46b48ed846f70da6372841" title=" " alt="" coords="489,332,649,373"/>
+<area shape="rect" id="node15" href="$struct_eigen_1_1internal_1_1_assignment_3_01_dst_xpr_type_00_01_src_xpr_type_00_01_functor_00_01_diagonal2_sparse_01_4.html#a3ebebc30f1ceca09787e5ad5c0fd9c43" title=" " alt="" coords="461,398,676,454"/>
+<area shape="rect" id="node16" href="$class_eigen_1_1_sparse_matrix.html#a68087ee333c9614ea28850ec52069079" title=" " alt="" coords="499,479,639,520"/>
+<area shape="rect" id="node3" href="$class_eigen_1_1_incomplete_cholesky.html#a7966bedeebbeaa7a8fe4dd1da3797a0b" title=" " alt="" coords="233,5,413,47"/>
+<area shape="rect" id="node4" href="$class_eigen_1_1_incomplete_cholesky.html#a757499fc814988a5b112b1f34d0295e1" title=" " alt="" coords="5,5,185,47"/>
+<area shape="rect" id="node9" href="$class_eigen_1_1_simplicial_cholesky_base.html#aaf20ed812a661069f9e484649ae9be1e" title=" " alt="" coords="237,233,410,275"/>
+<area shape="rect" id="node13" href="$class_eigen_1_1_simplicial_cholesky_base.html#a9a741744dda2261cae26cddf96a35bf0" title=" " alt="" coords="237,299,410,340"/>
+<area shape="rect" id="node10" href="$class_eigen_1_1_simplicial_l_l_t.html#ad6e49b1c0d2ec5c8e118538260f3002c" title=" " alt="" coords="25,168,165,209"/>
+<area shape="rect" id="node11" href="$class_eigen_1_1_simplicial_l_d_l_t.html#aaf7c852056195d05de863362638517b7" title=" " alt="" coords="21,233,170,275"/>
+<area shape="rect" id="node12" href="$class_eigen_1_1_simplicial_cholesky.html#a6af3f64b855a96a2635302f863b5fd91" title=" " alt="" coords="9,299,182,340"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SPI_I2S_GetFlagStatus" name="SPI_I2S_GetFlagStatus">
+<area shape="rect" id="node1" title="Checks whether the specified SPIx/I2Sx flag is set or not." alt="" coords="281,56,441,83"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_s_p_i_method.html#a58eb05ccc83dae0b7381a673e86656fd" title="交換" alt="" coords="22,5,217,32"/>
+<area shape="rect" id="node3" href="$_f4___s_p_i_8c.html#a376306c7e1c7d3400e028bfaa9f1fa34" title=" " alt="" coords="15,56,223,83"/>
+<area shape="rect" id="node4" href="$_f4___s_p_i_8c.html#a717e0bcdbed4db42f9df707611024086" title=" " alt="" coords="5,107,233,133"/>
+</map>

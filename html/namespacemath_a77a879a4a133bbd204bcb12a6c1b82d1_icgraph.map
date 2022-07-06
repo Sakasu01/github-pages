@@ -1,0 +1,6 @@
+<map id="math::sign" name="math::sign">
+<area shape="rect" id="node1" title="数値の符号を返す" alt="" coords="396,31,479,57"/>
+<area shape="rect" id="node2" href="$class_swerve_drive.html#adc37c20bbd275a7b1b35572692017963" title=" " alt="" coords="203,5,341,32"/>
+<area shape="rect" id="node3" href="$class_manual.html#a724eb6dbfa1d80869ef2e62be22674e2" title=" " alt="" coords="196,56,348,83"/>
+<area shape="rect" id="node4" href="$class_drive_system.html#a17a91e917fe9899918e593e5c8037203" title=" " alt="" coords="5,56,148,83"/>
+</map>

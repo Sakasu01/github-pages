@@ -1,0 +1,4 @@
+<map id="board::sender::ControllerBoard::setLEDOperation" name="board::sender::ControllerBoard::setLEDOperation">
+<area shape="rect" id="node1" title="LEDのオペレーション設定" alt="" coords="217,5,381,47"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_controller_board.html#a0729d45e3fbc33fb688df7922b2df756" title="LEDのオペレーション設定" alt="" coords="5,5,169,47"/>
+</map>

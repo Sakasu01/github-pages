@@ -1,0 +1,6 @@
+<map id="board::sender::GPIO::set" name="board::sender::GPIO::set">
+<area shape="rect" id="node1" title="GPIOの状態を指定(bool)" alt="" coords="216,56,383,83"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_g_p_i_o.html#ae76972a282e8b9efb9057479017cba6f" title="消える。" alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node3" href="$classboard_1_1sender_1_1_g_p_i_o.html#a84c176694dd6e6849e142ad888bf8d4d" title="光る。" alt="" coords="5,56,168,83"/>
+<area shape="rect" id="node4" href="$classboard_1_1sender_1_1_g_p_i_o.html#a66d437ffa65ec9d21fa0e8b6b4468e18" title="状態を反転させる。" alt="" coords="16,107,157,149"/>
+</map>

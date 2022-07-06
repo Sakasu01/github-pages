@@ -1,0 +1,5 @@
+<map id="getch" name="getch">
+<area shape="rect" id="node1" title=" " alt="" coords="119,31,173,57"/>
+<area shape="rect" id="node2" href="$syscalls_8c.html#a86e35d17877f630101d495c596005f23" title="Dummy OS Function for Newlib." alt="" coords="11,5,65,32"/>
+<area shape="rect" id="node3" href="$syscalls_8c.html#a0d531d7c15acc964042b675ebddfb08e" title="Input Datas from STDIN with reentrancy. &#160;&#160;&quot;getch()&quot; indicates retarget function. &#160;&#160;See &quot;syscalls_if...." alt="" coords="5,56,71,83"/>
+</map>

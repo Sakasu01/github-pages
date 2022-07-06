@@ -1,0 +1,9 @@
+<map id="board::CANClient::sendEvent" name="board::CANClient::sendEvent">
+<area shape="rect" id="node1" title="トリガが発生したときにイベントを起こす" alt="" coords="5,46,196,73"/>
+<area shape="rect" id="node2" href="$classcanprotocol_1_1_master_command_client.html#a3dcc26408f2741b3361c8c37b754bc2f" title=" " alt="" coords="244,39,440,80"/>
+<area shape="rect" id="node3" href="$classcanprotocol_1_1_client_interface.html#a4ac16c03b04175de14249ffe298457d2" title=" " alt="" coords="488,8,667,49"/>
+<area shape="rect" id="node5" href="$classnwp_1_1_binary_data.html#aaa74bad0454dde119164540b68298d4e" title="バイナリ情報を格納" alt="" coords="491,75,664,102"/>
+<area shape="rect" id="node4" href="$classcanprotocol_1_1_provider.html#ac4cd58667d32181c116f78c62aac4974" title="パケットの送信" alt="" coords="715,5,858,47"/>
+<area shape="rect" id="node6" href="$classnwp_1_1_binary_serializer.html#a48258cc196702e891abca284b68c39d7" title=" " alt="" coords="715,71,859,112"/>
+<area shape="rect" id="node7" href="$classnwp_1_1_binary_converter.html#aa316c2756b8aac47283351ca8010f79c" title="変数→バイナリへの変換" alt="" coords="907,71,1051,112"/>
+</map>

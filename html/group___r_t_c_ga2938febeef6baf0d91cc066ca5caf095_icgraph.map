@@ -1,0 +1,5 @@
+<map id="RTC_WaitForSynchro" name="RTC_WaitForSynchro">
+<area shape="rect" id="node1" title="Waits until the RTC Time and Date registers (RTC_TR and RTC_DR) are synchronized with RTC APB clock." alt="" coords="217,31,365,57"/>
+<area shape="rect" id="node2" href="$group___r_t_c___group1.html#ga9777c6cc4a99c339ebc527a791b2ebe7" title="Deinitializes the RTC registers to their default reset values." alt="" coords="44,5,131,32"/>
+<area shape="rect" id="node3" href="$group___r_t_c___group12.html#gaad434ed2a268f05662f0613e8e9717f3" title="Configures the Synchronization Shift Control Settings." alt="" coords="5,56,169,83"/>
+</map>

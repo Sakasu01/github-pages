@@ -1,0 +1,6 @@
+<map id="TIM7_IRQHandler" name="TIM7_IRQHandler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,128,83"/>
+<area shape="rect" id="node2" href="$sd__spi__stm32_8c.html#a045f8898a243c16aca4e64e069c49c03" title="This function handles TIM7 update interrupt request." alt="" coords="199,5,306,32"/>
+<area shape="rect" id="node3" href="$group___t_i_m___group5.html#ga9eb1e95af71ed380f51a2c6d585cc5d6" title="Clears the TIMx&#39;s interrupt pending bits." alt="" coords="176,56,329,83"/>
+<area shape="rect" id="node4" href="$group___t_i_m___group5.html#ga0827a0b411707304f76d33050727c24d" title="Checks whether the TIM interrupt has occurred or not." alt="" coords="193,107,312,133"/>
+</map>

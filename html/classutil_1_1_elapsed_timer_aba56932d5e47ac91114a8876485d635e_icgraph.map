@@ -1,0 +1,4 @@
+<map id="util::ElapsedTimer::getElapsed" name="util::ElapsedTimer::getElapsed">
+<area shape="rect" id="node1" title="経過時間[s]を取得" alt="" coords="196,5,323,47"/>
+<area shape="rect" id="node2" href="$classutil_1_1_logger.html#a2124ffdaaaf80635d0aa5486af4009f8" title="ログ出力を行う" alt="" coords="5,13,148,39"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="RCC_GetClocksFreq" name="RCC_GetClocksFreq">
+<area shape="rect" id="node1" title="Returns the frequencies of different on chip clocks; SYSCLK, HCLK, PCLK1 and PCLK2." alt="" coords="355,31,497,57"/>
+<area shape="rect" id="node2" href="$group___i2_c___group1.html#gaac29465bca70fbc91c2f922ab67bb88e" title="Initializes the I2Cx peripheral according to the specified parameters in the I2C_InitStruct." alt="" coords="229,5,295,32"/>
+<area shape="rect" id="node4" href="$group___u_s_a_r_t___group1.html#ga98da340ea0324002ba1b4263e91ab2ff" title="Initializes the USARTx peripheral according to the specified parameters in the USART_InitStruct ." alt="" coords="217,56,307,83"/>
+<area shape="rect" id="node3" href="$class_f4_1_1_i2_c_method.html#a36e082517bed69d7752140932846b9aa" title="初期化" alt="" coords="13,5,162,32"/>
+<area shape="rect" id="node5" href="$class_f4_1_1_u_a_r_t_method.html#afec4e987bd6651e1d8cf3892c358e4fc" title="初期化" alt="" coords="5,56,169,83"/>
+<area shape="rect" id="node6" href="$_f4__uart_8c.html#aa5c6c5862a34a06ad73ae3345a471662" title=" " alt="" coords="39,107,136,133"/>
+</map>

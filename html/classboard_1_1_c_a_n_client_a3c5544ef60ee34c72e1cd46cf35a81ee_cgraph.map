@@ -1,0 +1,9 @@
+<map id="board::CANClient::sendErrorOccurred" name="board::CANClient::sendErrorOccurred">
+<area shape="rect" id="node1" title="エラーが起きた時に全基盤に送る" alt="" coords="5,39,192,80"/>
+<area shape="rect" id="node2" href="$classcanprotocol_1_1_master_command_client.html#a34e1dd0110b178decf83bfe17113a257" title=" " alt="" coords="240,39,436,80"/>
+<area shape="rect" id="node3" href="$classcanprotocol_1_1_client_interface.html#a4ac16c03b04175de14249ffe298457d2" title=" " alt="" coords="484,8,663,49"/>
+<area shape="rect" id="node5" href="$classnwp_1_1_binary_data.html#aaa74bad0454dde119164540b68298d4e" title="バイナリ情報を格納" alt="" coords="487,75,660,102"/>
+<area shape="rect" id="node4" href="$classcanprotocol_1_1_provider.html#ac4cd58667d32181c116f78c62aac4974" title="パケットの送信" alt="" coords="711,5,854,47"/>
+<area shape="rect" id="node6" href="$classnwp_1_1_binary_serializer.html#a48258cc196702e891abca284b68c39d7" title=" " alt="" coords="711,71,855,112"/>
+<area shape="rect" id="node7" href="$classnwp_1_1_binary_converter.html#aa316c2756b8aac47283351ca8010f79c" title="変数→バイナリへの変換" alt="" coords="903,71,1047,112"/>
+</map>

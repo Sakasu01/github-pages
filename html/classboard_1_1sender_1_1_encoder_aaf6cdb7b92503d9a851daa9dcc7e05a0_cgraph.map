@@ -1,0 +1,11 @@
+<map id="board::sender::Encoder::getNormalizedValue" name="board::sender::Encoder::getNormalizedValue">
+<area shape="rect" id="node1" title="現在位置を得る．setPPRを指定しないとうまくいかない" alt="" coords="5,39,163,80"/>
+<area shape="rect" id="node2" href="$classboard_1_1_c_a_n_client.html#a624cf13a6e6602d343bd59411c07d983" title="返信待ちをする" alt="" coords="211,8,409,49"/>
+<area shape="rect" id="node7" href="$classnwp_1_1_binary_data.html#aaa74bad0454dde119164540b68298d4e" title="バイナリ情報を格納" alt="" coords="223,75,397,102"/>
+<area shape="rect" id="node3" href="$classcanprotocol_1_1_provider.html#a2342ec3483125d5b9936440c8269900d" title="パケットを送信し返答を待つ" alt="" coords="457,5,664,47"/>
+<area shape="rect" id="node4" href="$classutil_1_1_elapsed_timer.html#a8185e4ffab40f1dc3cc2fac14e80b421" title="経過時間[us]を取得" alt="" coords="721,5,847,47"/>
+<area shape="rect" id="node5" href="$classutil_1_1_elapsed_timer.html#ad1d10891ffc4170aed69bbed719e64c8" title="経過クロックを取得" alt="" coords="904,5,1032,47"/>
+<area shape="rect" id="node6" href="$delay_8c.html#a0342b3bee1fd47bc3013305a0b8c2661" title="関数を実行した時のカウンタを取得する関数" alt="" coords="1080,13,1192,39"/>
+<area shape="rect" id="node8" href="$classnwp_1_1_binary_serializer.html#a48258cc196702e891abca284b68c39d7" title=" " alt="" coords="489,71,633,112"/>
+<area shape="rect" id="node9" href="$classnwp_1_1_binary_converter.html#aa316c2756b8aac47283351ca8010f79c" title="変数→バイナリへの変換" alt="" coords="712,71,856,112"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="cos" name="cos">
+<area shape="rect" id="node1" title=" " alt="" coords="468,359,511,386"/>
+<area shape="rect" id="node2" href="$struct_eigen_1_1internal_1_1direct__selfadjoint__eigenvalues_3_01_solver_type_00_013_00_01false_01_4.html#abb216c5ee047da4b4d7b225948b5d666" title=" " alt="" coords="245,5,406,76"/>
+<area shape="rect" id="node3" href="$group___geometry___module.html#ga24e8dc29689f0075ba5b1f90c02b76dc" title=" " alt="" coords="257,100,394,141"/>
+<area shape="rect" id="node4" href="$class_swerve_drive.html#adc37c20bbd275a7b1b35572692017963" title=" " alt="" coords="257,166,394,193"/>
+<area shape="rect" id="node5" href="$class_manual.html#a724eb6dbfa1d80869ef2e62be22674e2" title=" " alt="" coords="249,217,401,243"/>
+<area shape="rect" id="node7" href="$class_omni_drive.html#aeb06006c8e8d75db87cd5bfcd2b7e97e" title=" " alt="" coords="251,267,399,294"/>
+<area shape="rect" id="node8" href="$struct_eigen_1_1internal_1_1scalar__cos__op.html#ad1350db45d4f034c6b76d4e7e115ef6e" title=" " alt="" coords="251,319,399,360"/>
+<area shape="rect" id="node9" href="$class_eigen_1_1_quaternion_base.html#af2f49bb475fcfd4965803787c8784d13" title=" " alt="" coords="247,384,403,425"/>
+<area shape="rect" id="node10" href="$namespace_eigen_1_1internal.html#a543f7e636fc50680d1f3c4d54b495594" title=" " alt="" coords="255,450,396,477"/>
+<area shape="rect" id="node12" href="$class_eigen_1_1_rotation2_d.html#a417985ee6adae46447bb1b1d8d17a824" title=" " alt="" coords="258,501,393,543"/>
+<area shape="rect" id="node14" href="$class_eigen_1_1_angle_axis.html#a750ae6694e576bc6c49b635b56ef5306" title=" " alt="" coords="231,567,420,608"/>
+<area shape="rect" id="node15" href="$class_eigen_1_1_quaternion.html#a8a61f4092bc520c7291e5b5e16e80d71" title=" " alt="" coords="258,632,393,673"/>
+<area shape="rect" id="node16" href="$class_odometer.html#a875f0c84b5f300b96fa97fc27e877fa3" title=" " alt="" coords="262,698,389,725"/>
+<area shape="rect" id="node6" href="$class_drive_system.html#a17a91e917fe9899918e593e5c8037203" title=" " alt="" coords="23,217,165,243"/>
+<area shape="rect" id="node11" href="$struct_eigen_1_1internal_1_1scalar__cos__op.html#ad4038c3e133d18c0132a8368837ca6ef" title=" " alt="" coords="20,440,168,481"/>
+<area shape="rect" id="node13" href="$class_eigen_1_1_rotation2_d.html#a6650136f5839cfd028fd7f1373d06882" title=" " alt="" coords="27,505,161,547"/>
+<area shape="rect" id="node17" href="$class_odometer_and_gyro.html#afa3ddb90294c2a48a4b9aacc9a4f9df7" title=" " alt="" coords="5,698,183,725"/>
+</map>

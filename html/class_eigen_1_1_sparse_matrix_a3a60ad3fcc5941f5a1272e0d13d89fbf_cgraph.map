@@ -1,0 +1,12 @@
+<map id="Eigen::SparseMatrix::resizeNonZeros" name="Eigen::SparseMatrix::resizeNonZeros">
+<area shape="rect" id="node1" title=" " alt="" coords="5,235,145,277"/>
+<area shape="rect" id="node2" href="$class_eigen_1_1internal_1_1_compressed_storage.html#ab303161d4a86c4b562b1d604025dafbd" title=" " alt="" coords="193,195,380,237"/>
+<area shape="rect" id="node10" href="$class_eigen_1_1_sparse_matrix_base.html#a124bc57921775eb9aa2dfd9727e23472" title=" " alt="" coords="201,261,372,331"/>
+<area shape="rect" id="node3" href="$class_eigen_1_1internal_1_1_compressed_storage.html#ad9e41dc861c361ecc304fcff83da9ecd" title=" " alt="" coords="428,137,615,178"/>
+<area shape="rect" id="node6" href="$class_eigen_1_1internal_1_1_compressed_storage.html#a3af1e9ce60526daec87ddb034d017dd5" title=" " alt="" coords="663,233,849,274"/>
+<area shape="rect" id="node9" href="$namespace_eigen_1_1internal.html#aa03c647c0da4f77a83252fd9bd097ca4" title=" " alt="" coords="449,254,593,295"/>
+<area shape="rect" id="node4" href="$namespace_eigen_1_1half__impl.html#a52c8391bfe74901409df09e9b1d5ac79" title=" " alt="" coords="685,5,827,32"/>
+<area shape="rect" id="node5" href="$class_eigen_1_1internal_1_1scoped__array.html#a8692b048ba4c3bc9af850d9c2436f1ba" title=" " alt="" coords="897,111,1052,153"/>
+<area shape="rect" id="node7" href="$namespace_eigen_1_1internal.html#aaa5263274e83e4b19ff5558046f1077f" title=" " alt="" coords="665,107,847,133"/>
+<area shape="rect" id="node8" href="$namespace_eigen_1_1internal.html#aefb14fc87518cc6b91063a820a66a21b" title=" " alt="" coords="685,181,827,208"/>
+</map>

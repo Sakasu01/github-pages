@@ -1,0 +1,9 @@
+<map id="F4::DMAMethod::config" name="F4::DMAMethod::config">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,164,159"/>
+<area shape="rect" id="node2" href="$group___d_m_a___group1.html#gab2bea22f9f6dc62fdd7afb385a0c1f73" title="Enables or disables the specified DMAy Streamx." alt="" coords="227,5,313,32"/>
+<area shape="rect" id="node3" href="$group___d_m_a___group1.html#ga38d4a4ab8990299f8a6cf064e1e811d0" title="Deinitialize the DMAy Streamx registers to their default reset values." alt="" coords="225,56,315,83"/>
+<area shape="rect" id="node4" href="$group___d_m_a___group1.html#gaced8a4149acfb0a50b50e63273a87148" title="Initializes the DMAy Streamx according to the specified parameters in the DMA_InitStruct structure." alt="" coords="233,107,307,133"/>
+<area shape="rect" id="node5" href="$group___d_m_a___group4.html#gab9c469a3f5d4aca5c97dee798ffc2f05" title="Enables or disables the specified DMAy Streamx interrupts." alt="" coords="218,157,322,184"/>
+<area shape="rect" id="node6" href="$group___d_m_a___group1.html#ga0f7f95f750a90a6824f4e9b6f58adc7e" title="Fills each DMA_InitStruct member with its default value." alt="" coords="215,208,325,235"/>
+<area shape="rect" id="node7" href="$namespaceutil.html#adeaf46ba502907b9967e63d06e77c5e3" title="Enum値からレジスタ値へとマッピングする為のテンプレート関数" alt="" coords="212,259,328,285"/>
+</map>

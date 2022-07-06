@@ -1,0 +1,4 @@
+<map id="CAN_DeInit" name="CAN_DeInit">
+<area shape="rect" id="node1" title="Deinitializes the CAN peripheral registers to their default reset values." alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node2" href="$group___r_c_c___group3.html#gab197ae4369c10b92640a733b40ed2801" title="Forces or releases Low Speed APB (APB1) peripheral reset." alt="" coords="143,5,331,32"/>
+</map>

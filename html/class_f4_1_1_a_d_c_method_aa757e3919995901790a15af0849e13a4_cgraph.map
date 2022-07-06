@@ -1,0 +1,4 @@
+<map id="F4::ADCMethod::getDMANextTransmitDataPos" name="F4::ADCMethod::getDMANextTransmitDataPos">
+<area shape="rect" id="node1" title="DMAの次回転送位置" alt="" coords="5,5,203,47"/>
+<area shape="rect" id="node2" href="$classperipheral_1_1_d_m_a.html#a52c47fe130733c0808c11b925e9b7212" title="次にデータを転送する位置を取得する" alt="" coords="251,5,449,47"/>
+</map>

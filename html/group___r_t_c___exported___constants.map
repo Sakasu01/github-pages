@@ -1,0 +1,43 @@
+<map id="RTC_Exported_Constants" name="RTC_Exported_Constants">
+<area shape="rect" id="node1" href="$group___r_t_c.html" title="RTC driver modules." alt="" coords="5,1088,52,1113"/>
+<area shape="rect" id="node15" title=" " alt="" coords="100,1088,272,1113"/>
+<area shape="rect" id="node2" href="$group___r_t_c___a_m___p_m___definitions.html" title=" " alt="" coords="343,5,511,31"/>
+<area shape="rect" id="node3" href="$group___r_t_c___add__1___second___parameter___definitions.html" title=" " alt="" coords="322,55,531,95"/>
+<area shape="rect" id="node4" href="$group___r_t_c___alarm_date_week_day___definitions.html" title=" " alt="" coords="341,119,513,159"/>
+<area shape="rect" id="node5" href="$group___r_t_c___alarm_mask___definitions.html" title=" " alt="" coords="333,184,520,209"/>
+<area shape="rect" id="node6" href="$group___r_t_c___alarm___definitions.html" title=" " alt="" coords="349,233,504,259"/>
+<area shape="rect" id="node7" href="$group___r_t_c___alarm___sub___seconds___masks___definitions.html" title=" " alt="" coords="339,283,515,323"/>
+<area shape="rect" id="node8" href="$group___r_t_c___alarm___sub___seconds___value.html" title=" " alt="" coords="339,347,515,387"/>
+<area shape="rect" id="node9" href="$group___r_t_c___alarms___definitions.html" title=" " alt="" coords="345,412,508,437"/>
+<area shape="rect" id="node10" href="$group___r_t_c___asynchronous___predivider.html" title=" " alt="" coords="327,461,527,487"/>
+<area shape="rect" id="node11" href="$group___r_t_c___backup___registers___definitions.html" title=" " alt="" coords="347,511,507,551"/>
+<area shape="rect" id="node12" href="$group___r_t_c___calib___output__selection___definitions.html" title=" " alt="" coords="333,575,521,615"/>
+<area shape="rect" id="node13" href="$group___r_t_c___day_light_saving___definitions.html" title=" " alt="" coords="355,639,498,679"/>
+<area shape="rect" id="node14" href="$group___r_t_c___digital___calibration___definitions.html" title=" " alt="" coords="347,703,506,743"/>
+<area shape="rect" id="node16" href="$group___r_t_c___flags___definitions.html" title=" " alt="" coords="350,768,503,793"/>
+<area shape="rect" id="node17" href="$group___r_t_c___hour___formats.html" title=" " alt="" coords="359,817,495,843"/>
+<area shape="rect" id="node18" href="$group___r_t_c___input__parameter__format__definitions.html" title=" " alt="" coords="353,867,500,907"/>
+<area shape="rect" id="node19" href="$group___r_t_c___interrupts___definitions.html" title=" " alt="" coords="339,932,514,957"/>
+<area shape="rect" id="node20" href="$group___r_t_c___legacy.html" title=" " alt="" coords="379,981,475,1007"/>
+<area shape="rect" id="node21" href="$group___r_t_c___month___date___definitions.html" title=" " alt="" coords="331,1031,522,1056"/>
+<area shape="rect" id="node22" href="$group___r_t_c___output___polarity___definitions.html" title=" " alt="" coords="355,1081,499,1121"/>
+<area shape="rect" id="node23" href="$group___r_t_c___output___type___a_l_a_r_m___o_u_t.html" title=" " alt="" coords="320,1145,533,1171"/>
+<area shape="rect" id="node24" href="$group___r_t_c___output__selection___definitions.html" title=" " alt="" coords="351,1195,503,1235"/>
+<area shape="rect" id="node25" href="$group___r_t_c___smooth__calib___minus__pulses___definitions.html" title=" " alt="" coords="339,1259,514,1299"/>
+<area shape="rect" id="node26" href="$group___r_t_c___smooth__calib___plus__pulses___definitions.html" title=" " alt="" coords="343,1323,510,1363"/>
+<area shape="rect" id="node27" href="$group___r_t_c___smooth__calib__period___definitions.html" title=" " alt="" coords="339,1387,514,1427"/>
+<area shape="rect" id="node28" href="$group___r_t_c___substract___fraction___of___second___value.html" title=" " alt="" coords="345,1451,509,1491"/>
+<area shape="rect" id="node29" href="$group___r_t_c___synchronous___predivider.html" title=" " alt="" coords="330,1516,523,1541"/>
+<area shape="rect" id="node30" href="$group___r_t_c___tamper___filter___definitions.html" title=" " alt="" coords="327,1565,527,1591"/>
+<area shape="rect" id="node31" href="$group___r_t_c___tamper___pin___precharge___duration___definitions.html" title=" " alt="" coords="332,1615,521,1655"/>
+<area shape="rect" id="node32" href="$group___r_t_c___tamper___pin___selection.html" title=" " alt="" coords="335,1680,519,1705"/>
+<area shape="rect" id="node33" href="$group___r_t_c___tamper___pins___definitions.html" title=" " alt="" coords="328,1729,525,1755"/>
+<area shape="rect" id="node34" href="$group___r_t_c___tamper___sampling___frequencies___definitions.html" title=" " alt="" coords="343,1779,510,1819"/>
+<area shape="rect" id="node35" href="$group___r_t_c___tamper___trigger___definitions.html" title=" " alt="" coords="355,1843,498,1883"/>
+<area shape="rect" id="node36" href="$group___r_t_c___time_stamp___pin___selection.html" title=" " alt="" coords="323,1908,530,1933"/>
+<area shape="rect" id="node37" href="$group___r_t_c___time___definitions.html" title=" " alt="" coords="352,1957,501,1983"/>
+<area shape="rect" id="node38" href="$group___r_t_c___time___stamp___edges__definitions.html" title=" " alt="" coords="341,2007,512,2047"/>
+<area shape="rect" id="node39" href="$group___r_t_c___wakeup___timer___definitions.html" title=" " alt="" coords="323,2072,531,2097"/>
+<area shape="rect" id="node40" href="$group___r_t_c___week_day___definitions.html" title=" " alt="" coords="337,2121,516,2147"/>
+<area shape="rect" id="node41" href="$group___r_t_c___year___date___definitions.html" title=" " alt="" coords="335,2171,518,2196"/>
+</map>

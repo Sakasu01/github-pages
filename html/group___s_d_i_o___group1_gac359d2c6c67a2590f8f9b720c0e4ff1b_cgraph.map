@@ -1,0 +1,4 @@
+<map id="SDIO_DeInit" name="SDIO_DeInit">
+<area shape="rect" id="node1" title="Deinitializes the SDIO peripheral registers to their default reset values." alt="" coords="5,5,99,32"/>
+<area shape="rect" id="node2" href="$group___r_c_c___group3.html#gad94553850ac07106a27ee85fec37efdf" title="Forces or releases High Speed APB (APB2) peripheral reset." alt="" coords="147,5,335,32"/>
+</map>

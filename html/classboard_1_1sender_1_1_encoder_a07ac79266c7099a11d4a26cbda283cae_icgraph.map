@@ -1,0 +1,4 @@
+<map id="board::sender::Encoder::setValue" name="board::sender::Encoder::setValue">
+<area shape="rect" id="node1" title="積算値の上書き" alt="" coords="211,5,368,47"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_encoder.html#ae222f54c0e652cf20cd2c089ab8b6973" title="積算値ののリセット．現在位置も0になります．" alt="" coords="5,5,163,47"/>
+</map>

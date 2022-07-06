@@ -1,0 +1,4 @@
+<map id="controller::dc::setDuty" name="controller::dc::setDuty">
+<area shape="rect" id="node1" title="モーターのデューティー比を設定する(setDCmodeでDC_Mode_MANUALを指定した場合に有効)" alt="" coords="208,5,359,32"/>
+<area shape="rect" id="node2" href="$classcontroller_1_1_d_c.html#a97c54e1bcc24af05f16a16948ccb9f5a" title=" " alt="" coords="5,5,160,32"/>
+</map>

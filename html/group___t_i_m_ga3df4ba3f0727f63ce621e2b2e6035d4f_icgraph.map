@@ -1,0 +1,4 @@
+<map id="TIM_BDTRConfig" name="TIM_BDTRConfig">
+<area shape="rect" id="node1" title="Configures the Break feature, dead time, Lock level, OSSI/OSSR State and the AOE(automatic output ena..." alt="" coords="244,13,364,39"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_t_i_m_method.html#a11380b80113598f947e15e588edce9d4" title="アウトプットコンペア初期化" alt="" coords="5,5,196,47"/>
+</map>

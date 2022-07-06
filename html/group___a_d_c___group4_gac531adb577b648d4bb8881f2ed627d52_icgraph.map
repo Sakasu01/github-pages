@@ -1,0 +1,4 @@
+<map id="ADC_RegularChannelConfig" name="ADC_RegularChannelConfig">
+<area shape="rect" id="node1" title="Configures for the selected ADC regular channel its corresponding rank in the sequencer and its sampl..." alt="" coords="211,5,393,32"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_a_d_c_method.html#a99bea80596bf83d71bbde078ed8c9054" title="初期化" alt="" coords="5,5,163,32"/>
+</map>

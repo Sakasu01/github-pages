@@ -1,0 +1,52 @@
+<map id="board::CANClient::sendPacket" name="board::CANClient::sendPacket">
+<area shape="rect" id="node1" title="パケットの送信" alt="" coords="499,1389,697,1416"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_g_p_i_o.html#a59dbc33153cc4344fe922675ef3e8354" title="GPIOの状態を指定" alt="" coords="254,5,421,32"/>
+<area shape="rect" id="node3" href="$classboard_1_1sender_1_1_l_e_d.html#a413e53511963d451c96990f053f85e2c" title="LEDの状態を決める。" alt="" coords="257,56,417,83"/>
+<area shape="rect" id="node4" href="$classboard_1_1sender_1_1_controller_board.html#ad2d4885275a719ee9710d60138866f78" title="ADCのトリガ設定" alt="" coords="255,107,419,149"/>
+<area shape="rect" id="node5" href="$classboard_1_1sender_1_1_g_p_i_os.html#a5802097d041fefd5d31691c3081d60d5" title="すべてのLEDの状態を変更する．" alt="" coords="263,173,411,214"/>
+<area shape="rect" id="node6" href="$classboard_1_1sender_1_1_l_e_ds.html#aba87b202ee8211d01370aae5e6cb58e1" title="すべてのLEDの状態を変更する。" alt="" coords="267,238,408,279"/>
+<area shape="rect" id="node7" href="$classboard_1_1sender_1_1_controller_board.html#a551fb5e7d84a44a7048bc0680470fe65" title="トリガとオペレーションを関連付ける．別の基盤と関連づけるならExternal系と関連付けてください" alt="" coords="255,303,419,345"/>
+<area shape="rect" id="node8" href="$classboard_1_1sender_1_1_servo_board.html#ad6fb75f8311bf948999a45b1e2372610" title="トリガとオペレーションを関連付ける．別の基盤と関連づけるならExternal系と関連付けてください" alt="" coords="250,369,425,410"/>
+<area shape="rect" id="node9" href="$classboard_1_1sender_1_1_solenoid.html#ac7368e227b58d37db1bef4af65d2fb73" title="トリガとオペレーションを関連付ける．別の基盤と関連づけるならExternal系と関連付けてください" alt="" coords="258,434,417,475"/>
+<area shape="rect" id="node10" href="$classboard_1_1sender_1_1_controller_board.html#a914989b7987778fa31c1f8befb1f7f47" title="DCのオペレーション設定" alt="" coords="255,499,419,541"/>
+<area shape="rect" id="node11" href="$classboard_1_1sender_1_1_controller_board.html#ae32c189db6a3f6b763dfb9f6bdf8cbf9" title="DCのエラー処理" alt="" coords="255,1545,419,1586"/>
+<area shape="rect" id="node13" href="$classboard_1_1sender_1_1_controller_d_c.html#a19a1a3d6be5c60b3435814eab47574ac" title="duty比の指定．マザボのDCは―1~1ですがこちらは―100~100です" alt="" coords="255,630,419,671"/>
+<area shape="rect" id="node14" href="$classboard_1_1sender_1_1_g_p_i_os.html#acd1c9454c8c4d729830c82d86ff26e11" title="各LEDの状態をそれぞれ決める" alt="" coords="263,695,411,737"/>
+<area shape="rect" id="node15" href="$classboard_1_1sender_1_1_l_e_ds.html#abea26dba00be80b73100ab93dd45e152" title="各LEDの状態をそれぞれ決める。" alt="" coords="267,761,408,802"/>
+<area shape="rect" id="node16" href="$classboard_1_1sender_1_1_controller_board.html#a1b9989947a7b3fd1f12db4a2ac27e2ff" title="エンコーダのトリガ設定．パラメータが多いため二回に分けて送信します．" alt="" coords="253,826,422,867"/>
+<area shape="rect" id="node17" href="$classboard_1_1sender_1_1_controller_board.html#a9d1369790c17c6d9ee733d7ca6e491c6" title="外部イベントのオペレーション設定．" alt="" coords="244,891,431,933"/>
+<area shape="rect" id="node18" href="$classboard_1_1sender_1_1_servo_board.html#a3f331346ae1c383275613fe6827affa3" title="外部イベントのオペレーション設定．" alt="" coords="250,957,425,998"/>
+<area shape="rect" id="node19" href="$classboard_1_1sender_1_1_solenoid.html#a7cf4b4a76d1a95a0c3a68a51887797df" title="外部イベントのオペレーション設定．" alt="" coords="258,1022,417,1063"/>
+<area shape="rect" id="node20" href="$classboard_1_1sender_1_1_controller_board.html#a86af02ddaaff0852d9a90b94244ac9de" title="外部イベントのトリガ設定．" alt="" coords="253,1087,422,1129"/>
+<area shape="rect" id="node21" href="$classboard_1_1sender_1_1_servo_board.html#a08fe05851cb637ca0469ac74ebeec123" title="外部イベントのトリガ設定．" alt="" coords="250,1153,425,1194"/>
+<area shape="rect" id="node22" href="$classboard_1_1sender_1_1_solenoid.html#a8ab4fe4453945581da1f327bc0e1a5a0" title="外部イベントのトリガ設定．" alt="" coords="258,1218,417,1259"/>
+<area shape="rect" id="node23" href="$classboard_1_1sender_1_1_analog_sensor.html#a9651f21e1832db55febf3acb246194af" title="フィルタをかけるかどうか" alt="" coords="242,1283,433,1325"/>
+<area shape="rect" id="node24" href="$classboard_1_1sender_1_1_controller_board.html#a81acb62010c696252221f9921262fdfb" title="GPIOのオペレーション設定" alt="" coords="252,565,423,606"/>
+<area shape="rect" id="node26" href="$classboard_1_1sender_1_1_solenoid.html#a418e24e9eccf566c76fc52cd214fc77f" title="GPIOのオペレーション設定．電磁弁基板の場合バルブポートです" alt="" coords="258,1349,417,1390"/>
+<area shape="rect" id="node28" href="$classboard_1_1sender_1_1_controller_board.html#a300ccc3e8735a46de80b841c2b2daff2" title="GPIOのエラー処理" alt="" coords="255,1414,419,1455"/>
+<area shape="rect" id="node30" href="$classboard_1_1sender_1_1_solenoid.html#a0f1bece589977b8359b47ba358ab009a" title="GPIOのエラー処理" alt="" coords="258,2263,417,2305"/>
+<area shape="rect" id="node32" href="$classboard_1_1sender_1_1_controller_board.html#a26fc0afbfe7034384f3d77d1bf1f2112" title="GPIOのトリガ設定" alt="" coords="255,1610,419,1651"/>
+<area shape="rect" id="node33" href="$classboard_1_1sender_1_1_servo_board.html#a93dd4cc434fdf56347f51c46b6bf5e77" title="LEDのオペレーション設定" alt="" coords="250,1675,425,1717"/>
+<area shape="rect" id="node34" href="$classboard_1_1sender_1_1_solenoid.html#ad2b8c0546f0c635bcf5b910c9b3dcdbb" title="LEDのオペレーション設定" alt="" coords="258,1741,417,1782"/>
+<area shape="rect" id="node35" href="$classboard_1_1sender_1_1_controller_board.html#af3ac6922cee2d1312107be4b1f108c1d" title="LEDのオペレーション設定" alt="" coords="255,1806,419,1847"/>
+<area shape="rect" id="node36" href="$classboard_1_1sender_1_1_encoder.html#a7fd2f83a6d72b94a871b9c902fb6ad74" title="引き数に入れた値を超えると0に戻る(範囲が0~valueになる)" alt="" coords="259,1871,416,1913"/>
+<area shape="rect" id="node37" href="$classboard_1_1sender_1_1_servo_board.html#a8dae10ff3a5159058eca3bceecf5c1b9" title="DCDCの電源をいじる．オンにしないとどのサーボも動かない．おおもとの電源みたいなもの" alt="" coords="250,1937,425,1978"/>
+<area shape="rect" id="node38" href="$classboard_1_1sender_1_1_encoder.html#a343642de1e9f5aaaf0387e4223931ae2" title="pprの指定．(一応デフォルトで100になっている)" alt="" coords="259,2002,416,2043"/>
+<area shape="rect" id="node39" href="$classboard_1_1sender_1_1_servo.html#a59c88a470123823b6cbeafd3ca542a66" title="パルスの設定" alt="" coords="267,2067,408,2109"/>
+<area shape="rect" id="node40" href="$classboard_1_1sender_1_1_controller_board.html#a17477d8b1e0aabb366e99e38685e68d1" title="PWMのオペレーション設定" alt="" coords="252,2133,423,2174"/>
+<area shape="rect" id="node41" href="$classboard_1_1sender_1_1_servo_board.html#ad1d483b6201642b9a69920f386d6f8ff" title="PWMのオペレーション設定" alt="" coords="250,2198,425,2239"/>
+<area shape="rect" id="node42" href="$classboard_1_1sender_1_1_controller_board.html#ab886503dbaaccbff100fc79457263cb9" title="PWMのエラー処理" alt="" coords="255,1479,419,1521"/>
+<area shape="rect" id="node43" href="$classboard_1_1sender_1_1_servo_board.html#a8911545a5d81f982eeb19522e6fd1674" title=" " alt="" coords="250,2329,425,2370"/>
+<area shape="rect" id="node44" href="$classboard_1_1sender_1_1_controller_d_c.html#a02ead7b83747d9b711ebc66535f05f49" title="有効化or無効化" alt="" coords="255,2394,419,2435"/>
+<area shape="rect" id="node45" href="$classboard_1_1sender_1_1_servo.html#aa7e0fb93ce6a53b8a4af7335337df191" title="サーボの有効化or無効化" alt="" coords="267,2459,408,2501"/>
+<area shape="rect" id="node46" href="$classboard_1_1sender_1_1_controller_d_c.html#ac968ec846447b945443e6740be9b95c4" title="duty比の変化速度の設定．setDutyで指定した値に徐々に近づくようになる． 10(現在値)→40→70(指令値)のように一旦別の値を経由する" alt="" coords="255,2525,419,2566"/>
+<area shape="rect" id="node47" href="$classboard_1_1sender_1_1_servo.html#aa588bc13c810be00d7932d914e150016" title="パルスの変化速度の設定．setPulseで指定した値に徐々に近づくようになる． 100(現在値)→400→700(指令値)のように一旦別の値を経由する" alt="" coords="267,2590,408,2631"/>
+<area shape="rect" id="node48" href="$classboard_1_1sender_1_1_controller_board.html#a7cb4455c319b96822a0e5b7a91e7a504" title="台形加速の設定をします．現在有効なのはpwmとDCです" alt="" coords="224,2655,451,2697"/>
+<area shape="rect" id="node49" href="$classboard_1_1sender_1_1_servo_board.html#a47ca8baaa88544b96537a050f2431f0f" title="台形加速の設定をします．現在有効なのはpwmとDCです" alt="" coords="241,2721,434,2762"/>
+<area shape="rect" id="node50" href="$classboard_1_1sender_1_1_encoder.html#a07ac79266c7099a11d4a26cbda283cae" title="積算値の上書き" alt="" coords="259,2786,416,2827"/>
+<area shape="rect" id="node12" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main関数。" alt="" coords="65,1520,116,1547"/>
+<area shape="rect" id="node25" href="$classboard_1_1sender_1_1_controller_board.html#a6e3b42af0289791ca5a808412da5e1d0" title="GPIOのオペレーション設定" alt="" coords="5,565,176,606"/>
+<area shape="rect" id="node27" href="$classboard_1_1sender_1_1_solenoid.html#a71c3d47bfe40be806a9219879bdf9078" title="GPIOのオペレーション設定．電磁弁基板の場合バルブポートです" alt="" coords="11,1349,170,1390"/>
+<area shape="rect" id="node29" href="$classboard_1_1sender_1_1_controller_board.html#ab470d7069c768b01d899292777afc4dd" title="GPIOのエラー処理(bool)" alt="" coords="9,1414,173,1455"/>
+<area shape="rect" id="node31" href="$classboard_1_1sender_1_1_solenoid.html#afa9549ba9d299586cd55804eeded3954" title="GPIOのエラー処理(bool)" alt="" coords="11,2263,170,2305"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="I2C_SoftwareResetCmd" name="I2C_SoftwareResetCmd">
+<area shape="rect" id="node1" title="Enables or disables the specified I2C software reset." alt="" coords="251,5,409,32"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_i2_c_method.html#a36c04e51cfe2a17e2f63e1cfe602828d" title=" " alt="" coords="5,5,203,32"/>
+</map>

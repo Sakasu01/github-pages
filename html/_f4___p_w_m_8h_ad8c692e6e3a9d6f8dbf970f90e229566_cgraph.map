@@ -1,0 +1,7 @@
+<map id="PWM_setTiming" name="PWM_setTiming">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,124,108"/>
+<area shape="rect" id="node2" href="$group___t_i_m___group2.html#ga48631e66c32bb905946664f4722b2546" title="Sets the TIMx Capture Compare1 Register value." alt="" coords="172,5,301,32"/>
+<area shape="rect" id="node3" href="$group___t_i_m___group2.html#ga3de36754f3ba5d46b9ef2bf8e77575c7" title="Sets the TIMx Capture Compare2 Register value." alt="" coords="172,56,301,83"/>
+<area shape="rect" id="node4" href="$group___t_i_m___group2.html#gac372fbbbbc20329802659dd6c6b4e051" title="Sets the TIMx Capture Compare3 Register value." alt="" coords="172,107,301,133"/>
+<area shape="rect" id="node5" href="$group___t_i_m___group2.html#ga99ba6c2afa87a239c9d32a49762b4245" title="Sets the TIMx Capture Compare4 Register value." alt="" coords="172,157,301,184"/>
+</map>

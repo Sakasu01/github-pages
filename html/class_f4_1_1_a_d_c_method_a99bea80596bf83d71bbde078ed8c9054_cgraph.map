@@ -1,0 +1,12 @@
+<map id="F4::ADCMethod::config" name="F4::ADCMethod::config">
+<area shape="rect" id="node1" title="初期化" alt="" coords="5,208,163,235"/>
+<area shape="rect" id="node2" href="$group___a_d_c___group1.html#ga40882d399e3371755ed610c1134e634e" title="Enables or disables the specified ADC peripheral." alt="" coords="299,5,381,32"/>
+<area shape="rect" id="node3" href="$group___a_d_c___group1.html#ga5803f6581a9cd7e90b6e637067102d94" title="Initializes the ADCs peripherals according to the specified parameters in the ADC_CommonInitStruct." alt="" coords="277,56,403,83"/>
+<area shape="rect" id="node4" href="$group___a_d_c___group5.html#gac5881d5995818001584b27b137a8dbcb" title="Enables or disables the specified ADC DMA request." alt="" coords="284,107,396,133"/>
+<area shape="rect" id="node5" href="$group___a_d_c___group5.html#ga912fd3e923ae4435621724e1bbc52729" title="Enables or disables the ADC DMA request after last transfer (Single&#45;ADC mode)" alt="" coords="211,157,469,184"/>
+<area shape="rect" id="node6" href="$group___a_d_c___group1.html#gabbab6038cf8691404350625e477254f9" title="Initializes the ADCx peripheral according to the specified parameters in the ADC_InitStruct." alt="" coords="303,208,377,235"/>
+<area shape="rect" id="node7" href="$group___a_d_c___group4.html#gac531adb577b648d4bb8881f2ed627d52" title="Configures for the selected ADC regular channel its corresponding rank in the sequencer and its sampl..." alt="" coords="249,259,431,285"/>
+<area shape="rect" id="node8" href="$group___a_d_c___group4.html#gac1cd466e725595812c1bbfdad2459ff1" title="Enables the selected ADC software start conversion of the regular channels." alt="" coords="259,309,421,336"/>
+<area shape="rect" id="node9" href="$group___a_d_c___group1.html#ga6c6e754d1d0a98d56e465efaf73272ec" title="Fills each ADC_InitStruct member with its default value." alt="" coords="286,360,394,387"/>
+<area shape="rect" id="node10" href="$classperipheral_1_1_d_m_a.html#a8e00eb1b1e703192130cf9332b93c040" title="DMAの初期化" alt="" coords="261,411,419,437"/>
+</map>

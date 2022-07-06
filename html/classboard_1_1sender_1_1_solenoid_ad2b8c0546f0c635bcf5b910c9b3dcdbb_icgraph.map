@@ -1,0 +1,4 @@
+<map id="board::sender::Solenoid::setLEDOperation" name="board::sender::Solenoid::setLEDOperation">
+<area shape="rect" id="node1" title="LEDのオペレーション設定" alt="" coords="212,5,371,47"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_solenoid.html#a7e6308dcc435ae6d29ff7ad63deb014a" title="LEDのオペレーション設定" alt="" coords="5,5,164,47"/>
+</map>

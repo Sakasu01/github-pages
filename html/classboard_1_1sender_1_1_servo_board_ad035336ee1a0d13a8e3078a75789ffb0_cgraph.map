@@ -1,0 +1,12 @@
+<map id="board::sender::ServoBoard::config" name="board::sender::ServoBoard::config">
+<area shape="rect" id="node1" title="初期化" alt="" coords="5,37,180,79"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_servo_board.html#aae17b7f4e8d28c298b0c99f1bb80cdfc" title="バージョン確認．configの時に呼ばれます" alt="" coords="228,67,403,108"/>
+<area shape="rect" id="node3" href="$classboard_1_1_c_a_n_client.html#a624cf13a6e6602d343bd59411c07d983" title="返信待ちをする" alt="" coords="451,8,649,49"/>
+<area shape="rect" id="node8" href="$classnwp_1_1_binary_data.html#aaa74bad0454dde119164540b68298d4e" title="バイナリ情報を格納" alt="" coords="463,75,637,102"/>
+<area shape="rect" id="node4" href="$classcanprotocol_1_1_provider.html#a2342ec3483125d5b9936440c8269900d" title="パケットを送信し返答を待つ" alt="" coords="697,5,904,47"/>
+<area shape="rect" id="node5" href="$classutil_1_1_elapsed_timer.html#a8185e4ffab40f1dc3cc2fac14e80b421" title="経過時間[us]を取得" alt="" coords="961,5,1087,47"/>
+<area shape="rect" id="node6" href="$classutil_1_1_elapsed_timer.html#ad1d10891ffc4170aed69bbed719e64c8" title="経過クロックを取得" alt="" coords="1144,5,1272,47"/>
+<area shape="rect" id="node7" href="$delay_8c.html#a0342b3bee1fd47bc3013305a0b8c2661" title="関数を実行した時のカウンタを取得する関数" alt="" coords="1320,13,1432,39"/>
+<area shape="rect" id="node9" href="$classnwp_1_1_binary_serializer.html#a48258cc196702e891abca284b68c39d7" title=" " alt="" coords="729,71,873,112"/>
+<area shape="rect" id="node10" href="$classnwp_1_1_binary_converter.html#aa316c2756b8aac47283351ca8010f79c" title="変数→バイナリへの変換" alt="" coords="952,71,1096,112"/>
+</map>

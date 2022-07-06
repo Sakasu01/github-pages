@@ -1,0 +1,14 @@
+<map id="C:/stm32/workspace/NatsuRobo2022/Sugoroku/userlib/old/SerialProtocol/SerialProtocol.h" name="C:/stm32/workspace/NatsuRobo2022/Sugoroku/userlib/old/SerialProtocol/SerialProtocol.h">
+<area shape="rect" id="node1" title=" " alt="" coords="417,5,595,76"/>
+<area shape="rect" id="node2" href="$platform__config_8h.html" title=" " alt="" coords="446,124,566,151"/>
+<area shape="rect" id="node3" href="$stm32f4xx_8h.html" title="CMSIS Cortex&#45;M4 Device Peripheral Access Layer Header File. This file contains all the peripheral reg..." alt="" coords="351,199,445,225"/>
+<area shape="rect" id="node11" title=" " alt="" coords="469,199,543,225"/>
+<area shape="rect" id="node12" href="$delay_8h.html" title=" " alt="" coords="567,199,631,225"/>
+<area shape="rect" id="node4" href="$stm32f4xx__support_8h.html" title=" " alt="" coords="264,273,407,300"/>
+<area shape="rect" id="node5" href="$core__cm4_8h.html" title="CMSIS Cortex&#45;M4 Core Peripheral Access Layer Header File." alt="" coords="149,273,239,300"/>
+<area shape="rect" id="node6" title=" " alt="" coords="412,348,477,375"/>
+<area shape="rect" id="node10" href="$system__stm32f4xx_8h.html" title="CMSIS Cortex&#45;M4 Device System Source File for STM32F4xx devices." alt="" coords="483,273,625,300"/>
+<area shape="rect" id="node7" href="$core__cm_instr_8h.html" title="CMSIS Cortex&#45;M Core Instruction Access Header File." alt="" coords="5,348,113,375"/>
+<area shape="rect" id="node8" href="$core__cm_func_8h.html" title="CMSIS Cortex&#45;M Core Function Access Header File." alt="" coords="138,348,250,375"/>
+<area shape="rect" id="node9" href="$core__cm_simd_8h.html" title="CMSIS Cortex&#45;M SIMD Header File." alt="" coords="275,348,388,375"/>
+</map>

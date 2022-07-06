@@ -1,0 +1,8 @@
+<map id="board::sender::Servo::setTrapeAccel" name="board::sender::Servo::setTrapeAccel">
+<area shape="rect" id="node1" title="パルスの変化速度の設定．setPulseで指定した値に徐々に近づくようになる． 100(現在値)→400→700(指令値)のように一旦別の値を経由する" alt="" coords="5,39,147,80"/>
+<area shape="rect" id="node2" href="$classboard_1_1_c_a_n_client.html#a7576d9a550dd50bd5b114da97f84eab9" title="パケットの送信" alt="" coords="195,17,393,43"/>
+<area shape="rect" id="node4" href="$classnwp_1_1_binary_data.html#aaa74bad0454dde119164540b68298d4e" title="バイナリ情報を格納" alt="" coords="207,71,381,98"/>
+<area shape="rect" id="node3" href="$classcanprotocol_1_1_provider.html#ac4cd58667d32181c116f78c62aac4974" title="パケットの送信" alt="" coords="442,5,585,47"/>
+<area shape="rect" id="node5" href="$classnwp_1_1_binary_serializer.html#a48258cc196702e891abca284b68c39d7" title=" " alt="" coords="441,71,585,112"/>
+<area shape="rect" id="node6" href="$classnwp_1_1_binary_converter.html#aa316c2756b8aac47283351ca8010f79c" title="変数→バイナリへの変換" alt="" coords="633,71,777,112"/>
+</map>

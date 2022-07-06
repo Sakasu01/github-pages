@@ -1,0 +1,4 @@
+<map id="SimplePID" name="SimplePID">
+<area shape="rect" id="node1" title="一番簡単で単純で雑なPID" alt="" coords="10,80,93,107"/>
+<area shape="rect" id="node2" href="$class_p_i_d_interface.html" title="PIDLibのインターフェース" alt="" coords="5,5,97,32"/>
+</map>

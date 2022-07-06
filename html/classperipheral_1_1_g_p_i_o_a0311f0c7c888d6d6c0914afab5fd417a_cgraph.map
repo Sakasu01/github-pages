@@ -1,0 +1,9 @@
+<map id="peripheral::GPIO::read" name="peripheral::GPIO::read">
+<area shape="rect" id="node1" title="ピンの入力状態を取得" alt="" coords="5,31,156,57"/>
+<area shape="rect" id="node2" href="$group___g_p_i_o.html#ga5fbef3bf5381b9c9f70558cd022c5a95" title="GPIO入力" alt="" coords="204,31,344,57"/>
+<area shape="rect" id="node3" href="$_c_a_n_protocol__alternate_8cpp.html#ad4102cce7008ce03b52df40e43dd867b" title=" " alt="" coords="392,31,632,57"/>
+<area shape="rect" id="node4" href="$namespaceold2new.html#af99697de142073ec3d096338ad1dd760" title=" " alt="" coords="680,5,855,32"/>
+<area shape="rect" id="node5" href="$namespaceold2new.html#a81ca7fc75258733e417ed732204e4273" title=" " alt="" coords="692,56,843,83"/>
+<area shape="rect" id="node6" href="$classnwp_1_1_binary_data.html#abc8a0d71548abd3b642f5291c409efb0" title=" " alt="" coords="903,56,1072,83"/>
+<area shape="rect" id="node7" href="$classnwp_1_1_binary_data.html#a12ddc0876aadf69975f0c02eabadb58c" title="データのサイズ[byte] toBinaryでのみ変更される" alt="" coords="1120,56,1269,83"/>
+</map>

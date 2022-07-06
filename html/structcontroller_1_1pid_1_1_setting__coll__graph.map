@@ -1,0 +1,7 @@
+<map id="controller::pid::Setting" name="controller::pid::Setting">
+<area shape="rect" id="node1" title=" " alt="" coords="329,85,479,112"/>
+<area shape="rect" id="node2" href="$structcontroller_1_1pid_1_1_parameter.html" title=" " alt="" coords="10,5,178,32"/>
+<area shape="rect" id="node3" href="$structcontroller_1_1pid_1_1_offset.html" title=" " alt="" coords="23,56,165,83"/>
+<area shape="rect" id="node4" href="$structcontroller_1_1pid_1_1_brushless_param.html" title=" " alt="" coords="11,107,177,149"/>
+<area shape="rect" id="node5" href="$structcontroller_1_1pid_1_1_masterslave.html" title=" " alt="" coords="5,173,183,200"/>
+</map>

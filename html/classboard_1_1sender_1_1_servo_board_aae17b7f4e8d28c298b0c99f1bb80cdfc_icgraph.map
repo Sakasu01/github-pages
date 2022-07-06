@@ -1,0 +1,4 @@
+<map id="board::sender::ServoBoard::checkVersion" name="board::sender::ServoBoard::checkVersion">
+<area shape="rect" id="node1" title="バージョン確認．configの時に呼ばれます" alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_servo_board.html#ad035336ee1a0d13a8e3078a75789ffb0" title="初期化" alt="" coords="5,5,180,47"/>
+</map>

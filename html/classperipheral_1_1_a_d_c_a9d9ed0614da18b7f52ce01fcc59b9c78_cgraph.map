@@ -1,0 +1,4 @@
+<map id="peripheral::ADC::config" name="peripheral::ADC::config">
+<area shape="rect" id="node1" title="初期化" alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node2" href="$classperipheral_1_1_g_p_i_o.html#adabd186eefed6b85968283144f255d08" title="ピンの初期化" alt="" coords="208,5,368,32"/>
+</map>

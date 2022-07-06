@@ -1,0 +1,11 @@
+<map id="F4::SPIMethod::config" name="F4::SPIMethod::config">
+<area shape="rect" id="node1" title="初期化" alt="" coords="5,132,156,159"/>
+<area shape="rect" id="node2" href="$classperipheral_1_1_g_p_i_o.html#adabd186eefed6b85968283144f255d08" title="ピンの初期化" alt="" coords="213,5,373,32"/>
+<area shape="rect" id="node3" href="$classperipheral_1_1_g_p_i_o.html#aca37ad9398b220c35188bdc575b7f9ff" title="AlternateFunctionの初期化" alt="" coords="204,56,381,83"/>
+<area shape="rect" id="node4" href="$group___s_p_i___group1.html#gaa31357879a65ee1ed7223f3b9114dcf3" title="Enables or disables the specified SPI peripheral." alt="" coords="254,107,331,133"/>
+<area shape="rect" id="node5" href="$group___s_p_i___group1.html#gabe36880945fa56785283a9c0092124cc" title="De&#45;initialize the SPIx peripheral registers to their default reset values." alt="" coords="238,157,347,184"/>
+<area shape="rect" id="node8" href="$group___s_p_i___group1.html#ga8dacc1dc48bf08c0f12da409f4889037" title="Initializes the SPIx peripheral according to the specified parameters in the SPI_InitStruct." alt="" coords="259,208,326,235"/>
+<area shape="rect" id="node9" href="$group___s_p_i___group1.html#ga9a0116f88cc2c4478c270f05608703f1" title="Fills each SPI_InitStruct member with its default value." alt="" coords="241,259,344,285"/>
+<area shape="rect" id="node6" href="$group___r_c_c___group3.html#gab197ae4369c10b92640a733b40ed2801" title="Forces or releases Low Speed APB (APB1) peripheral reset." alt="" coords="429,132,617,159"/>
+<area shape="rect" id="node7" href="$group___r_c_c___group3.html#gad94553850ac07106a27ee85fec37efdf" title="Forces or releases High Speed APB (APB2) peripheral reset." alt="" coords="429,183,617,209"/>
+</map>

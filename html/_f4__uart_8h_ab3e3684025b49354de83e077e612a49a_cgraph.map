@@ -1,0 +1,6 @@
+<map id="UART_puts_s" name="UART_puts_s">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,108,57"/>
+<area shape="rect" id="node2" href="$_f4__uart_8c.html#ab986ac38b77ed9a5e1d05cff80e7f3a1" title=" " alt="" coords="156,31,251,57"/>
+<area shape="rect" id="node3" href="$group___u_s_a_r_t___group9.html#ga144630722defc9e312f0ad280b68e9da" title="Checks whether the specified USART flag is set or not." alt="" coords="299,5,455,32"/>
+<area shape="rect" id="node4" href="$group___u_s_a_r_t___group2.html#ga0b43d42da9540f446d494bf69823c6fb" title="Transmits single data through the USARTx peripheral." alt="" coords="312,56,441,83"/>
+</map>

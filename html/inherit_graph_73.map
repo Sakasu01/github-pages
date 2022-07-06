@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classboard_1_1base_1_1_l_e_d_interface.html" title=" " alt="" coords="5,5,177,32"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_l_e_d.html" title="送信側のLED操作クラス。これを各基盤クラスのメンバに持てば使える。" alt="" coords="225,5,360,32"/>
+</map>

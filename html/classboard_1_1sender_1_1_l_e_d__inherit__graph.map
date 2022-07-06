@@ -1,0 +1,4 @@
+<map id="board::sender::LED" name="board::sender::LED">
+<area shape="rect" id="node1" title="送信側のLED操作クラス。これを各基盤クラスのメンバに持てば使える。" alt="" coords="24,80,159,107"/>
+<area shape="rect" id="node2" href="$classboard_1_1base_1_1_l_e_d_interface.html" title=" " alt="" coords="5,5,177,32"/>
+</map>

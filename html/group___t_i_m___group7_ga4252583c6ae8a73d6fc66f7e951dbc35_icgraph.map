@@ -1,0 +1,4 @@
+<map id="TIM_SelectInputTrigger" name="TIM_SelectInputTrigger">
+<area shape="rect" id="node1" title="Selects the Input Trigger source." alt="" coords="247,5,401,32"/>
+<area shape="rect" id="node2" href="$group___t_i_m___group6.html#gabef227d21d9e121e6a4ec5ab6223f5a9" title="Configures the TIMx Internal Trigger as External Clock." alt="" coords="5,5,199,32"/>
+</map>

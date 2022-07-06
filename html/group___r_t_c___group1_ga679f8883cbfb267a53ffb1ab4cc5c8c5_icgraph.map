@@ -1,0 +1,8 @@
+<map id="RTC_EnterInitMode" name="RTC_EnterInitMode">
+<area shape="rect" id="node1" title="Enters the RTC Initialization mode." alt="" coords="213,107,348,133"/>
+<area shape="rect" id="node2" href="$group___r_t_c___group7.html#ga008ae7173b2befe876f5e76686bc9089" title="Enables or disables the Coarse calibration process." alt="" coords="10,5,161,32"/>
+<area shape="rect" id="node3" href="$group___r_t_c___group7.html#gaa3bb10170a2c70ac9ce3e41c611bdd43" title="Configures the Coarse calibration parameters." alt="" coords="5,56,165,83"/>
+<area shape="rect" id="node4" href="$group___r_t_c___group1.html#ga9777c6cc4a99c339ebc527a791b2ebe7" title="Deinitializes the RTC registers to their default reset values." alt="" coords="42,107,129,133"/>
+<area shape="rect" id="node5" href="$group___r_t_c___group1.html#ga8eb747bf9698b2482ba6ef4d811de8e0" title="Initializes the RTC registers according to the specified parameters in RTC_InitStruct." alt="" coords="50,157,121,184"/>
+<area shape="rect" id="node6" href="$group___r_t_c___group1.html#gaa60079ec257fb3a277d058ca8305533d" title="Enables or disables the RTC reference clock detection." alt="" coords="19,208,152,235"/>
+</map>

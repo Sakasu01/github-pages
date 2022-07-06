@@ -1,0 +1,4 @@
+<map id="controller::led::setStatus" name="controller::led::setStatus">
+<area shape="rect" id="node1" title="LEDの状態を設定" alt="" coords="184,13,348,39"/>
+<area shape="rect" id="node2" href="$classcontroller_1_1_mini_con.html#a92614ccda2b08f7eaeb5db33611d397a" title=" " alt="" coords="5,5,136,47"/>
+</map>

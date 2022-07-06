@@ -1,0 +1,13 @@
+<map id="Eigen::internal::quat_product&lt; Architecture::SSE, Derived, OtherDerived, double &gt;::run" name="Eigen::internal::quat_product&lt; Architecture::SSE, Derived, OtherDerived, double &gt;::run">
+<area shape="rect" id="node1" title=" " alt="" coords="5,209,199,280"/>
+<area shape="rect" id="node2" href="$class_eigen_1_1_quaternion_base.html#a1a7dd10b8e218170dd8f52edd8356f9b" title=" " alt="" coords="254,5,410,47"/>
+<area shape="rect" id="node4" href="$namespace_eigen_1_1internal.html#a0f50f3baa0dcc73cd1c0baa06e5c8c13" title=" " alt="" coords="261,71,403,98"/>
+<area shape="rect" id="node5" href="$namespace_eigen_1_1internal.html#a776f5f4b514ecaed2a98db928b8f745f" title=" " alt="" coords="261,122,403,149"/>
+<area shape="rect" id="node6" href="$namespace_eigen_1_1internal.html#a6f2a4f141d591a6b416ef718ef75909c" title=" " alt="" coords="251,173,413,199"/>
+<area shape="rect" id="node7" href="$namespace_eigen_1_1internal.html#a6024368181b050eb03ef7eea98f084ea" title=" " alt="" coords="259,224,405,265"/>
+<area shape="rect" id="node8" href="$namespace_eigen_1_1internal.html#acfb1e7fe49c73d1885dea028b1745e6a" title=" " alt="" coords="261,290,403,317"/>
+<area shape="rect" id="node9" href="$namespace_eigen_1_1internal.html#a55d803cfd28067f796e12df8eb7e4354" title=" " alt="" coords="263,341,401,367"/>
+<area shape="rect" id="node10" href="$class_eigen_1_1_quaternion_base.html#a782b9d83caa9bbe84d6e0b822f2dbea9" title=" " alt="" coords="247,391,417,418"/>
+<area shape="rect" id="node11" href="$class_eigen_1_1_quaternion_base.html#abb82ebd1b6ac5e6c4442201ede65449b" title=" " alt="" coords="247,442,417,469"/>
+<area shape="rect" id="node3" href="$class_eigen_1_1_rotation_base.html#a5e56aa87e85197633380760bc4d0475b" title=" " alt="" coords="465,384,616,425"/>
+</map>

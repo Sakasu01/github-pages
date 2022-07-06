@@ -1,0 +1,4 @@
+<map id="FLASH_EraseSector" name="FLASH_EraseSector">
+<area shape="rect" id="node1" title="Erases a specified FLASH Sector." alt="" coords="159,5,301,32"/>
+<area shape="rect" id="node2" href="$_f4__flash_8c.html#acaac62b13b7f1e41573ddc3664f3dd6c" title="セクタのデータ消去を行います。" alt="" coords="5,5,111,32"/>
+</map>

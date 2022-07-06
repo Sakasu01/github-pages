@@ -1,0 +1,4 @@
+<map id="Eigen::HouseholderSequence::setShift" name="Eigen::HouseholderSequence::setShift">
+<area shape="rect" id="node1" title="Sets the shift of the Householder sequence." alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$class_eigen_1_1_householder_sequence.html#a34482bfad5563fd8a8a4264db76ac917" title="Returns the shift of the Householder sequence." alt="" coords="247,5,440,47"/>
+</map>

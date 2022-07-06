@@ -1,0 +1,4 @@
+<map id="board::base::GPIOInterface" name="board::base::GPIOInterface">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_g_p_i_o.html" title="GPIOのクラス．LEDにread関数を追加しただけ" alt="" coords="24,80,165,107"/>
+</map>

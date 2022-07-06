@@ -1,0 +1,4 @@
+<map id="SPI_I2S_DeInit" name="SPI_I2S_DeInit">
+<area shape="rect" id="node1" title="De&#45;initialize the SPIx peripheral registers to their default reset values." alt="" coords="204,5,313,32"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_s_p_i_method.html#ab8f5aa8fb4a8d383746f6866d6b8c5cd" title="初期化" alt="" coords="5,5,156,32"/>
+</map>
