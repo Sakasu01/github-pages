@@ -1,0 +1,5 @@
+<map id="board::base::LEDsInterface&lt; size &gt;" name="board::base::LEDsInterface&lt; size &gt;">
+<area shape="rect" id="node1" title="base::LEDInterfaceを継承したクラスを複数扱うためのクラス。" alt="" coords="93,5,271,47"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_l_e_ds.html" title=" " alt="" coords="5,102,177,129"/>
+<area shape="rect" id="node3" href="$classboard_1_1sender_1_1_l_e_ds.html" title="送信側のLEDを複数操作する用のクラス。これを各基板クラスのメンバに持てば使える。" alt="" coords="202,95,343,136"/>
+</map>

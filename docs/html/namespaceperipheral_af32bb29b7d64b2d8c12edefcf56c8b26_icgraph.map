@@ -1,0 +1,4 @@
+<map id="peripheral::calcPrescalerFromFreq" name="peripheral::calcPrescalerFromFreq">
+<area shape="rect" id="node1" title="ベース周波数と目標周波数からプリスケーラとピリオドを計算する" alt="" coords="264,5,429,47"/>
+<area shape="rect" id="node2" href="$structperipheral_1_1_timer_clock_parameter.html#ad3f0dc6a52a1b24a672c4adee89cd276" title="目標周波数からプリスケーラなどの情報を生成する" alt="" coords="5,5,216,47"/>
+</map>

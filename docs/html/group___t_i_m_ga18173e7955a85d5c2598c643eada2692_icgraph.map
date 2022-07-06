@@ -1,0 +1,4 @@
+<map id="TIM_SetCounter" name="TIM_SetCounter">
+<area shape="rect" id="node1" title="Sets the TIMx Counter Register value." alt="" coords="216,5,331,32"/>
+<area shape="rect" id="node2" href="$_f4__enc_8c.html#a2fe9d2b87e00b59646e9bc161125f67f" title="ENCのカウント値を0リセットする" alt="" coords="5,5,168,32"/>
+</map>

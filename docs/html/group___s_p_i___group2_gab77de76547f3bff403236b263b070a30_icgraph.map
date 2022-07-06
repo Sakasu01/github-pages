@@ -1,0 +1,4 @@
+<map id="SPI_I2S_ReceiveData" name="SPI_I2S_ReceiveData">
+<area shape="rect" id="node1" title="Returns the most recent received data by the SPIx/I2Sx peripheral." alt="" coords="248,5,396,32"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_s_p_i_method.html#a58eb05ccc83dae0b7381a673e86656fd" title="交換" alt="" coords="5,5,200,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="ENC_config" name="ENC_config">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,96,209"/>
+<area shape="rect" id="node2" href="$_f4___common_macro_8c.html#a13a154eb1030fb7136bf7f58debfeb76" title=" " alt="" coords="177,56,294,83"/>
+<area shape="rect" id="node6" href="$group___g_p_i_o___group3.html#ga0a77617a322562ae84f8d72486032c5d" title="Changes the mapping of the specified pin." alt="" coords="169,107,302,133"/>
+<area shape="rect" id="node7" href="$group___t_i_m___group1.html#ga2bdc275bcbd2ce9d1ba632e6c89896b7" title="Enables or disables the specified TIM peripheral." alt="" coords="197,157,274,184"/>
+<area shape="rect" id="node8" href="$group___t_i_m___group8.html#ga0fc7e76c47a3bd1ba1ebc71427832b51" title="Configures the TIMx Encoder Interface." alt="" coords="144,208,327,235"/>
+<area shape="rect" id="node9" href="$group___t_i_m___group1.html#ga83fd58c9416802d9638bbe1715c98932" title="Initializes the TIMx Time Base Unit peripheral according to the specified parameters in the TIM_TimeB..." alt="" coords="173,259,298,285"/>
+<area shape="rect" id="node10" href="$group___t_i_m___group1.html#ga1556a0b9a5d53506875fd7de0cbc6b1f" title="Fills each TIM_TimeBaseInitStruct member with its default value." alt="" coords="155,309,315,336"/>
+<area shape="rect" id="node3" href="$group___g_p_i_o___group1.html#ga71abf9404261370d03cca449b88d3a65" title="Initializes the GPIOx peripheral according to the specified parameters in the GPIO_InitStruct." alt="" coords="429,5,507,32"/>
+<area shape="rect" id="node4" href="$group___g_p_i_o___group1.html#gab28de41278e7f8c63d0851e2733b10df" title="Fills each GPIO_InitStruct member with its default value." alt="" coords="411,56,525,83"/>
+<area shape="rect" id="node5" href="$group___r_c_c___group3.html#ga80c89116820d48bb38db2e7d5e5a49b9" title="Enables or disables the AHB1 peripheral clock." alt="" coords="375,107,561,133"/>
+</map>

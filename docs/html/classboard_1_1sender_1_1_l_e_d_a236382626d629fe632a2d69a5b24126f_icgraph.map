@@ -1,0 +1,7 @@
+<map id="board::sender::LED::off" name="board::sender::LED::off">
+<area shape="rect" id="node1" title="消える。" alt="" coords="417,71,572,98"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_l_e_d.html#a28241f5bcbf7fd870e0b13aa23899083" title="LEDの状態を決める(bool)" alt="" coords="209,71,369,98"/>
+<area shape="rect" id="node3" href="$classboard_1_1sender_1_1_l_e_d.html#a90de6ff0f4244724207e4649f99efea4" title="状態を変更しない。やるだけ無駄。" alt="" coords="16,5,151,47"/>
+<area shape="rect" id="node4" href="$classboard_1_1sender_1_1_l_e_d.html#a713089041b8189a8ccf590132c5bea7f" title="光る。" alt="" coords="5,71,161,98"/>
+<area shape="rect" id="node5" href="$classboard_1_1sender_1_1_l_e_d.html#ac854e95038204086e449984ad57223ed" title="状態を反転させる。" alt="" coords="16,123,151,164"/>
+</map>

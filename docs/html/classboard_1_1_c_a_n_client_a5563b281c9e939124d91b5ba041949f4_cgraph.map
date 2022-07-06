@@ -1,0 +1,5 @@
+<map id="board::CANClient::showConnecetedBoards" name="board::CANClient::showConnecetedBoards">
+<area shape="rect" id="node1" title="つながっている基板を出力する" alt="" coords="5,5,235,47"/>
+<area shape="rect" id="node2" href="$classboard_1_1_c_a_n_client.html#a67cc925b996b0d921a5476b507045821" title="CANラインにつながっている基板の情報を取り出す" alt="" coords="283,5,493,47"/>
+<area shape="rect" id="node3" href="$classcanprotocol_1_1_master_command_client.html#a86906bf85712f162a3cac9ef5ada4a7c" title=" " alt="" coords="541,5,737,47"/>
+</map>

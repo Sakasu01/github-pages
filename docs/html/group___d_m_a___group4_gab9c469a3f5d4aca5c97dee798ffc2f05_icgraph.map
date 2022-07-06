@@ -1,0 +1,4 @@
+<map id="DMA_ITConfig" name="DMA_ITConfig">
+<area shape="rect" id="node1" title="Enables or disables the specified DMAy Streamx interrupts." alt="" coords="212,5,316,32"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_d_m_a_method.html#afa15fc94e55624623417502abb274e9f" title=" " alt="" coords="5,5,164,32"/>
+</map>

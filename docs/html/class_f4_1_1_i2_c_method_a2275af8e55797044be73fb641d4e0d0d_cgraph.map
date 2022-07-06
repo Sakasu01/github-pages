@@ -1,0 +1,12 @@
+<map id="F4::I2CMethod::sendRepeatedStartCondition" name="F4::I2CMethod::sendRepeatedStartCondition">
+<area shape="rect" id="node1" title="Repeated Start Condition発行" alt="" coords="5,166,204,207"/>
+<area shape="rect" id="node2" href="$namespaceutil.html#adeaf46ba502907b9967e63d06e77c5e3" title="Enum値からレジスタ値へとマッピングする為のテンプレート関数" alt="" coords="275,5,391,32"/>
+<area shape="rect" id="node3" href="$classutil_1_1_elapsed_timer.html#a8185e4ffab40f1dc3cc2fac14e80b421" title="経過時間[us]を取得" alt="" coords="269,57,396,98"/>
+<area shape="rect" id="node6" href="$group___i2_c___group1.html#ga7bb44e894d68a7991f564c43fb187486" title="Enables or disables the specified I2C acknowledge feature." alt="" coords="252,123,413,149"/>
+<area shape="rect" id="node7" href="$group___i2_c___group5.html#ga2d5701342f9d4c1f09bf9d3cdcacc326" title="Checks whether the last I2Cx Event is equal to the one passed as parameter." alt="" coords="274,173,391,200"/>
+<area shape="rect" id="node8" href="$group___i2_c___group1.html#ga36c522b471588be9779c878222ccb20f" title="Generates I2Cx communication START condition." alt="" coords="261,224,404,251"/>
+<area shape="rect" id="node9" href="$group___i2_c___group1.html#ga009fc2a5b2313c36da39ece39a1156a6" title="Transmits the address byte to select the slave device." alt="" coords="259,275,406,301"/>
+<area shape="rect" id="node10" href="$classutil_1_1_elapsed_timer.html#a7777579df83cfc25eb7d2b4073483def" title="計測を再度開始" alt="" coords="462,221,589,262"/>
+<area shape="rect" id="node4" href="$classutil_1_1_elapsed_timer.html#ad1d10891ffc4170aed69bbed719e64c8" title="経過クロックを取得" alt="" coords="461,106,589,147"/>
+<area shape="rect" id="node5" href="$delay_8c.html#a0342b3bee1fd47bc3013305a0b8c2661" title="関数を実行した時のカウンタを取得する関数" alt="" coords="637,196,749,223"/>
+</map>

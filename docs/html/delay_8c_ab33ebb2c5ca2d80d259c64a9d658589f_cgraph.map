@@ -1,0 +1,5 @@
+<map id="delay_us" name="delay_us">
+<area shape="rect" id="node1" title="指定した時間[us]待つ関数" alt="" coords="5,31,80,57"/>
+<area shape="rect" id="node2" href="$delay_8c.html#a0342b3bee1fd47bc3013305a0b8c2661" title="関数を実行した時のカウンタを取得する関数" alt="" coords="141,5,253,32"/>
+<area shape="rect" id="node3" href="$delay_8c.html#a45d4235eaff2465c3dbe9b3f08d97a87" title="ある基準の時から指定した時間[us]待つ関数" alt="" coords="128,56,267,83"/>
+</map>

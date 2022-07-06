@@ -1,0 +1,4 @@
+<map id="I2C_SendData" name="I2C_SendData">
+<area shape="rect" id="node1" title="Sends a data byte through the I2Cx peripheral." alt="" coords="216,5,321,32"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_i2_c_method.html#a80341d55bb5456567e05ffa7da25eadf" title="送信" alt="" coords="5,5,168,32"/>
+</map>

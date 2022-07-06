@@ -1,0 +1,5 @@
+<map id="controller::encoder::setMaxPosition" name="controller::encoder::setMaxPosition">
+<area shape="rect" id="node1" title="ENCの位置の最大値(この値を超えると位置が0に戻る)を設定" alt="" coords="211,39,340,80"/>
+<area shape="rect" id="node2" href="$classcontroller_1_1_encoder.html#aa5efb3c6fba53644ca3682b5a2198dcc" title=" " alt="" coords="19,5,149,47"/>
+<area shape="rect" id="node3" href="$classboard_1_1sender_1_1_encoder.html#a7fd2f83a6d72b94a871b9c902fb6ad74" title="引き数に入れた値を超えると0に戻る(範囲が0~valueになる)" alt="" coords="5,71,163,112"/>
+</map>

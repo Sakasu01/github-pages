@@ -1,0 +1,4 @@
+<map id="board::sender::Solenoid::setGPIOOperation" name="board::sender::Solenoid::setGPIOOperation">
+<area shape="rect" id="node1" title="GPIOのオペレーション設定．電磁弁基板の場合バルブポートです" alt="" coords="212,5,371,47"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_solenoid.html#a71c3d47bfe40be806a9219879bdf9078" title="GPIOのオペレーション設定．電磁弁基板の場合バルブポートです" alt="" coords="5,5,164,47"/>
+</map>

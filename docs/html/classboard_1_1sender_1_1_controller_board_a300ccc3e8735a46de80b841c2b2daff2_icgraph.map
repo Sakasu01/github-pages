@@ -1,0 +1,5 @@
+<map id="board::sender::ControllerBoard::setGPIOSafety" name="board::sender::ControllerBoard::setGPIOSafety">
+<area shape="rect" id="node1" title="GPIOのエラー処理" alt="" coords="217,27,381,69"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main関数。" alt="" coords="62,5,113,32"/>
+<area shape="rect" id="node3" href="$classboard_1_1sender_1_1_controller_board.html#ab470d7069c768b01d899292777afc4dd" title="GPIOのエラー処理(bool)" alt="" coords="5,57,169,98"/>
+</map>

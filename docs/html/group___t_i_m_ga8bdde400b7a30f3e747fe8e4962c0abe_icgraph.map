@@ -1,0 +1,5 @@
+<map id="TIM_ETRConfig" name="TIM_ETRConfig">
+<area shape="rect" id="node1" title="Configures the TIMx External Trigger (ETR)." alt="" coords="236,31,347,57"/>
+<area shape="rect" id="node2" href="$group___t_i_m___group6.html#ga47c05638b93aabcd641dbc8859e1b2df" title="Configures the External clock Mode1." alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node3" href="$group___t_i_m___group6.html#ga0a9cbcbab32326cbbdaf4c111f59ec20" title="Configures the External clock Mode2." alt="" coords="5,56,188,83"/>
+</map>

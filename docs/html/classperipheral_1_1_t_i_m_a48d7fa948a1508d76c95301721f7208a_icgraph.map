@@ -1,0 +1,5 @@
+<map id="peripheral::TIM::counter" name="peripheral::TIM::counter">
+<area shape="rect" id="node1" title="カウンタ取得" alt="" coords="232,31,391,57"/>
+<area shape="rect" id="node2" href="$classperipheral_1_1_t_i_m.html#a1935ef2bd7b463a649d594ca505a9ef4" title="カウンタの割合を取得" alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node3" href="$classperipheral_1_1_t_i_m.html#aaa00752a16b9b8e001d01f88e39a982c" title="カウンタを設定" alt="" coords="5,56,184,83"/>
+</map>

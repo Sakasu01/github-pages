@@ -1,0 +1,4 @@
+<map id="controller::encoder::setPulsePerRound" name="controller::encoder::setPulsePerRound">
+<area shape="rect" id="node1" title="ENCの一周当りのパルス数を設定" alt="" coords="192,5,331,47"/>
+<area shape="rect" id="node2" href="$classcontroller_1_1_encoder.html#a4250cb3f671dd0b7649a6f5daceb8de9" title=" " alt="" coords="5,5,144,47"/>
+</map>

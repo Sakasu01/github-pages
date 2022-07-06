@@ -1,0 +1,4 @@
+<map id="DMA2D_DeInit" name="DMA2D_DeInit">
+<area shape="rect" id="node1" title="Deinitializes the DMA2D peripheral registers to their default reset values." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node2" href="$group___r_c_c___group3.html#gaa7c450567f4731d4f0615f63586cad86" title="Forces or releases AHB1 peripheral reset." alt="" coords="160,5,348,32"/>
+</map>

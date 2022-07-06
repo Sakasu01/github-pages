@@ -1,0 +1,7 @@
+<map id="I2C_CheckEvent" name="I2C_CheckEvent">
+<area shape="rect" id="node1" title="Checks whether the last I2Cx Event is equal to the one passed as parameter." alt="" coords="471,64,588,91"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_i2_c_method.html#ad0114e9817042422221619028940282f" title="受信" alt="" coords="246,5,401,32"/>
+<area shape="rect" id="node3" href="$class_f4_1_1_i2_c_method.html#a2275af8e55797044be73fb641d4e0d0d" title="Repeated Start Condition発行" alt="" coords="224,57,423,98"/>
+<area shape="rect" id="node5" href="$class_f4_1_1_i2_c_method.html#a80341d55bb5456567e05ffa7da25eadf" title="送信" alt="" coords="242,123,405,149"/>
+<area shape="rect" id="node4" href="$class_f4_1_1_i2_c_method.html#ab07dedcf5b719d75a3b29d708cb1ec72" title="Start Condition発行" alt="" coords="5,57,176,98"/>
+</map>

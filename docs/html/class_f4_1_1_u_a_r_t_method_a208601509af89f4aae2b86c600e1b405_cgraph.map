@@ -1,0 +1,4 @@
+<map id="F4::UARTMethod::configTxDMATransfer" name="F4::UARTMethod::configTxDMATransfer">
+<area shape="rect" id="node1" title="TxのDMA転送を開始" alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node2" href="$group___u_s_a_r_t___group8.html#ga902857f199ebfba21c63d725354af66f" title="Enables or disables the USART&#39;s DMA interface." alt="" coords="232,13,360,39"/>
+</map>

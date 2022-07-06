@@ -1,0 +1,6 @@
+<map id="JoyPad_stopVibration" name="JoyPad_stopVibration">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,153,57"/>
+<area shape="rect" id="node2" href="$_f4__uart_8c.html#ab986ac38b77ed9a5e1d05cff80e7f3a1" title=" " alt="" coords="201,31,296,57"/>
+<area shape="rect" id="node3" href="$group___u_s_a_r_t___group9.html#ga144630722defc9e312f0ad280b68e9da" title="Checks whether the specified USART flag is set or not." alt="" coords="344,5,500,32"/>
+<area shape="rect" id="node4" href="$group___u_s_a_r_t___group2.html#ga0b43d42da9540f446d494bf69823c6fb" title="Transmits single data through the USARTx peripheral." alt="" coords="357,56,487,83"/>
+</map>

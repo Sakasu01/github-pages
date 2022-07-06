@@ -1,0 +1,20 @@
+<map id="C:/stm32/workspace/NatsuRobo2022/Sugoroku/userlib/old/SerialProtocol/SerialProtocol.c" name="C:/stm32/workspace/NatsuRobo2022/Sugoroku/userlib/old/SerialProtocol/SerialProtocol.c">
+<area shape="rect" id="node1" title=" " alt="" coords="237,5,414,76"/>
+<area shape="rect" id="node2" href="$_serial_protocol_8h.html" title=" " alt="" coords="5,124,120,151"/>
+<area shape="rect" id="node14" title=" " alt="" coords="145,124,210,151"/>
+<area shape="rect" id="node15" title=" " alt="" coords="234,124,299,151"/>
+<area shape="rect" id="node16" href="$_common_macro_8h.html" title=" " alt="" coords="323,124,445,151"/>
+<area shape="rect" id="node17" href="$_f4__uart_8h.html" title="STM32F4のUARTの入出力をサポートする。" alt="" coords="469,124,606,151"/>
+<area shape="rect" id="node18" href="$_f4__uartdma_8h.html" title="STM32F3のUARTのDMA化をサポートする。" alt="" coords="630,124,821,151"/>
+<area shape="rect" id="node3" href="$platform__config_8h.html" title=" " alt="" coords="477,199,597,225"/>
+<area shape="rect" id="node4" href="$stm32f4xx_8h.html" title="CMSIS Cortex&#45;M4 Device Peripheral Access Layer Header File. This file contains all the peripheral reg..." alt="" coords="383,273,476,300"/>
+<area shape="rect" id="node12" title=" " alt="" coords="500,273,575,300"/>
+<area shape="rect" id="node13" href="$delay_8h.html" title=" " alt="" coords="599,273,663,300"/>
+<area shape="rect" id="node5" href="$stm32f4xx__support_8h.html" title=" " alt="" coords="295,348,438,375"/>
+<area shape="rect" id="node6" href="$core__cm4_8h.html" title="CMSIS Cortex&#45;M4 Core Peripheral Access Layer Header File." alt="" coords="180,348,271,375"/>
+<area shape="rect" id="node7" title=" " alt="" coords="443,423,509,449"/>
+<area shape="rect" id="node11" href="$system__stm32f4xx_8h.html" title="CMSIS Cortex&#45;M4 Device System Source File for STM32F4xx devices." alt="" coords="514,348,657,375"/>
+<area shape="rect" id="node8" href="$core__cm_instr_8h.html" title="CMSIS Cortex&#45;M Core Instruction Access Header File." alt="" coords="37,423,145,449"/>
+<area shape="rect" id="node9" href="$core__cm_func_8h.html" title="CMSIS Cortex&#45;M Core Function Access Header File." alt="" coords="169,423,281,449"/>
+<area shape="rect" id="node10" href="$core__cm_simd_8h.html" title="CMSIS Cortex&#45;M SIMD Header File." alt="" coords="306,423,419,449"/>
+</map>

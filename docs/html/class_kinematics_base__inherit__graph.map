@@ -1,0 +1,6 @@
+<map id="KinematicsBase" name="KinematicsBase">
+<area shape="rect" id="node1" title=" " alt="" coords="167,5,284,32"/>
+<area shape="rect" id="node2" href="$class_modern_swerve.html" title="　エンコーダーレス" alt="" coords="5,80,144,107"/>
+<area shape="rect" id="node3" href="$class_omni_drive.html" title=" " alt="" coords="168,80,283,107"/>
+<area shape="rect" id="node4" href="$class_swerve_drive.html" title="　こいつって完全体(ﾓｽｶｳ)" alt="" coords="307,80,431,107"/>
+</map>

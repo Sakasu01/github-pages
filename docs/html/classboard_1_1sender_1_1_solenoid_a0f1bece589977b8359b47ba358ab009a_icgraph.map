@@ -1,0 +1,5 @@
+<map id="board::sender::Solenoid::setGPIOSafety" name="board::sender::Solenoid::setGPIOSafety">
+<area shape="rect" id="node1" title="GPIOのエラー処理" alt="" coords="212,27,371,69"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main関数。" alt="" coords="59,5,110,32"/>
+<area shape="rect" id="node3" href="$classboard_1_1sender_1_1_solenoid.html#afa9549ba9d299586cd55804eeded3954" title="GPIOのエラー処理(bool)" alt="" coords="5,57,164,98"/>
+</map>

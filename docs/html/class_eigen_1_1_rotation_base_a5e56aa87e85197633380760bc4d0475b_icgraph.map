@@ -1,0 +1,15 @@
+<map id="Eigen::RotationBase::derived" name="Eigen::RotationBase::derived">
+<area shape="rect" id="node1" title=" " alt="" coords="469,165,611,207"/>
+<area shape="rect" id="node2" href="$class_eigen_1_1_rotation_base.html#a2835ea92940986b4220cf47538a6bc41" title=" " alt="" coords="261,5,402,47"/>
+<area shape="rect" id="node3" href="$class_eigen_1_1_rotation_base.html#a14ce23df5f0b2593a466f8130fe6bac9" title=" " alt="" coords="261,71,402,112"/>
+<area shape="rect" id="node4" href="$class_eigen_1_1_rotation_base.html#ac197cd3c7d4b8a335bff1bbabf003f4a" title=" " alt="" coords="261,136,402,177"/>
+<area shape="rect" id="node5" href="$class_eigen_1_1_transform.html#af8c9697ed25072cbfaada8ac1a894240" title=" " alt="" coords="241,202,421,229"/>
+<area shape="rect" id="node6" href="$class_eigen_1_1_quaternion_base.html#ad5fb3b0792f02b2863f4dc3c3c70ea2d" title=" " alt="" coords="253,253,409,295"/>
+<area shape="rect" id="node7" href="$class_eigen_1_1_rotation_base.html#aac726e89402a427c605514ce31b01e42" title=" " alt="" coords="261,319,402,360"/>
+<area shape="rect" id="node8" href="$class_eigen_1_1_rotation_base.html#a015ba3b47831570ec525f22b79253bbe" title=" " alt="" coords="29,168,170,209"/>
+<area shape="rect" id="node9" href="$class_eigen_1_1_matrix.html#ae714ec2f92b13d808c336faf185e5893" title="Constructs a Dim x Dim rotation matrix from the rotation r." alt="" coords="28,234,171,261"/>
+<area shape="rect" id="node10" href="$class_eigen_1_1_uniform_scaling.html#a763472f8cc44a4ddc2eb4603d59b1269" title=" " alt="" coords="24,285,175,327"/>
+<area shape="rect" id="node11" href="$class_eigen_1_1_rotation_base.html#ad7b31a12a4f8f2584b8937f958bd6ea6" title=" " alt="" coords="29,351,170,392"/>
+<area shape="rect" id="node12" href="$class_eigen_1_1_transform.html#a8e84e9671a245edd2ccd97ae40e09a95" title=" " alt="" coords="5,417,193,443"/>
+<area shape="rect" id="node13" href="$class_eigen_1_1_matrix.html#ae2ab353ef1f4c5a612e59a70a20cc29f" title="Set a Dim x Dim rotation matrix from the rotation r." alt="" coords="18,467,181,494"/>
+</map>

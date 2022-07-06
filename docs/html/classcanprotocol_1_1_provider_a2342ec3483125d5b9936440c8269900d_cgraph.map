@@ -1,0 +1,6 @@
+<map id="canprotocol::Provider::sendPacketAndWaitResponse" name="canprotocol::Provider::sendPacketAndWaitResponse">
+<area shape="rect" id="node1" title="パケットを送信し返答を待つ" alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node2" href="$classutil_1_1_elapsed_timer.html#a8185e4ffab40f1dc3cc2fac14e80b421" title="経過時間[us]を取得" alt="" coords="260,5,387,47"/>
+<area shape="rect" id="node3" href="$classutil_1_1_elapsed_timer.html#ad1d10891ffc4170aed69bbed719e64c8" title="経過クロックを取得" alt="" coords="435,5,563,47"/>
+<area shape="rect" id="node4" href="$delay_8c.html#a0342b3bee1fd47bc3013305a0b8c2661" title="関数を実行した時のカウンタを取得する関数" alt="" coords="611,13,723,39"/>
+</map>

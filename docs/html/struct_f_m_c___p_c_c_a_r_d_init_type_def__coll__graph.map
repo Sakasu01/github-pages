@@ -1,0 +1,4 @@
+<map id="FMC_PCCARDInitTypeDef" name="FMC_PCCARDInitTypeDef">
+<area shape="rect" id="node1" title="FMC PCCARD Init structure definition." alt="" coords="23,153,197,180"/>
+<area shape="rect" id="node2" href="$struct_f_m_c___n_a_n_d___p_c_c_a_r_d_timing_init_type_def.html" title="Timing parameters For FMC NAND and PCCARD Banks." alt="" coords="5,5,215,47"/>
+</map>

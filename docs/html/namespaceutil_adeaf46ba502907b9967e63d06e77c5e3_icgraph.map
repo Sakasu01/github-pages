@@ -1,0 +1,11 @@
+<map id="util::enumToReg" name="util::enumToReg">
+<area shape="rect" id="node1" title="Enum値からレジスタ値へとマッピングする為のテンプレート関数" alt="" coords="476,157,592,184"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_d_m_a_method.html#afa15fc94e55624623417502abb274e9f" title=" " alt="" coords="247,5,405,32"/>
+<area shape="rect" id="node3" href="$class_f4_1_1_g_p_i_o_method.html#ae70c7d436ccc11b647d348c9f48c0b4b" title="初期化" alt="" coords="245,56,407,83"/>
+<area shape="rect" id="node4" href="$class_f4_1_1_c_a_n_method.html#a9fd91bca9925e5a39793630c3b232904" title=" " alt="" coords="247,107,405,133"/>
+<area shape="rect" id="node5" href="$class_f4_1_1_t_i_m_method.html#ac85bea96539f5a5d6ef0c97ce975c8a0" title="初期化" alt="" coords="251,157,401,184"/>
+<area shape="rect" id="node6" href="$class_f4_1_1_t_i_m_method.html#af54b60775a3629ec582e8dea1ec9d98b" title="割り込み初期化" alt="" coords="245,208,407,235"/>
+<area shape="rect" id="node7" href="$class_f4_1_1_c_a_n_method.html#aa35e582c4f456ef58fbe9dc6fcd82775" title=" " alt="" coords="224,259,428,285"/>
+<area shape="rect" id="node8" href="$class_f4_1_1_i2_c_method.html#a2275af8e55797044be73fb641d4e0d0d" title="Repeated Start Condition発行" alt="" coords="227,310,425,351"/>
+<area shape="rect" id="node9" href="$class_f4_1_1_i2_c_method.html#ab07dedcf5b719d75a3b29d708cb1ec72" title="Start Condition発行" alt="" coords="5,310,176,351"/>
+</map>

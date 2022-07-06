@@ -1,0 +1,4 @@
+<map id="controller::dc::setTrapeAccelDuty" name="controller::dc::setTrapeAccelDuty">
+<area shape="rect" id="node1" title="モータのDutyの変化速度を設定する" alt="" coords="212,5,367,47"/>
+<area shape="rect" id="node2" href="$classcontroller_1_1_d_c.html#a53607c9594a6bc470b94514c8062efd3" title=" " alt="" coords="5,5,164,47"/>
+</map>

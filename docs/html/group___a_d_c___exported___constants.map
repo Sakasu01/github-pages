@@ -1,0 +1,27 @@
+<map id="ADC_Exported_Constants" name="ADC_Exported_Constants">
+<area shape="rect" id="node1" href="$group___a_d_c.html" title="ADC driver modules." alt="" coords="5,713,55,739"/>
+<area shape="rect" id="node4" title=" " alt="" coords="103,713,277,739"/>
+<area shape="rect" id="node2" href="$group___a_d_c___common__mode.html" title=" " alt="" coords="349,5,495,31"/>
+<area shape="rect" id="node3" href="$group___a_d_c___direct__memory__access__mode__for__multi__mode.html" title=" " alt="" coords="325,55,519,95"/>
+<area shape="rect" id="node5" href="$group___a_d_c___prescaler.html" title=" " alt="" coords="367,120,477,145"/>
+<area shape="rect" id="node6" href="$group___a_d_c__analog__watchdog__selection.html" title=" " alt="" coords="344,170,500,210"/>
+<area shape="rect" id="node7" href="$group___a_d_c__channels.html" title=" " alt="" coords="368,235,476,260"/>
+<area shape="rect" id="node8" href="$group___a_d_c__data__align.html" title=" " alt="" coords="365,284,479,309"/>
+<area shape="rect" id="node9" href="$group___a_d_c__delay__between__2__sampling__phases.html" title=" " alt="" coords="344,334,500,374"/>
+<area shape="rect" id="node10" href="$group___a_d_c__external__trigger__edge__for__injected__channels__conversion.html" title=" " alt="" coords="327,399,517,453"/>
+<area shape="rect" id="node11" href="$group___a_d_c__external__trigger__edge__for__regular__channels__conversion.html" title=" " alt="" coords="331,477,513,532"/>
+<area shape="rect" id="node12" href="$group___a_d_c__extrenal__trigger__sources__for__injected__channels__conversion.html" title=" " alt="" coords="347,556,497,611"/>
+<area shape="rect" id="node13" href="$group___a_d_c__extrenal__trigger__sources__for__regular__channels__conversion.html" title=" " alt="" coords="347,635,497,689"/>
+<area shape="rect" id="node14" href="$group___a_d_c__flags__definition.html" title=" " alt="" coords="351,713,493,739"/>
+<area shape="rect" id="node15" href="$group___a_d_c__injected__channel__selection.html" title=" " alt="" coords="345,763,499,803"/>
+<area shape="rect" id="node16" href="$group___a_d_c__injected__length.html" title=" " alt="" coords="351,828,493,853"/>
+<area shape="rect" id="node17" href="$group___a_d_c__injected__offset.html" title=" " alt="" coords="353,877,491,903"/>
+<area shape="rect" id="node18" href="$group___a_d_c__injected__rank.html" title=" " alt="" coords="355,927,489,952"/>
+<area shape="rect" id="node19" href="$group___a_d_c__interrupts__definition.html" title=" " alt="" coords="338,976,506,1001"/>
+<area shape="rect" id="node20" href="$group___a_d_c__regular__discontinuous__mode__number.html" title=" " alt="" coords="331,1026,513,1066"/>
+<area shape="rect" id="node21" href="$group___a_d_c__regular__length.html" title=" " alt="" coords="353,1091,491,1116"/>
+<area shape="rect" id="node22" href="$group___a_d_c__regular__rank.html" title=" " alt="" coords="359,1140,485,1165"/>
+<area shape="rect" id="node23" href="$group___a_d_c__resolution.html" title=" " alt="" coords="366,1189,478,1215"/>
+<area shape="rect" id="node24" href="$group___a_d_c__sampling__times.html" title=" " alt="" coords="349,1239,495,1264"/>
+<area shape="rect" id="node25" href="$group___a_d_c__thresholds.html" title=" " alt="" coords="364,1288,480,1313"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Eigen::internal::SparseLUImpl::panel_bmod" name="Eigen::internal::SparseLUImpl::panel_bmod">
+<area shape="rect" id="node1" title="Performs numeric block updates (sup&#45;panel) in topological order." alt="" coords="5,89,200,131"/>
+<area shape="rect" id="node2" href="$class_eigen_1_1_plain_object_base.html#a322d4d48cc285b60e0dff100db522342" title=" " alt="" coords="248,5,408,47"/>
+<area shape="rect" id="node4" href="$namespace_eigen_1_1half__impl.html#a92e6345ca905d3483422361cf8c991b6" title=" " alt="" coords="255,71,401,98"/>
+<area shape="rect" id="node5" href="$class_eigen_1_1_map.html#a093dbac0c6fc7ce050f2e0c10280637c" title=" " alt="" coords="456,122,615,149"/>
+<area shape="rect" id="node6" href="$struct_eigen_1_1internal_1_1_l_u__kernel__bmod.html#a475f853efdc24aaca3444da518f40ba8" title=" " alt="" coords="263,173,393,215"/>
+<area shape="rect" id="node3" href="$class_eigen_1_1_dense_storage.html#abdbbeb487a245756ac498d2590e3560a" title=" " alt="" coords="463,5,608,47"/>
+<area shape="rect" id="node7" href="$namespace_eigen_1_1internal.html#a5692cd3c30a1b398f9c6d23edca0262f" title=" " alt="" coords="468,173,603,215"/>
+</map>

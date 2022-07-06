@@ -1,0 +1,8 @@
+<map id="board::sender::Solenoid::setLEDOperation" name="board::sender::Solenoid::setLEDOperation">
+<area shape="rect" id="node1" title="LEDのオペレーション設定" alt="" coords="5,39,164,80"/>
+<area shape="rect" id="node2" href="$classboard_1_1_c_a_n_client.html#a7576d9a550dd50bd5b114da97f84eab9" title="パケットの送信" alt="" coords="212,17,411,43"/>
+<area shape="rect" id="node4" href="$classnwp_1_1_binary_data.html#aaa74bad0454dde119164540b68298d4e" title="バイナリ情報を格納" alt="" coords="225,71,398,98"/>
+<area shape="rect" id="node3" href="$classcanprotocol_1_1_provider.html#ac4cd58667d32181c116f78c62aac4974" title="パケットの送信" alt="" coords="459,5,602,47"/>
+<area shape="rect" id="node5" href="$classnwp_1_1_binary_serializer.html#a48258cc196702e891abca284b68c39d7" title=" " alt="" coords="459,71,603,112"/>
+<area shape="rect" id="node6" href="$classnwp_1_1_binary_converter.html#aa316c2756b8aac47283351ca8010f79c" title="変数→バイナリへの変換" alt="" coords="651,71,795,112"/>
+</map>

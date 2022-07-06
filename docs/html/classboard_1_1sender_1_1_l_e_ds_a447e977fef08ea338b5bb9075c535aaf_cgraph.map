@@ -1,0 +1,3 @@
+<map id="board::sender::LEDs::setEach" name="board::sender::LEDs::setEach">
+<area shape="rect" id="node1" title="すべてのLEDの状態を変更する(bool)" alt="" coords="5,29,147,71"/>
+</map>

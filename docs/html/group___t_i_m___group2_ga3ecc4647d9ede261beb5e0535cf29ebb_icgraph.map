@@ -1,0 +1,4 @@
+<map id="TIM_CCxCmd" name="TIM_CCxCmd">
+<area shape="rect" id="node1" title="Enables or disables the TIM Capture Compare Channel x." alt="" coords="260,13,363,39"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_t_i_m_method_1_1_channel_method.html#aa2d7844b7fab6cb2d4a6b735f26cd132" title="チャンネルを有効化" alt="" coords="5,5,212,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="F4_GPIO_config" name="F4_GPIO_config">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,123,83"/>
+<area shape="rect" id="node2" href="$group___g_p_i_o___group1.html#ga71abf9404261370d03cca449b88d3a65" title="Initializes the GPIOx peripheral according to the specified parameters in the GPIO_InitStruct." alt="" coords="225,5,303,32"/>
+<area shape="rect" id="node3" href="$group___g_p_i_o___group1.html#gab28de41278e7f8c63d0851e2733b10df" title="Fills each GPIO_InitStruct member with its default value." alt="" coords="207,56,321,83"/>
+<area shape="rect" id="node4" href="$group___r_c_c___group3.html#ga80c89116820d48bb38db2e7d5e5a49b9" title="Enables or disables the AHB1 peripheral clock." alt="" coords="171,107,357,133"/>
+</map>

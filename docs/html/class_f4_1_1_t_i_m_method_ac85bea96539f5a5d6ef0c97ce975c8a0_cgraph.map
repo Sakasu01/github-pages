@@ -1,0 +1,6 @@
+<map id="F4::TIMMethod::config" name="F4::TIMMethod::config">
+<area shape="rect" id="node1" title="初期化" alt="" coords="5,56,156,83"/>
+<area shape="rect" id="node2" href="$namespaceutil.html#adeaf46ba502907b9967e63d06e77c5e3" title="Enum値からレジスタ値へとマッピングする為のテンプレート関数" alt="" coords="226,5,342,32"/>
+<area shape="rect" id="node3" href="$group___t_i_m___group1.html#ga83fd58c9416802d9638bbe1715c98932" title="Initializes the TIMx Time Base Unit peripheral according to the specified parameters in the TIM_TimeB..." alt="" coords="221,56,347,83"/>
+<area shape="rect" id="node4" href="$group___t_i_m___group1.html#ga1556a0b9a5d53506875fd7de0cbc6b1f" title="Fills each TIM_TimeBaseInitStruct member with its default value." alt="" coords="204,107,364,133"/>
+</map>

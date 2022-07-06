@@ -1,0 +1,23 @@
+<map id="FSMC_NOR_SRAM_Controller" name="FSMC_NOR_SRAM_Controller">
+<area shape="rect" id="node1" href="$group___f_s_m_c___access___mode.html" title=" " alt="" coords="507,5,657,31"/>
+<area shape="rect" id="node2" href="$group___f_s_m_c___address___hold___time.html" title=" " alt="" coords="491,55,673,80"/>
+<area shape="rect" id="node3" href="$group___f_s_m_c___address___setup___time.html" title=" " alt="" coords="487,104,677,129"/>
+<area shape="rect" id="node4" href="$group___f_s_m_c___asynchronous_wait.html" title=" " alt="" coords="494,153,670,179"/>
+<area shape="rect" id="node5" href="$group___f_s_m_c___burst___access___mode.html" title=" " alt="" coords="489,203,675,228"/>
+<area shape="rect" id="node6" href="$group___f_s_m_c___bus___turn__around___duration.html" title=" " alt="" coords="499,253,665,293"/>
+<area shape="rect" id="node7" href="$group___f_s_m_c___c_l_k___division.html" title=" " alt="" coords="511,317,653,343"/>
+<area shape="rect" id="node8" href="$group___f_s_m_c___data___address___bus___multiplexing.html" title=" " alt="" coords="493,367,671,407"/>
+<area shape="rect" id="node9" href="$group___f_s_m_c___data___latency.html" title=" " alt="" coords="509,432,655,457"/>
+<area shape="rect" id="node10" href="$group___f_s_m_c___data___setup___time.html" title=" " alt="" coords="497,481,667,507"/>
+<area shape="rect" id="node11" href="$group___f_s_m_c___data___width.html" title=" " alt="" coords="515,531,649,556"/>
+<area shape="rect" id="node12" href="$group___f_s_m_c___exported___constants.html" title=" " alt="" coords="5,481,189,507"/>
+<area shape="rect" id="node15" title=" " alt="" coords="237,481,439,507"/>
+<area shape="rect" id="node13" href="$group___f_s_m_c___extended___mode.html" title=" " alt="" coords="502,580,662,605"/>
+<area shape="rect" id="node14" href="$group___f_s_m_c___memory___type.html" title=" " alt="" coords="508,629,656,655"/>
+<area shape="rect" id="node16" href="$group___f_s_m_c___wait___signal.html" title=" " alt="" coords="514,679,650,704"/>
+<area shape="rect" id="node17" href="$group___f_s_m_c___wait___signal___polarity.html" title=" " alt="" coords="489,728,675,753"/>
+<area shape="rect" id="node18" href="$group___f_s_m_c___wait___timing.html" title=" " alt="" coords="513,777,651,803"/>
+<area shape="rect" id="node19" href="$group___f_s_m_c___wrap___mode.html" title=" " alt="" coords="514,827,650,852"/>
+<area shape="rect" id="node20" href="$group___f_s_m_c___write___burst.html" title=" " alt="" coords="515,876,649,901"/>
+<area shape="rect" id="node21" href="$group___f_s_m_c___write___operation.html" title=" " alt="" coords="502,925,662,951"/>
+</map>

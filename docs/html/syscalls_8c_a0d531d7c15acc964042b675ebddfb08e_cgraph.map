@@ -1,0 +1,5 @@
+<map id="_read_r" name="_read_r">
+<area shape="rect" id="node1" title="Input Datas from STDIN with reentrancy. &#160;&#160;&quot;getch()&quot; indicates retarget function. &#160;&#160;See &quot;syscalls_if...." alt="" coords="5,31,71,57"/>
+<area shape="rect" id="node2" href="$syscalls_8c.html#af11cdacdea94eeea3b713705f3c51f3d" title=" " alt="" coords="119,5,173,32"/>
+<area shape="rect" id="node3" href="$syscalls_8c.html#a13d7ae660f3e6fc3797faa9750859f9c" title=" " alt="" coords="119,56,173,83"/>
+</map>

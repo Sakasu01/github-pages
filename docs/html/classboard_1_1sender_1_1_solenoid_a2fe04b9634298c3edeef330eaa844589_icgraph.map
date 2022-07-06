@@ -1,0 +1,5 @@
+<map id="board::sender::Solenoid::checkVersion" name="board::sender::Solenoid::checkVersion">
+<area shape="rect" id="node1" title="バージョン確認．configの時に呼ばれます" alt="" coords="311,5,469,47"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_solenoid.html#a3bf1c50e842617a210e407374d167b85" title="初期化" alt="" coords="104,5,263,47"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main関数。" alt="" coords="5,13,56,39"/>
+</map>

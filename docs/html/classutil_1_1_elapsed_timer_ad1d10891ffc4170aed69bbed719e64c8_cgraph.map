@@ -1,0 +1,4 @@
+<map id="util::ElapsedTimer::getElapsedClock" name="util::ElapsedTimer::getElapsedClock">
+<area shape="rect" id="node1" title="経過クロックを取得" alt="" coords="5,5,133,47"/>
+<area shape="rect" id="node2" href="$delay_8c.html#a0342b3bee1fd47bc3013305a0b8c2661" title="関数を実行した時のカウンタを取得する関数" alt="" coords="181,13,293,39"/>
+</map>

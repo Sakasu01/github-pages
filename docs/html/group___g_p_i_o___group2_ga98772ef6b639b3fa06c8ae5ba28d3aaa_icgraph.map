@@ -1,0 +1,4 @@
+<map id="GPIO_ReadInputDataBit" name="GPIO_ReadInputDataBit">
+<area shape="rect" id="node1" title="Reads the specified input port pin." alt="" coords="177,5,340,32"/>
+<area shape="rect" id="node2" href="$_f4___common_macro_8c.html#a1a3f28a00aff0a8f5bf4207ea444c69d" title=" " alt="" coords="5,5,129,32"/>
+</map>

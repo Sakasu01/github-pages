@@ -1,0 +1,8 @@
+<map id="RCC_Private_Functions" name="RCC_Private_Functions">
+<area shape="rect" id="node1" href="$group___r_c_c.html" title="RCC driver modules." alt="" coords="5,135,55,160"/>
+<area shape="rect" id="node6" title=" " alt="" coords="103,135,261,160"/>
+<area shape="rect" id="node2" href="$group___r_c_c___group1.html" title="Internal and external clocks, PLL, CSS and MCO configuration functions." alt="" coords="314,5,503,60"/>
+<area shape="rect" id="node3" href="$group___r_c_c___group2.html" title="System, AHB and APB busses clocks configuration functions." alt="" coords="315,84,502,139"/>
+<area shape="rect" id="node4" href="$group___r_c_c___group3.html" title="Peripheral clocks configuration functions." alt="" coords="309,163,508,203"/>
+<area shape="rect" id="node5" href="$group___r_c_c___group4.html" title="Interrupts and flags management functions." alt="" coords="330,227,487,267"/>
+</map>

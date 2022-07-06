@@ -1,0 +1,7 @@
+<map id="SPI_SettingTypedef" name="SPI_SettingTypedef">
+<area shape="rect" id="node1" title=" " alt="" coords="82,228,218,255"/>
+<area shape="rect" id="node2" href="$struct_g_p_i_o___pin___typedef.html" title=" " alt="" coords="5,95,137,121"/>
+<area shape="rect" id="node3" href="$struct_g_p_i_o___type_def.html" title="General Purpose I/O." alt="" coords="17,5,125,32"/>
+<area shape="rect" id="node4" href="$struct_d_m_a___macro_typedef.html" title=" " alt="" coords="162,95,301,121"/>
+<area shape="rect" id="node5" href="$struct_d_m_a___stream___type_def.html" title="DMA Controller." alt="" coords="154,5,309,32"/>
+</map>

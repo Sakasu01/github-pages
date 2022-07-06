@@ -1,0 +1,6 @@
+<map id="Gouyoku_setFollowingElement" name="Gouyoku_setFollowingElement">
+<area shape="rect" id="node1" title="モーターの状態を指定" alt="" coords="220,78,421,105"/>
+<area shape="rect" id="node2" href="$classgouyoku_1_1_duty_control.html#a149aaf7ad7580e56993917a3b10129e2" title=" " alt="" coords="15,5,162,47"/>
+<area shape="rect" id="node3" href="$classgouyoku_1_1_position_control.html#aa88bb8a22a6169a32d92b34e16cbeec9" title=" " alt="" coords="5,71,172,112"/>
+<area shape="rect" id="node4" href="$class_modern_swerve.html#a596f94b3defeefeaed6d03a099d13313" title=" " alt="" coords="13,137,165,163"/>
+</map>

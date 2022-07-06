@@ -1,0 +1,4 @@
+<map id="FMC_SDRAMInitTypeDef" name="FMC_SDRAMInitTypeDef">
+<area shape="rect" id="node1" title="FMC SDRAM Init structure definition." alt="" coords="25,95,193,121"/>
+<area shape="rect" id="node2" href="$struct_f_m_c___s_d_r_a_m_timing_init_type_def.html" title="Timing parameters for FMC SDRAM Banks." alt="" coords="5,5,212,32"/>
+</map>

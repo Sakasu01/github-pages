@@ -1,0 +1,5 @@
+<map id="F4::TIMMethod::ChannelMethod::setChannelEnable" name="F4::TIMMethod::ChannelMethod::setChannelEnable">
+<area shape="rect" id="node1" title="チャンネルを有効化" alt="" coords="5,23,212,65"/>
+<area shape="rect" id="node2" href="$group___t_i_m___group2.html#ga3ecc4647d9ede261beb5e0535cf29ebb" title="Enables or disables the TIM Capture Compare Channel x." alt="" coords="264,5,367,32"/>
+<area shape="rect" id="node3" href="$group___t_i_m___group2.html#ga304ff7c8a1615498da749bf2507e9f2b" title="Enables or disables the TIM Capture Compare Channel xN." alt="" coords="260,56,371,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Eigen::internal::SparseLUImpl::memInit" name="Eigen::internal::SparseLUImpl::memInit">
+<area shape="rect" id="node1" title="Allocate various working space for the numerical factorization phase." alt="" coords="5,23,200,65"/>
+<area shape="rect" id="node2" href="$namespace_eigen_1_1half__impl.html#a92e6345ca905d3483422361cf8c991b6" title=" " alt="" coords="248,5,395,32"/>
+<area shape="rect" id="node3" href="$namespace_eigen_1_1half__impl.html#a52c8391bfe74901409df09e9b1d5ac79" title=" " alt="" coords="250,56,393,83"/>
+</map>

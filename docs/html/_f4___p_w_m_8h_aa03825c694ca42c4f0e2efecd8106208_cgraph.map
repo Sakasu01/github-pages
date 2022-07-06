@@ -1,0 +1,4 @@
+<map id="PWM_disable" name="PWM_disable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node2" href="$group___t_i_m___group4.html#ga3e59ebced2ab8e0b817c460f1670e97d" title="Enables or disables the TIM peripheral Main Outputs." alt="" coords="156,5,305,32"/>
+</map>

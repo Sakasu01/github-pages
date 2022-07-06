@@ -1,0 +1,9 @@
+<map id="board::sender::Encoder::reset" name="board::sender::Encoder::reset">
+<area shape="rect" id="node1" title="積算値ののリセット．現在位置も0になります．" alt="" coords="5,39,163,80"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_encoder.html#a07ac79266c7099a11d4a26cbda283cae" title="積算値の上書き" alt="" coords="211,39,368,80"/>
+<area shape="rect" id="node3" href="$classboard_1_1_c_a_n_client.html#a7576d9a550dd50bd5b114da97f84eab9" title="パケットの送信" alt="" coords="416,17,615,43"/>
+<area shape="rect" id="node5" href="$classnwp_1_1_binary_data.html#aaa74bad0454dde119164540b68298d4e" title="バイナリ情報を格納" alt="" coords="429,71,602,98"/>
+<area shape="rect" id="node4" href="$classcanprotocol_1_1_provider.html#ac4cd58667d32181c116f78c62aac4974" title="パケットの送信" alt="" coords="663,5,806,47"/>
+<area shape="rect" id="node6" href="$classnwp_1_1_binary_serializer.html#a48258cc196702e891abca284b68c39d7" title=" " alt="" coords="663,71,807,112"/>
+<area shape="rect" id="node7" href="$classnwp_1_1_binary_converter.html#aa316c2756b8aac47283351ca8010f79c" title="変数→バイナリへの変換" alt="" coords="855,71,999,112"/>
+</map>

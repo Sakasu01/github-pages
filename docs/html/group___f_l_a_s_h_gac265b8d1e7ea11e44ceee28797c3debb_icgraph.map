@@ -1,0 +1,20 @@
+<map id="FLASH_GetStatus" name="FLASH_GetStatus">
+<area shape="rect" id="node1" title="Returns the FLASH Status." alt="" coords="656,360,787,387"/>
+<area shape="rect" id="node2" href="$group___f_l_a_s_h___group4.html#gaaf8ea3b00c9a5f5eca0df9a795b83f22" title="Waits for a FLASH operation to complete." alt="" coords="409,360,608,387"/>
+<area shape="rect" id="node3" href="$group___f_l_a_s_h___group2.html#gac297cb140218ab3fd6afa9c53087473c" title="Erases all FLASH Sectors in Bank 1." alt="" coords="159,5,361,32"/>
+<area shape="rect" id="node4" href="$group___f_l_a_s_h___group2.html#ga0d841f874ee2cd6dcb3b5d08a39f28e2" title="Erases all FLASH Sectors in Bank 2." alt="" coords="159,56,361,83"/>
+<area shape="rect" id="node5" href="$group___f_l_a_s_h___group2.html#ga2aee006e5f4db4280bdedd401dfa50f9" title="Erases all FLASH Sectors." alt="" coords="177,107,343,133"/>
+<area shape="rect" id="node6" href="$group___f_l_a_s_h___group2.html#ga48f408290b32a3aebbcad83a00fc447c" title="Erases a specified FLASH Sector." alt="" coords="189,157,331,184"/>
+<area shape="rect" id="node8" href="$group___f_l_a_s_h___group3.html#gabcbd44a62a2488d8b90aa8562a258ef1" title="Launch the option byte loading." alt="" coords="191,208,329,235"/>
+<area shape="rect" id="node9" href="$group___f_l_a_s_h___group3.html#ga81cc635921384a7475396118a7914436" title="Enables or disables the read/write protection (PCROP) of the desired sectors." alt="" coords="167,259,353,285"/>
+<area shape="rect" id="node10" href="$group___f_l_a_s_h___group3.html#gad2905f3985df53e8bc5115d34a544550" title="Enables or disables the read/write protection (PCROP) of the desired sectors, for the first 1 MB of t..." alt="" coords="171,309,349,336"/>
+<area shape="rect" id="node11" href="$group___f_l_a_s_h___group3.html#ga12cb6799f725a49cd151eef4d6d1789b" title="Sets the read protection level." alt="" coords="180,360,340,387"/>
+<area shape="rect" id="node12" href="$group___f_l_a_s_h___group3.html#ga6b605409e4271b4cc6dfb56ed8108a1a" title="Programs the FLASH User Option Byte: IWDG_SW / RST_STOP / RST_STDBY." alt="" coords="180,411,340,437"/>
+<area shape="rect" id="node13" href="$group___f_l_a_s_h___group3.html#gadf76da1410201befd9b6d0e6b045765d" title="Enables or disables the write protection of the desired sectors, for the second 1 Mb of the Flash" alt="" coords="175,461,345,488"/>
+<area shape="rect" id="node14" href="$group___f_l_a_s_h___group3.html#gaffe7e91bcce65ac079ae5afa1db568b5" title="Enables or disables the write protection of the desired sectors, for the first 1 Mb of the Flash" alt="" coords="178,512,342,539"/>
+<area shape="rect" id="node15" href="$group___f_l_a_s_h___group2.html#gac425adf52fe7f229ef6bb893fe386848" title="Programs a byte (8&#45;bit) at a specified address." alt="" coords="187,563,333,589"/>
+<area shape="rect" id="node16" href="$group___f_l_a_s_h___group2.html#gab84b52121e58d0dbc8ff2a92145d20f2" title="Programs a double word (64&#45;bit) at a specified address." alt="" coords="165,613,355,640"/>
+<area shape="rect" id="node17" href="$group___f_l_a_s_h___group2.html#ga5c1336f667950a8765887228f1d0d501" title="Programs a half word (16&#45;bit) at a specified address." alt="" coords="173,664,347,691"/>
+<area shape="rect" id="node18" href="$group___f_l_a_s_h___group2.html#gaac9a2f400b92537bd42a6bd7cc237b11" title="Programs a word (32&#45;bit) at a specified address." alt="" coords="185,715,335,741"/>
+<area shape="rect" id="node7" href="$_f4__flash_8c.html#acaac62b13b7f1e41573ddc3664f3dd6c" title="セクタのデータ消去を行います。" alt="" coords="5,157,111,184"/>
+</map>

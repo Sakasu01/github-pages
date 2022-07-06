@@ -1,0 +1,4 @@
+<map id="canprotocol::Provider::popReceivedPacket" name="canprotocol::Provider::popReceivedPacket">
+<area shape="rect" id="node1" title="受信した通常パケットを取得する" alt="" coords="256,5,400,47"/>
+<area shape="rect" id="node2" href="$classboard_1_1_c_a_n_client.html#a1331e4898938146b45b096444cfe4334" title="バッファにあるパケットを取り出す" alt="" coords="5,5,208,47"/>
+</map>

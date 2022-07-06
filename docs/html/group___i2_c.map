@@ -1,0 +1,6 @@
+<map id="I2C" name="I2C">
+<area shape="rect" id="node1" title="I2C driver modules." alt="" coords="209,31,251,56"/>
+<area shape="rect" id="node2" href="$group___i2_c___exported___constants.html" title=" " alt="" coords="299,5,465,31"/>
+<area shape="rect" id="node3" href="$group___i2_c___private___functions.html" title=" " alt="" coords="307,55,457,80"/>
+<area shape="rect" id="node4" href="$group___s_t_m32_f4xx___std_periph___driver.html" title=" " alt="" coords="5,23,161,63"/>
+</map>

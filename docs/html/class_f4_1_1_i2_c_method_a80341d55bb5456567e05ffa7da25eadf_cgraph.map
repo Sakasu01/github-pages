@@ -1,0 +1,8 @@
+<map id="F4::I2CMethod::transmit" name="F4::I2CMethod::transmit">
+<area shape="rect" id="node1" title="送信" alt="" coords="5,71,168,98"/>
+<area shape="rect" id="node2" href="$classutil_1_1_elapsed_timer.html#a8185e4ffab40f1dc3cc2fac14e80b421" title="経過時間[us]を取得" alt="" coords="216,5,343,47"/>
+<area shape="rect" id="node5" href="$group___i2_c___group5.html#ga2d5701342f9d4c1f09bf9d3cdcacc326" title="Checks whether the last I2Cx Event is equal to the one passed as parameter." alt="" coords="221,71,338,98"/>
+<area shape="rect" id="node6" href="$group___i2_c___group2.html#ga7bd9e70b8eafde0dd5eb42b0d95fe1a9" title="Sends a data byte through the I2Cx peripheral." alt="" coords="227,122,332,149"/>
+<area shape="rect" id="node3" href="$classutil_1_1_elapsed_timer.html#ad1d10891ffc4170aed69bbed719e64c8" title="経過クロックを取得" alt="" coords="391,5,519,47"/>
+<area shape="rect" id="node4" href="$delay_8c.html#a0342b3bee1fd47bc3013305a0b8c2661" title="関数を実行した時のカウンタを取得する関数" alt="" coords="567,13,679,39"/>
+</map>

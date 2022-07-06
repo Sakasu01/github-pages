@@ -1,0 +1,5 @@
+<map id="board::sender::LED::set" name="board::sender::LED::set">
+<area shape="rect" id="node1" title="LEDの状態を決める(bool)" alt="" coords="5,31,165,57"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_l_e_d.html#a236382626d629fe632a2d69a5b24126f" title="消える。" alt="" coords="214,5,369,32"/>
+<area shape="rect" id="node3" href="$classboard_1_1sender_1_1_l_e_d.html#a713089041b8189a8ccf590132c5bea7f" title="光る。" alt="" coords="213,56,369,83"/>
+</map>

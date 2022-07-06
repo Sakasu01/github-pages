@@ -1,0 +1,4 @@
+<map id="peripheral::ADC::read" name="peripheral::ADC::read">
+<area shape="rect" id="node1" title="ADC値の取得" alt="" coords="221,13,368,39"/>
+<area shape="rect" id="node2" href="$classperipheral_1_1_a_d_c_1_1_channel.html#af7c1fc96abaa780afb5cecfbc6fcde68" title="電圧の取得" alt="" coords="5,5,173,47"/>
+</map>

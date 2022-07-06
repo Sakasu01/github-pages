@@ -1,0 +1,4 @@
+<map id="SPI_I2S_SendData" name="SPI_I2S_SendData">
+<area shape="rect" id="node1" title="Transmits a Data through the SPIx/I2Sx peripheral." alt="" coords="248,5,381,32"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_s_p_i_method.html#a58eb05ccc83dae0b7381a673e86656fd" title="交換" alt="" coords="5,5,200,32"/>
+</map>

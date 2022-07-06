@@ -1,0 +1,4 @@
+<map id="canprotocol::MasterCommandClient::resetNode" name="canprotocol::MasterCommandClient::resetNode">
+<area shape="rect" id="node1" title=" " alt="" coords="243,5,439,47"/>
+<area shape="rect" id="node2" href="$classboard_1_1_c_a_n_client.html#a0be169c7c571056808307ee584e69491" title="ノードのリセット．これをくらった基盤は初期化される．" alt="" coords="5,13,195,39"/>
+</map>

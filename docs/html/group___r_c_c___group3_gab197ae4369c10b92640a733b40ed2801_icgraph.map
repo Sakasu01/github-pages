@@ -1,0 +1,15 @@
+<map id="RCC_APB1PeriphResetCmd" name="RCC_APB1PeriphResetCmd">
+<area shape="rect" id="node1" title="Forces or releases Low Speed APB (APB1) peripheral reset." alt="" coords="368,208,556,235"/>
+<area shape="rect" id="node2" href="$group___c_a_n___group1.html#ga002b74cd69574a14b17ad445090245cd" title="Deinitializes the CAN peripheral registers to their default reset values." alt="" coords="221,31,310,57"/>
+<area shape="rect" id="node5" href="$group___d_a_c___group1.html#ga1fae225204e1e049d6795319e99ba8bc" title="Deinitializes the DAC peripheral registers to their default reset values." alt="" coords="221,81,310,108"/>
+<area shape="rect" id="node6" href="$group___i2_c___group1.html#ga2ee214364603059ad5d9089f749f5bfd" title="Deinitialize the I2Cx peripheral registers to their default reset values." alt="" coords="225,132,306,159"/>
+<area shape="rect" id="node8" href="$group___p_w_r___group1.html#gad03a0aac7bc3bc3a9fd012f3769a6990" title="Deinitializes the PWR peripheral registers to their default reset values." alt="" coords="219,183,312,209"/>
+<area shape="rect" id="node9" href="$group___s_p_i___group1.html#gabe36880945fa56785283a9c0092124cc" title="De&#45;initialize the SPIx peripheral registers to their default reset values." alt="" coords="211,233,320,260"/>
+<area shape="rect" id="node11" href="$group___t_i_m___group1.html#ga1659cc0ce503ac151568e0c7c02b1ba5" title="Deinitializes the TIMx peripheral registers to their default reset values." alt="" coords="224,284,307,311"/>
+<area shape="rect" id="node12" href="$group___u_s_a_r_t___group1.html#ga2f8e1ce72da21b6539d8e1f299ec3b0d" title="Deinitializes the USARTx peripheral registers to their default reset values." alt="" coords="213,335,318,361"/>
+<area shape="rect" id="node13" href="$group___w_w_d_g___group1.html#ga7130f4dc861b9234b62e73f9f57f89a1" title="Deinitializes the WWDG peripheral registers to their default reset values." alt="" coords="212,385,319,412"/>
+<area shape="rect" id="node3" href="$_f4__can_8c.html#a6cd4299de410846fceec14c62a05d500" title=" " alt="" coords="39,5,129,32"/>
+<area shape="rect" id="node4" href="$class_f4_1_1_c_a_n_method.html#a9fd91bca9925e5a39793630c3b232904" title=" " alt="" coords="5,56,163,83"/>
+<area shape="rect" id="node7" href="$class_f4_1_1_i2_c_method.html#a36e082517bed69d7752140932846b9aa" title="初期化" alt="" coords="9,132,159,159"/>
+<area shape="rect" id="node10" href="$class_f4_1_1_s_p_i_method.html#ab8f5aa8fb4a8d383746f6866d6b8c5cd" title="初期化" alt="" coords="9,233,159,260"/>
+</map>

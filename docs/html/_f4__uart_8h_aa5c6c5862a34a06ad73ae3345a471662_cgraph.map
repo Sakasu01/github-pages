@@ -1,0 +1,10 @@
+<map id="UART_config" name="UART_config">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,103,133"/>
+<area shape="rect" id="node2" href="$_f4___common_macro_8c.html#a13a154eb1030fb7136bf7f58debfeb76" title=" " alt="" coords="159,56,276,83"/>
+<area shape="rect" id="node6" href="$group___g_p_i_o___group3.html#ga0a77617a322562ae84f8d72486032c5d" title="Changes the mapping of the specified pin." alt="" coords="151,107,284,133"/>
+<area shape="rect" id="node7" href="$group___u_s_a_r_t___group1.html#ga98da340ea0324002ba1b4263e91ab2ff" title="Initializes the USARTx peripheral according to the specified parameters in the USART_InitStruct ." alt="" coords="173,157,262,184"/>
+<area shape="rect" id="node3" href="$group___g_p_i_o___group1.html#ga71abf9404261370d03cca449b88d3a65" title="Initializes the GPIOx peripheral according to the specified parameters in the GPIO_InitStruct." alt="" coords="386,5,465,32"/>
+<area shape="rect" id="node4" href="$group___g_p_i_o___group1.html#gab28de41278e7f8c63d0851e2733b10df" title="Fills each GPIO_InitStruct member with its default value." alt="" coords="369,56,482,83"/>
+<area shape="rect" id="node5" href="$group___r_c_c___group3.html#ga80c89116820d48bb38db2e7d5e5a49b9" title="Enables or disables the AHB1 peripheral clock." alt="" coords="332,107,519,133"/>
+<area shape="rect" id="node8" href="$group___r_c_c___group2.html#ga3e9944fd1ed734275222bbb3e3f29993" title="Returns the frequencies of different on chip clocks; SYSCLK, HCLK, PCLK1 and PCLK2." alt="" coords="354,157,497,184"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Eigen::internal::SparseLUImpl::heap_relax_snode" name="Eigen::internal::SparseLUImpl::heap_relax_snode">
+<area shape="rect" id="node1" title="Identify the initial relaxed supernodes." alt="" coords="5,90,200,131"/>
+<area shape="rect" id="node2" href="$namespace_eigen_1_1half__impl.html#a52c8391bfe74901409df09e9b1d5ac79" title=" " alt="" coords="272,5,415,32"/>
+<area shape="rect" id="node3" href="$class_eigen_1_1_plain_object_base.html#ac8dea1df3d92b752cc683ff42abf6f9b" title=" " alt="" coords="263,57,423,98"/>
+<area shape="rect" id="node4" href="$class_eigen_1_1_plain_object_base.html#ac21ad5f989f320e46958b75ac8d9a1da" title=" " alt="" coords="263,122,423,163"/>
+<area shape="rect" id="node5" href="$namespace_eigen_1_1internal.html#ab414b5990bd6c865958a9231ff418d20" title="Post order a tree." alt="" coords="248,188,439,215"/>
+<area shape="rect" id="node6" href="$namespace_eigen_1_1internal.html#acbd726e03f667e0dc788c6b4e92d61ec" title=" " alt="" coords="487,181,611,222"/>
+</map>

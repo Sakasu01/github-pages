@@ -1,0 +1,7 @@
+<map id="Eigen::internal::Assignment&lt; DstXprType, Product&lt; Lhs, Rhs, AliasFreeProduct &gt;, internal::assign_op&lt; typename DstXprType::Scalar, typename Product&lt; Lhs, Rhs, AliasFreeProduct &gt;::Scalar &gt;, Sparse2Dense &gt;::run" name="Eigen::internal::Assignment&lt; DstXprType, Product&lt; Lhs, Rhs, AliasFreeProduct &gt;, internal::assign_op&lt; typename DstXprType::Scalar, typename Product&lt; Lhs, Rhs, AliasFreeProduct &gt;::Scalar &gt;, Sparse2Dense &gt;::run">
+<area shape="rect" id="node1" title=" " alt="" coords="5,37,248,152"/>
+<area shape="rect" id="node2" href="$class_eigen_1_1_product.html#a11f1acf00c3ee7f7dffa59bb13bc5cbf" title=" " alt="" coords="297,5,437,32"/>
+<area shape="rect" id="node3" href="$class_eigen_1_1_product.html#a249b144038beff8ce84721977d9c5e78" title=" " alt="" coords="301,56,434,83"/>
+<area shape="rect" id="node4" href="$class_eigen_1_1_product.html#af32370fec96282e04a8d74882206379b" title=" " alt="" coords="300,107,435,133"/>
+<area shape="rect" id="node5" href="$class_eigen_1_1_product.html#ab115cc82ac3541ea76251e2a413bad68" title=" " alt="" coords="296,157,439,184"/>
+</map>

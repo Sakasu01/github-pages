@@ -1,0 +1,9 @@
+<map id="C:/stm32/workspace/NatsuRobo2022/Sugoroku/lib/STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_dbgmcu.h" name="C:/stm32/workspace/NatsuRobo2022/Sugoroku/lib/STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_dbgmcu.h">
+<area shape="rect" id="node1" title="This file contains all the functions prototypes for the DBGMCU firmware library." alt="" coords="636,5,847,76"/>
+<area shape="rect" id="node2" href="$stm32f4xx__dbgmcu_8c.html" title="This file provides all the DBGMCU firmware functions." alt="" coords="5,124,216,195"/>
+<area shape="rect" id="node3" href="$system__stm32f4xx__hse_8c.html" title=" " alt="" coords="241,131,479,187"/>
+<area shape="rect" id="node4" href="$system__stm32f4xx__hsi_8c.html" title=" " alt="" coords="504,131,739,187"/>
+<area shape="rect" id="node5" href="$system__stm32f4xx__pll__hse_8c.html" title=" " alt="" coords="763,124,963,195"/>
+<area shape="rect" id="node6" href="$system__stm32f4xx__pll__hsi_8c.html" title=" " alt="" coords="987,124,1187,195"/>
+<area shape="rect" id="node7" href="$stm32f4xx__conf_8h.html" title="STM32F4xx Peripherals and Macros Settings. &#160;&#160;Device Dependent Section." alt="" coords="1211,131,1389,187"/>
+</map>

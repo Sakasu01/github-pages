@@ -1,0 +1,4 @@
+<map id="peripheral::TIM::percentage" name="peripheral::TIM::percentage">
+<area shape="rect" id="node1" title="カウンタの割合を取得" alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$classperipheral_1_1_t_i_m.html#a48d7fa948a1508d76c95301721f7208a" title="カウンタ取得" alt="" coords="232,5,391,32"/>
+</map>

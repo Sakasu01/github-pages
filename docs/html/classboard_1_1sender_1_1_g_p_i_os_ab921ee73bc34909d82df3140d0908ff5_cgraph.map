@@ -1,0 +1,3 @@
+<map id="board::sender::GPIOs::setAll" name="board::sender::GPIOs::setAll">
+<area shape="rect" id="node1" title="すべてのLEDの状態を変更する(bool)" alt="" coords="5,29,153,71"/>
+</map>

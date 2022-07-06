@@ -1,0 +1,4 @@
+<map id="GPIO_WriteBit" name="GPIO_WriteBit">
+<area shape="rect" id="node1" title="Sets or clears the selected data port bit." alt="" coords="180,5,288,32"/>
+<area shape="rect" id="node2" href="$_f4___common_macro_8c.html#aecfb4951f0a054c2fadc6b648bffafa8" title=" " alt="" coords="5,5,132,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="board::sender::Solenoid::setGPIOSafety" name="board::sender::Solenoid::setGPIOSafety">
+<area shape="rect" id="node1" title="GPIOのエラー処理(bool)" alt="" coords="5,39,164,80"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_solenoid.html#a0f1bece589977b8359b47ba358ab009a" title="GPIOのエラー処理" alt="" coords="212,39,371,80"/>
+<area shape="rect" id="node3" href="$classboard_1_1_c_a_n_client.html#a7576d9a550dd50bd5b114da97f84eab9" title="パケットの送信" alt="" coords="419,17,617,43"/>
+<area shape="rect" id="node5" href="$classnwp_1_1_binary_data.html#aaa74bad0454dde119164540b68298d4e" title="バイナリ情報を格納" alt="" coords="431,71,605,98"/>
+<area shape="rect" id="node4" href="$classcanprotocol_1_1_provider.html#ac4cd58667d32181c116f78c62aac4974" title="パケットの送信" alt="" coords="666,5,809,47"/>
+<area shape="rect" id="node6" href="$classnwp_1_1_binary_serializer.html#a48258cc196702e891abca284b68c39d7" title=" " alt="" coords="665,71,809,112"/>
+<area shape="rect" id="node7" href="$classnwp_1_1_binary_converter.html#aa316c2756b8aac47283351ca8010f79c" title="変数→バイナリへの変換" alt="" coords="857,71,1001,112"/>
+</map>

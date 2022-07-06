@@ -1,0 +1,30 @@
+<map id="Eigen::internal::call_assignment" name="Eigen::internal::call_assignment">
+<area shape="rect" id="node1" title=" " alt="" coords="905,522,1039,563"/>
+<area shape="rect" id="node2" href="$class_eigen_1_1_plain_object_base.html#ae6ea682fcdd15f8d93913c7b8b88557a" title="Copies the value of the expression other into *this with automatic resizing." alt="" coords="677,49,837,90"/>
+<area shape="rect" id="node8" href="$class_eigen_1_1_array_base.html#a3fc54e548f88415c3582add526b62525" title=" " alt="" coords="661,115,853,141"/>
+<area shape="rect" id="node9" href="$class_eigen_1_1_dense_base.html#a76686ac27572dc5f07b068a9c43aa1b9" title=" " alt="" coords="657,165,856,192"/>
+<area shape="rect" id="node10" href="$class_eigen_1_1_array_base.html#ab4bac4291bfd0da16f768d32398e7752" title=" " alt="" coords="659,216,854,243"/>
+<area shape="rect" id="node11" href="$class_eigen_1_1_dense_base.html#a8fdd498a76ab5e136e3c55b1412cd8c4" title=" " alt="" coords="656,267,857,293"/>
+<area shape="rect" id="node12" href="$class_eigen_1_1_sparse_matrix_base.html#abb933a5c577a6df270333d3382c81b3d" title=" " alt="" coords="671,318,842,359"/>
+<area shape="rect" id="node13" href="$class_eigen_1_1_matrix_base.html#af8c1c2392d6d04b552a478ec3f82c511" title=" " alt="" coords="688,383,825,425"/>
+<area shape="rect" id="node14" href="$class_eigen_1_1_array_base.html#a6648eeebc4a9d407605410a7149f1a93" title=" " alt="" coords="661,449,852,476"/>
+<area shape="rect" id="node15" href="$class_eigen_1_1_dense_base.html#a5ce384b60166efd51356eb738f534144" title=" " alt="" coords="658,500,855,527"/>
+<area shape="rect" id="node16" href="$class_eigen_1_1_sparse_matrix_base.html#a212acb1c602880bdea2732014d29ce3a" title=" " alt="" coords="671,551,842,593"/>
+<area shape="rect" id="node17" href="$class_eigen_1_1_matrix_base.html#ae3955c1440eacc31034a9b0ba61bd055" title=" " alt="" coords="688,617,825,658"/>
+<area shape="rect" id="node18" href="$class_eigen_1_1_array_base.html#a91860c840ac453449c1ac65fc61065f8" title=" " alt="" coords="661,683,852,709"/>
+<area shape="rect" id="node19" href="$class_eigen_1_1_dense_base.html#a7d10c42cfb8809d06310970ae7ae4331" title=" " alt="" coords="658,733,855,760"/>
+<area shape="rect" id="node20" href="$class_eigen_1_1_array_base.html#a41fba70bcd7e7a408da93207922f9616" title=" " alt="" coords="663,784,850,811"/>
+<area shape="rect" id="node21" href="$class_eigen_1_1_dense_base.html#a581a7a353bd007b5352f11688e3bc5fa" title=" " alt="" coords="660,835,853,861"/>
+<area shape="rect" id="node22" href="$class_eigen_1_1_matrix_base.html#a706a4dd1ee54786e9210de1a4bf02600" title=" " alt="" coords="688,886,825,927"/>
+<area shape="rect" id="node23" href="$class_eigen_1_1_dense_base.html#ab420d9d588ac443f5a1b1a7dceb12c90" title=" " alt="" coords="673,952,841,979"/>
+<area shape="rect" id="node28" href="$class_eigen_1_1_triangular_view_impl_3_01___matrix_type_00_01___mode_00_01_dense_01_4.html#a154127e98e3b30d829220c61eb3c12b1" title=" " alt="" coords="658,1003,855,1059"/>
+<area shape="rect" id="node3" href="$class_eigen_1_1_array.html#a4315b21797cd7daadfd84b95253714b1" title=" " alt="" coords="438,5,595,32"/>
+<area shape="rect" id="node4" href="$class_eigen_1_1_matrix.html#a5112d4c541bcd4a27d33734d7044e5f3" title="Assigns matrices to each other." alt="" coords="435,56,598,83"/>
+<area shape="rect" id="node5" href="$class_eigen_1_1_plain_object_base.html#a8b9fead6af283323206409388ae6f0ff" title=" " alt="" coords="437,107,597,149"/>
+<area shape="rect" id="node6" href="$class_eigen_1_1_array.html#a141aa836385af5bd17b49eda1510cbf2" title=" " alt="" coords="217,89,374,116"/>
+<area shape="rect" id="node7" href="$class_eigen_1_1_matrix.html#a781ddaa7c399f2ea5ad2e6b343e61cea" title="Copies the generic expression other into *this." alt="" coords="214,140,377,167"/>
+<area shape="rect" id="node24" href="$struct_eigen_1_1internal_1_1conservative__resize__like__impl.html#af0084305baab7e1026cf70dba792f0b6" title=" " alt="" coords="425,945,608,986"/>
+<area shape="rect" id="node25" href="$class_eigen_1_1_plain_object_base.html#a5e06c62950ba98fe8ba9c7d4be9c19e4" title=" " alt="" coords="215,911,375,953"/>
+<area shape="rect" id="node27" href="$class_eigen_1_1_plain_object_base.html#a7775d274035c4ef541aa0fc9a3ad30a2" title=" " alt="" coords="213,977,377,1018"/>
+<area shape="rect" id="node26" href="$class_eigen_1_1_plain_object_base.html#a528879aef40f9cbc4ab4925e4a6bceb9" title=" " alt="" coords="5,911,165,953"/>
+</map>

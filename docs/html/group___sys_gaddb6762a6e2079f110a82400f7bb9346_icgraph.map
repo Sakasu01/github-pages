@@ -1,0 +1,5 @@
+<map id="controller::resetBoard" name="controller::resetBoard">
+<area shape="rect" id="node1" title="コントローラ基板の初期化命令" alt="" coords="189,46,336,73"/>
+<area shape="rect" id="node2" href="$classcontroller_1_1_mini_con.html#a619bdb30783da93dbf612388b6d55024" title=" " alt="" coords="8,5,139,47"/>
+<area shape="rect" id="node3" href="$classcontroller_1_1_deka_con.html#aece931ea5749a7bd8afbee771285a380" title=" " alt="" coords="5,71,141,112"/>
+</map>

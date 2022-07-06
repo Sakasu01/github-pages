@@ -1,0 +1,11 @@
+<map id="F4::I2CMethod::config" name="F4::I2CMethod::config">
+<area shape="rect" id="node1" title="初期化" alt="" coords="5,132,155,159"/>
+<area shape="rect" id="node2" href="$classperipheral_1_1_g_p_i_o.html#adabd186eefed6b85968283144f255d08" title="ピンの初期化" alt="" coords="211,5,371,32"/>
+<area shape="rect" id="node3" href="$classperipheral_1_1_g_p_i_o.html#aca37ad9398b220c35188bdc575b7f9ff" title="AlternateFunctionの初期化" alt="" coords="203,56,380,83"/>
+<area shape="rect" id="node4" href="$group___i2_c___group1.html#ga7e1323c9133c2cb424dfb5b10b7d2f0b" title="Enables or disables the specified I2C peripheral." alt="" coords="254,107,329,133"/>
+<area shape="rect" id="node5" href="$group___i2_c___group1.html#ga2ee214364603059ad5d9089f749f5bfd" title="Deinitialize the I2Cx peripheral registers to their default reset values." alt="" coords="251,157,332,184"/>
+<area shape="rect" id="node7" href="$group___i2_c___group1.html#gaac29465bca70fbc91c2f922ab67bb88e" title="Initializes the I2Cx peripheral according to the specified parameters in the I2C_InitStruct." alt="" coords="259,208,324,235"/>
+<area shape="rect" id="node9" href="$group___i2_c___group1.html#ga08582aca6d7d7910cd5cbff0d9def350" title="Fills each I2C_InitStruct member with its default value." alt="" coords="241,259,341,285"/>
+<area shape="rect" id="node6" href="$group___r_c_c___group3.html#gab197ae4369c10b92640a733b40ed2801" title="Forces or releases Low Speed APB (APB1) peripheral reset." alt="" coords="428,157,616,184"/>
+<area shape="rect" id="node8" href="$group___r_c_c___group2.html#ga3e9944fd1ed734275222bbb3e3f29993" title="Returns the frequencies of different on chip clocks; SYSCLK, HCLK, PCLK1 and PCLK2." alt="" coords="451,208,593,235"/>
+</map>

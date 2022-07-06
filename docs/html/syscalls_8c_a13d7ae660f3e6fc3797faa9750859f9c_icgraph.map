@@ -1,0 +1,6 @@
+<map id="putch" name="putch">
+<area shape="rect" id="node1" title=" " alt="" coords="120,56,175,83"/>
+<area shape="rect" id="node2" href="$syscalls_8c.html#a0d531d7c15acc964042b675ebddfb08e" title="Input Datas from STDIN with reentrancy. &#160;&#160;&quot;getch()&quot; indicates retarget function. &#160;&#160;See &quot;syscalls_if...." alt="" coords="6,5,71,32"/>
+<area shape="rect" id="node3" href="$syscalls_8c.html#a94941019cc14bd809f4e50711acbe106" title="Dummy OS Function for Newlib." alt="" coords="11,56,67,83"/>
+<area shape="rect" id="node4" href="$syscalls_8c.html#a94fc0a7ee401749a1ce34580c8d7e33b" title="Output Datas to STDOUT with reentrancy. &#160;&#160;&quot;putch(x)&quot; indicates retarget function. &#160;." alt="" coords="5,107,72,133"/>
+</map>

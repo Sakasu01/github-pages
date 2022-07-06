@@ -1,0 +1,11 @@
+<map id="PWR_Private_Functions" name="PWR_Private_Functions">
+<area shape="rect" id="node1" href="$group___p_w_r.html" title="PWR driver modules." alt="" coords="5,191,59,217"/>
+<area shape="rect" id="node9" title=" " alt="" coords="107,191,269,217"/>
+<area shape="rect" id="node2" href="$group___p_w_r___group1.html" title="Backup Domain Access function" alt="" coords="345,5,507,45"/>
+<area shape="rect" id="node3" href="$group___p_w_r___group2.html" title="PVD configuration functions." alt="" coords="335,70,517,95"/>
+<area shape="rect" id="node4" href="$group___p_w_r___group3.html" title="WakeUp pin configuration functions." alt="" coords="341,120,511,160"/>
+<area shape="rect" id="node5" href="$group___p_w_r___group4.html" title="Main and Backup Regulators configuration functions." alt="" coords="331,184,521,224"/>
+<area shape="rect" id="node6" href="$group___p_w_r___group5.html" title="FLASH Power Down configuration functions." alt="" coords="317,248,535,288"/>
+<area shape="rect" id="node7" href="$group___p_w_r___group6.html" title="Low Power modes configuration functions." alt="" coords="323,312,529,352"/>
+<area shape="rect" id="node8" href="$group___p_w_r___group7.html" title="Flags management functions." alt="" coords="331,377,521,402"/>
+</map>

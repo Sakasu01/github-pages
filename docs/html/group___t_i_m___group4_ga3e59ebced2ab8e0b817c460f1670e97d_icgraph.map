@@ -1,0 +1,6 @@
+<map id="TIM_CtrlPWMOutputs" name="TIM_CtrlPWMOutputs">
+<area shape="rect" id="node1" title="Enables or disables the TIM peripheral Main Outputs." alt="" coords="244,71,393,98"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_t_i_m_method.html#a11380b80113598f947e15e588edce9d4" title="アウトプットコンペア初期化" alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node3" href="$_f4___p_w_m_8c.html#aa03825c694ca42c4f0e2efecd8106208" title=" " alt="" coords="49,71,152,98"/>
+<area shape="rect" id="node4" href="$_f4___p_w_m_8c.html#a38574849c9567e29bb22b1fda8c8fb67" title=" " alt="" coords="51,122,151,149"/>
+</map>

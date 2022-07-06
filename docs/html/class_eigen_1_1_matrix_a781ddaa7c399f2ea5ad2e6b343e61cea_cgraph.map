@@ -1,0 +1,6 @@
+<map id="Eigen::Matrix::operator=" name="Eigen::Matrix::operator=">
+<area shape="rect" id="node1" title="Copies the generic expression other into *this." alt="" coords="5,37,168,63"/>
+<area shape="rect" id="node2" href="$class_eigen_1_1_plain_object_base.html#a8b9fead6af283323206409388ae6f0ff" title=" " alt="" coords="216,29,376,71"/>
+<area shape="rect" id="node3" href="$class_eigen_1_1_plain_object_base.html#ae6ea682fcdd15f8d93913c7b8b88557a" title="Copies the value of the expression other into *this with automatic resizing." alt="" coords="424,29,584,71"/>
+<area shape="rect" id="node4" href="$namespace_eigen_1_1internal.html#a77793e4b74b9919e35295c839f2659b2" title=" " alt="" coords="632,29,765,71"/>
+</map>

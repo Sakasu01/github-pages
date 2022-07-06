@@ -1,0 +1,4 @@
+<map id="board::sender::ControllerBoard::setGPIOOperation" name="board::sender::ControllerBoard::setGPIOOperation">
+<area shape="rect" id="node1" title="GPIOのオペレーション設定" alt="" coords="224,5,395,47"/>
+<area shape="rect" id="node2" href="$classboard_1_1sender_1_1_controller_board.html#a6e3b42af0289791ca5a808412da5e1d0" title="GPIOのオペレーション設定" alt="" coords="5,5,176,47"/>
+</map>

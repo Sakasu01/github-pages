@@ -1,0 +1,9 @@
+<map id="Eigen::RotationBase::toRotationMatrix" name="Eigen::RotationBase::toRotationMatrix">
+<area shape="rect" id="node1" title=" " alt="" coords="241,156,383,197"/>
+<area shape="rect" id="node2" href="$class_eigen_1_1_rotation_base.html#a015ba3b47831570ec525f22b79253bbe" title=" " alt="" coords="29,5,170,47"/>
+<area shape="rect" id="node3" href="$class_eigen_1_1_matrix.html#ae714ec2f92b13d808c336faf185e5893" title="Constructs a Dim x Dim rotation matrix from the rotation r." alt="" coords="28,71,171,98"/>
+<area shape="rect" id="node4" href="$class_eigen_1_1_uniform_scaling.html#a763472f8cc44a4ddc2eb4603d59b1269" title=" " alt="" coords="24,123,175,164"/>
+<area shape="rect" id="node5" href="$class_eigen_1_1_rotation_base.html#ad7b31a12a4f8f2584b8937f958bd6ea6" title=" " alt="" coords="29,188,170,229"/>
+<area shape="rect" id="node6" href="$class_eigen_1_1_transform.html#a8e84e9671a245edd2ccd97ae40e09a95" title=" " alt="" coords="5,254,193,281"/>
+<area shape="rect" id="node7" href="$class_eigen_1_1_matrix.html#ae2ab353ef1f4c5a612e59a70a20cc29f" title="Set a Dim x Dim rotation matrix from the rotation r." alt="" coords="18,305,181,331"/>
+</map>

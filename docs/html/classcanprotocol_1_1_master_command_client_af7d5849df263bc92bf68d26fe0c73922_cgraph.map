@@ -1,0 +1,5 @@
+<map id="canprotocol::MasterCommandClient::sendCheckConnected" name="canprotocol::MasterCommandClient::sendCheckConnected">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,201,47"/>
+<area shape="rect" id="node2" href="$classcanprotocol_1_1_client_interface.html#a4ac16c03b04175de14249ffe298457d2" title=" " alt="" coords="249,5,428,47"/>
+<area shape="rect" id="node3" href="$classcanprotocol_1_1_provider.html#ac4cd58667d32181c116f78c62aac4974" title="パケットの送信" alt="" coords="476,5,619,47"/>
+</map>

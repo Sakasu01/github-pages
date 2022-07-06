@@ -1,0 +1,5 @@
+<map id="I2C_Send7bitAddress" name="I2C_Send7bitAddress">
+<area shape="rect" id="node1" title="Transmits the address byte to select the slave device." alt="" coords="471,13,617,39"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_i2_c_method.html#a2275af8e55797044be73fb641d4e0d0d" title="Repeated Start Condition発行" alt="" coords="224,5,423,47"/>
+<area shape="rect" id="node3" href="$class_f4_1_1_i2_c_method.html#ab07dedcf5b719d75a3b29d708cb1ec72" title="Start Condition発行" alt="" coords="5,5,176,47"/>
+</map>

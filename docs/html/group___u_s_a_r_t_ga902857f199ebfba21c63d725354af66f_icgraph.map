@@ -1,0 +1,5 @@
+<map id="USART_DMACmd" name="USART_DMACmd">
+<area shape="rect" id="node1" title="Enables or disables the USART&#39;s DMA interface." alt="" coords="233,46,361,73"/>
+<area shape="rect" id="node2" href="$class_f4_1_1_u_a_r_t_method.html#a49e9ca77444856372d41be2d7081c692" title="RxのDMA転送を開始" alt="" coords="5,5,185,47"/>
+<area shape="rect" id="node3" href="$class_f4_1_1_u_a_r_t_method.html#a208601509af89f4aae2b86c600e1b405" title="TxのDMA転送を開始" alt="" coords="6,71,185,112"/>
+</map>

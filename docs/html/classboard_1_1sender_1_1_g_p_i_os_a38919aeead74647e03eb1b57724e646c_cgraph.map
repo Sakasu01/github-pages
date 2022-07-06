@@ -1,0 +1,10 @@
+<map id="board::sender::GPIOs::config" name="board::sender::GPIOs::config">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,153,76"/>
+<area shape="rect" id="node2" href="$classboard_1_1_c_a_n_client.html#a624cf13a6e6602d343bd59411c07d983" title="返信待ちをする" alt="" coords="201,5,400,47"/>
+<area shape="rect" id="node7" href="$classnwp_1_1_binary_data.html#abc8a0d71548abd3b642f5291c409efb0" title=" " alt="" coords="216,71,385,98"/>
+<area shape="rect" id="node3" href="$classcanprotocol_1_1_provider.html#a2342ec3483125d5b9936440c8269900d" title="パケットを送信し返答を待つ" alt="" coords="448,5,655,47"/>
+<area shape="rect" id="node4" href="$classutil_1_1_elapsed_timer.html#a8185e4ffab40f1dc3cc2fac14e80b421" title="経過時間[us]を取得" alt="" coords="703,5,829,47"/>
+<area shape="rect" id="node5" href="$classutil_1_1_elapsed_timer.html#ad1d10891ffc4170aed69bbed719e64c8" title="経過クロックを取得" alt="" coords="877,5,1005,47"/>
+<area shape="rect" id="node6" href="$delay_8c.html#a0342b3bee1fd47bc3013305a0b8c2661" title="関数を実行した時のカウンタを取得する関数" alt="" coords="1053,13,1165,39"/>
+<area shape="rect" id="node8" href="$classnwp_1_1_binary_data.html#a12ddc0876aadf69975f0c02eabadb58c" title="データのサイズ[byte] toBinaryでのみ変更される" alt="" coords="477,71,626,98"/>
+</map>

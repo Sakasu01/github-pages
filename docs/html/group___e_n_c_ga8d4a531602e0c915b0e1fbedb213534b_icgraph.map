@@ -1,0 +1,4 @@
+<map id="controller::encoder::getSpeed" name="controller::encoder::getSpeed">
+<area shape="rect" id="node1" title="ENCの回転速度を取得" alt="" coords="184,5,313,47"/>
+<area shape="rect" id="node2" href="$classcontroller_1_1_encoder.html#a54134d24e5f2e566ce5f6b2a143f8020" title=" " alt="" coords="5,5,136,47"/>
+</map>

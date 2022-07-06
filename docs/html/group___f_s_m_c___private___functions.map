@@ -1,0 +1,8 @@
+<map id="FSMC_Private_Functions" name="FSMC_Private_Functions">
+<area shape="rect" id="node1" href="$group___f_s_m_c.html" title="FSMC driver modules." alt="" coords="5,95,64,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="112,95,281,121"/>
+<area shape="rect" id="node2" href="$group___f_s_m_c___group1.html" title="NOR/SRAM Controller functions." alt="" coords="349,5,500,45"/>
+<area shape="rect" id="node3" href="$group___f_s_m_c___group2.html" title="NAND Controller functions." alt="" coords="338,70,511,95"/>
+<area shape="rect" id="node4" href="$group___f_s_m_c___group3.html" title="PCCARD Controller functions." alt="" coords="329,119,520,145"/>
+<area shape="rect" id="node5" href="$group___f_s_m_c___group4.html" title="Interrupts and flags management functions." alt="" coords="346,169,503,209"/>
+</map>

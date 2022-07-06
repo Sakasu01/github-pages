@@ -1,0 +1,4 @@
+<map id="TIM_ITRxExternalClockConfig" name="TIM_ITRxExternalClockConfig">
+<area shape="rect" id="node1" title="Configures the TIMx Internal Trigger as External Clock." alt="" coords="5,5,199,32"/>
+<area shape="rect" id="node2" href="$group___t_i_m___group7.html#ga4252583c6ae8a73d6fc66f7e951dbc35" title="Selects the Input Trigger source." alt="" coords="247,5,401,32"/>
+</map>
